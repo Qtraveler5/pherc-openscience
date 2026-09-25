@@ -34,7 +34,7 @@ const PREFERS_REDUCED_MOTION = window.matchMedia('(prefers-reduced-motion: reduc
 async function loadAllData() {
   const promises = THEME_ORDER.map(async (themeId) => {
     try {
-      const res = await fetch(`data/${themeId}.json?v=2`, { cache: 'no-store' });
+      const res = await fetch(`data/${themeId}.json`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const json = await res.json();
       return [themeId, json.texte || []];
