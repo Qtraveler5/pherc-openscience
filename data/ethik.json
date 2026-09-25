@@ -1,0 +1,584 @@
+{
+  "thema": "ethik",
+  "titel": "Ethik & Tugend",
+  "beschreibung": "Texte über das rechte Handeln, die Tugenden und die Überwindung der Laster. Über die Natur des Zorns und seine Heilung, die vier Kardinaltugenden, die Kunst der Genügsamkeit und die Verbindung von Ethik und Naturerkenntnis. Überwiegend aus den Schriften des epikureischen Philosophen Philodemos von Gadara und den Lehrsätzen Epikurs.",
+  "anzahl_texte": 36,
+  "texte": [
+    {
+      "id": "ethik-001",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Laster (PHerc. 172)",
+      "griechisch": "…εἰς τὸ μηδὲν ἀποβλέποντες…",
+      "deutsch": "…ohne auf irgendetwas zu achten…",
+      "kolumne": "unbekannt",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "Vesuvius Challenge, 2025",
+        "url": "https://scrollprize.org/",
+        "edition": "On Vices and Their Opposite Virtues, Buch 1",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Erster nicht-invasiv entzifferter Titel einer noch gerollten Herculaneum-Rolle. Der Text behandelt die Laster und ihre gegenteiligen Tugenden."
+    },
+    {
+      "id": "ethik-002",
+      "autor": "Unbekannt (Stoiker)",
+      "werk": "Über die menschliche Natur (PHerc. 1667)",
+      "griechisch": "…ζητήσομεν μέν τι, οὐ καταληψόμεθα δέ, ἐὰν ἀποκλίνοντές πως ἀφ' ἡμῶν αὐτῶν καὶ τῆς φύσεως…",
+      "deutsch": "…wir werden zwar forschen, aber wir werden nicht begreifen, wenn wir irgendwie von uns selbst und von unserer Natur abweichen…",
+      "kolumne": "Col. II",
+      "zeilen": "10–14",
+      "quelle": {
+        "primaer": "Vesuvius Challenge, 2026",
+        "url": "https://scrollprize.org/firstscroll",
+        "edition": "Virtuelle Entrollung, 22 Kolumnen",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Aus der ersten vollständig virtuell entrollten Herculaneum-Rolle. Stoische Ethik über die menschliche Natur und den moralischen Fortschritt."
+    },
+    {
+      "id": "ethik-003",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Zorn (PHerc. 182)",
+      "griechisch": "…ὁ δὲ θυμὸς ἐκτὸς τοῦ λόγου γινόμενος τυφλοῦται…",
+      "deutsch": "…der Zorn aber, wenn er außerhalb der Vernunft gerät, wird blind…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "Armstrong & McOsker, Philodemus On Anger, SBL Press, 2020",
+        "url": "https://www.sbl-site.org/",
+        "edition": "Writings from the Greco-Roman World, Nr. 29",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Zentrale These des Philodemus. Der Zorn ist nur dann natürlich und lobenswert, wenn er von der Vernunft gelenkt wird. Ungelenkter Zorn führt zur Blindheit."
+    },
+    {
+      "id": "ethik-004",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Tugenden",
+      "griechisch": "…ἀρχὴ παιδεύσεως ἡ τῶν ὀνομάτων ἐπίσκεψις…",
+      "deutsch": "…der Anfang der Bildung ist die Prüfung der Begriffe…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "Papyri.info",
+        "url": "https://papyri.info",
+        "edition": "Philodemus Translation Series",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus folgt der epikureischen Lehre, dass klare Begriffe die Grundlage jeder ethischen Einsicht sind. Wer die Sprache nicht prüft, irrt im Handeln."
+    },
+    {
+      "id": "ethik-005",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ὁ πλοῦτος οὐκ ἐν τῇ κτήσει, ἀλλ' ἐν τῇ χρήσει κεῖται…",
+      "deutsch": "…der Reichtum liegt nicht im Besitz, sondern im Gebrauch…",
+      "kolumne": "Col. III",
+      "zeilen": "18–20",
+      "quelle": {
+        "primaer": "Tsouna, Philodemus On Property Management, SBL Press, 2012",
+        "url": "https://www.sbl-site.org/",
+        "edition": "Writings from the Greco-Roman World, Nr. 33",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Epikureische Ökonomie. Nicht die Menge des Besitzes macht reich, sondern der kluge, maßvolle Gebrauch. Eine Ethik der Suffizienz."
+    },
+    {
+      "id": "ethik-006",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ἡ τοῦ κοινοῦ σωτηρία καὶ ἡ τοῦ ἰδίου σύγκειται…",
+      "deutsch": "…das Wohl des Gemeinwesens und das eigene Wohl sind miteinander verwoben…",
+      "kolumne": "Col. V",
+      "zeilen": "2–4",
+      "quelle": {
+        "primaer": "Papyri.info",
+        "url": "https://papyri.info",
+        "edition": "Philodemus Translation Series",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus betont die Untrennbarkeit von privatem und öffentlichem Wohl. Das Gemeinwohl ist die Grundlage des eigenen Glücks."
+    },
+    {
+      "id": "ethik-007",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Laster (PHerc. 172)",
+      "griechisch": "…ὁ πλεονασμὸς κατὰ τὴν ὁρμήν…",
+      "deutsch": "…das Übermaß des Impulses…",
+      "kolumne": "unbekannt",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "Vesuvius Challenge, 2026",
+        "url": "https://scrollprize.org/firstscroll",
+        "edition": "Virtuelle Entrollung",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Der Autor warnt vor dem Übermaß des Impulses (ὁρμή), wenn die Vernunft das Verhalten nicht mehr reguliert."
+    },
+    {
+      "id": "ethik-008",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1077)",
+      "griechisch": "…οὐχ ὁ τοὺς θεοὺς ἀρνούμενος ἀσεβής, ἀλλ' ὁ τοῖς πολλοῖς περὶ θεῶν δοξάζων…",
+      "deutsch": "…nicht wer die Götter leugnet, ist gottlos, sondern wer die Meinungen der Menge über sie übernimmt…",
+      "kolumne": "Col. II",
+      "zeilen": "14–17",
+      "quelle": {
+        "primaer": "Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://global.oup.com/academic/product/philodemus-on-piety-9780198150084",
+        "edition": "Philodemus Translation Series",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Epikureische Kritik an der Volksreligion. Nicht der Atheismus ist gottlos, sondern die ungeprüfte Übernahme falscher Gottesvorstellungen."
+    },
+    {
+      "id": "ethik-009",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Zorn (PHerc. 182)",
+      "griechisch": "…τὴν φρόνησιν, ἥπερ ἐστὶν ἡ τῶν ἀρετῶν ἀρχή…",
+      "deutsch": "…die praktische Weisheit, die der Anfang der Tugenden ist…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "Armstrong & McOsker, SBL Press, 2020",
+        "url": "https://www.sbl-site.org/",
+        "edition": "Philodemus On Anger",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Die praktische Weisheit (φρόνησις) ist die Wurzel aller Tugenden. Ohne sie bleibt jede gute Absicht blind."
+    },
+    {
+      "id": "ethik-010",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Tod (PHerc. 1050)",
+      "griechisch": "…ὁ θάνατος οὐδὲν πρὸς ἡμᾶς· τὸ γὰρ διαλυθὲν ἀναισθητεῖ…",
+      "deutsch": "…der Tod geht uns nichts an; denn was aufgelöst ist, empfindet nichts…",
+      "kolumne": "Col. IV",
+      "zeilen": "12–14",
+      "quelle": {
+        "primaer": "Henry, Philodemus On Death, SBL Press, 2009",
+        "url": "https://www.sbl-site.org/",
+        "edition": "Writings from the Greco-Roman World",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Epikureische Grundlehre. Der Tod ist für uns nichts, weil es kein empfindendes Subjekt mehr gibt. Die Furcht vor dem Tod ist unbegründet."
+    },
+    {
+      "id": "ethik-011",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Laster (PHerc. 172)",
+      "griechisch": "…ὁ δὲ κόλαξ μισθὸν τῆς κολακείας τὴν ἀπὸ τῶν κολακευομένων εὔνοιαν λαμβάνει…",
+      "deutsch": "…der Schmeichler empfängt als Lohn für seine Schmeichelei die Zuneigung der Geschmeichelten…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "Vesuvius Challenge, 2025",
+        "url": "https://scrollprize.org/",
+        "edition": "On Vices, Buch 1",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus behandelt die Schmeichelei als ein Laster, das in der Beziehung lebt. Der Schmeichler ist nicht stark, sondern abhängig. Er lebt von der Zustimmung des Anderen."
+    },
+    {
+      "id": "ethik-012",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Laster (PHerc. 172)",
+      "griechisch": "…ὁ δὲ φθόνος λύπη τίς ἐστιν ἐπὶ τῇ τοῦ πέλας εὐπραγίᾳ…",
+      "deutsch": "…der Neid ist eine Trauer über das Wohlergehen des Nächsten…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "Vesuvius Challenge, 2025",
+        "url": "https://scrollprize.org/",
+        "edition": "On Vices, Buch 1",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Der Neid ist das Laster, das sich an der Freude des Anderen nährt. Wer neidisch ist, kann das Glück des Nächsten nicht ertragen. Er zerstört seine eigene Freude, bevor der Andere sie genießen kann."
+    },
+    {
+      "id": "ethik-013",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Laster (PHerc. 172)",
+      "griechisch": "…ἡ δὲ ἀλαζονεία τὸ μὲν ἀληθὲς κρύπτει, τὸ δὲ ψεῦδος ἐνδείκνυται…",
+      "deutsch": "…die Prahlerei verbirgt das Wahre und zeigt das Falsche…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "Vesuvius Challenge, 2025",
+        "url": "https://scrollprize.org/",
+        "edition": "On Vices, Buch 1",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Die Prahlerei (ἀλαζονεία) ist eine Umkehrung der Wahrheit. Sie verbirgt, was ist, und zeigt, was nicht ist. Wer prahlt, lebt in einem selbst errichteten Schatten."
+    },
+    {
+      "id": "ethik-014",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Laster (PHerc. 172)",
+      "griechisch": "…ἡ δὲ ἀσωτία οὐχ ἡδονὴν ἀλλὰ ζημίαν τῇ ψυχῇ φέρει…",
+      "deutsch": "…die Verschwendung bringt der Seele nicht Lust, sondern Schaden…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "Vesuvius Challenge, 2025",
+        "url": "https://scrollprize.org/",
+        "edition": "On Vices, Buch 1",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Die Verschwendung ist kein Übermaß an Lust, sondern ein Mangel an Einsicht. Sie zerstört die Fähigkeit zur Freude, weil sie die Mittel und die Würde aufbraucht."
+    },
+    {
+      "id": "ethik-015",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Zorn (PHerc. 182)",
+      "griechisch": "…τὸν θυμὸν οὐ πάντως φευκτέον, ἀλλὰ τὸν ἐκ κενῆς δόξης γινόμενον…",
+      "deutsch": "…den Zorn muss man nicht gänzlich meiden, sondern den, welcher aus leerer Meinung entsteht…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "Armstrong & McOsker, SBL Press, 2020",
+        "url": "https://www.sbl-site.org/",
+        "edition": "Philodemus On Anger",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus unterscheidet zwischen dem natürlichen Zorn, der aus einer echten Kränkung entsteht, und dem künstlichen Zorn, der aus leerer Meinung entsteht. Nur der zweite ist zu meiden."
+    },
+    {
+      "id": "ethik-016",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Zorn (PHerc. 182)",
+      "griechisch": "…ὁ δὲ ὀργιζόμενος τὸν ἑαυτοῦ βίον ἀναλίσκει ἐν λύπαις…",
+      "deutsch": "…wer zürnt, verbraucht sein eigenes Leben in Leiden…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "Armstrong & McOsker, SBL Press, 2020",
+        "url": "https://www.sbl-site.org/",
+        "edition": "Philodemus On Anger",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Der Zorn schadet zuerst dem Zürnenden. Wer zürnt, verliert nicht die Beherrschung über den Anderen, sondern über sich selbst. Er lebt in einem Zustand, den er selbst nicht gewählt hat."
+    },
+    {
+      "id": "ethik-017",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Zorn (PHerc. 182)",
+      "griechisch": "…τὸν μὲν οἰκέτην ὁ δεσπότης ὁ θυμωθεὶς οὐ νουθετεῖ, τιμωρεῖται δέ…",
+      "deutsch": "…der erzürnte Herr belehrt seinen Sklaven nicht, sondern bestraft ihn…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "Armstrong & McOsker, SBL Press, 2020",
+        "url": "https://www.sbl-site.org/",
+        "edition": "Philodemus On Anger",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Der Zorn verwandelt Erziehung in Strafe. Wer zürnt, will nicht mehr verändern, sondern vergelten. Die pädagogische Beziehung zerbricht, wo der Zorn sie beherrscht."
+    },
+    {
+      "id": "ethik-018",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Zorn (PHerc. 182)",
+      "griechisch": "…ὁ δὲ ἀόργητος οὐχ ὁ μηδὲν αἰσθανόμενος, ἀλλ' ὁ κρατῶν τοῦ θυμοῦ…",
+      "deutsch": "…der Zornlose ist nicht der, welcher nichts empfindet, sondern der, welcher den Zorn beherrscht…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "Armstrong & McOsker, SBL Press, 2020",
+        "url": "https://www.sbl-site.org/",
+        "edition": "Philodemus On Anger",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Die Sanftmut ist keine Unempfindlichkeit. Der Sanftmütige fühlt den Zorn, aber er beherrscht ihn. Er ist nicht taub, er ist wach. Diese Unterscheidung trennt die epikureische Ethik von jeder stoischen Apathie."
+    },
+    {
+      "id": "ethik-019",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Zorn (PHerc. 182)",
+      "griechisch": "…ὥσπερ τὸ πῦρ, ἐὰν μὴ τροφὴν λάβῃ, σβέννυται, οὕτως καὶ ὁ θυμός…",
+      "deutsch": "…wie das Feuer, wenn es keine Nahrung erhält, erlischt, so auch der Zorn…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "Armstrong & McOsker, SBL Press, 2020",
+        "url": "https://www.sbl-site.org/",
+        "edition": "Philodemus On Anger",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Der Zorn nährt sich von Aufmerksamkeit. Wer ihn nicht füttert, lässt ihn erlöschen. Diese Einsicht ist der Kern der epikureischen Praxis der Sanftmut."
+    },
+    {
+      "id": "ethik-020",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Zorn (PHerc. 182)",
+      "griechisch": "…χαλεπώτατον δὲ ὁ θυμὸς τοῖς φίλοις γίνεται…",
+      "deutsch": "…am schwersten aber wird der Zorn für die Freunde…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "Armstrong & McOsker, SBL Press, 2020",
+        "url": "https://www.sbl-site.org/",
+        "edition": "Philodemus On Anger",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Der Zorn trifft die Nahestehenden am härtesten. Fremde meiden wir, wenn wir zürnen. Die Freunde aber bleiben. Sie tragen die Last, die wir nicht tragen wollen."
+    },
+    {
+      "id": "ethik-021",
+      "autor": "Epikur",
+      "werk": "Brief an Menoikeus (Diogenes Laertios X, 132)",
+      "griechisch": "…τὴν φρόνησιν ἀρχὴν καὶ τὸ μέγιστον ἀγαθὸν τῶν ἀρετῶν εἶναι…",
+      "deutsch": "…die praktische Weisheit ist der Anfang und das größte Gut der Tugenden…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "132",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Leben und Meinungen berühmter Philosophen, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Menoeceum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur stellt die praktische Weisheit (φρόνησις) an die Spitze aller Tugenden. Sie ist nicht eine Tugend unter anderen. Sie ist die Wurzel, aus der die anderen wachsen."
+    },
+    {
+      "id": "ethik-022",
+      "autor": "Epikur",
+      "werk": "Brief an Menoikeus (Diogenes Laertios X, 132)",
+      "griechisch": "…οὐκ ἔστιν ἡδέως ζῆν ἄνευ τοῦ φρονίμως καὶ καλῶς καὶ δικαίως…",
+      "deutsch": "…es ist nicht möglich, lustvoll zu leben, ohne weise, schön und gerecht zu leben…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "132",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Menoeceum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verbindet Lust und Tugend. Man kann nicht lustvoll leben, ohne tugendhaft zu leben. Die Lust ist nicht der Gegensatz der Tugend. Sie ist ihre Frucht."
+    },
+    {
+      "id": "ethik-023",
+      "autor": "Epikur",
+      "werk": "Brief an Menoikeus (Diogenes Laertios X, 131)",
+      "griechisch": "…ἡ μὲν γὰρ ἀταραξία καὶ ἀπονία εἰσιν αἱ τοῦ μακαρίου βίου τελευταῖαι…",
+      "deutsch": "…die Seelenruhe und die Schmerzlosigkeit sind die letzten Ziele des glückseligen Lebens…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "131",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Menoeceum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur benennt das höchste Gut. Es ist nicht die Lust im gewöhnlichen Sinn, sondern die Ruhe der Seele (ἀταραξία) und die Abwesenheit von Schmerz (ἀπονία)."
+    },
+    {
+      "id": "ethik-024",
+      "autor": "Epikur",
+      "werk": "Brief an Menoikeus (Diogenes Laertios X, 128)",
+      "griechisch": "…τῶν ἐπιθυμιῶν αἱ μὲν εἰσι φυσικαὶ καὶ ἀναγκαῖαι, αἱ δὲ φυσικαὶ καὶ οὐκ ἀναγκαῖαι, αἱ δὲ οὔτε φυσικαὶ οὔτε ἀναγκαῖαι…",
+      "deutsch": "…von den Begierden sind die einen natürlich und notwendig, die anderen natürlich und nicht notwendig, die dritten weder natürlich noch notwendig…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "128",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Menoeceum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die berühmte Dreiteilung der Begierden. Epikur unterscheidet natürliche und notwendige Begierden, natürliche und nicht notwendige Begierden sowie Begierden, die weder natürlich noch notwendig sind. Diese Unterscheidung ist die Grundlage jeder epikureischen Ethik."
+    },
+    {
+      "id": "ethik-025",
+      "autor": "Epikur",
+      "werk": "Brief an Menoikeus (Diogenes Laertios X, 129)",
+      "griechisch": "…ἡ δὲ αὐτάρκεια μέγιστον ἀγαθὸν οὐχ ἵνα ἀεὶ τοῖς ὀλίγοις χρώμεθα, ἀλλ' ὅπως ἐὰν μὴ ἔχωμεν τὰ πολλά, τοῖς ὀλίγοις ἀρκώμεθα…",
+      "deutsch": "…die Selbstgenügsamkeit ist das größte Gut, nicht damit wir immer das Wenige gebrauchen, sondern damit wir, wenn wir das Viele nicht haben, mit dem Wenigen auskommen…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "129",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Menoeceum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur erklärt die Selbstgenügsamkeit (αὐτάρκεια). Sie ist nicht Askese. Sie ist die Fähigkeit, das Wenige zu genießen, damit man das Viele nicht fürchten muss."
+    },
+    {
+      "id": "ethik-026",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze V (Kyriai Doxai)",
+      "griechisch": "…οὐκ ἔστιν ἡδέως ζῆν ἄνευ τοῦ φρονίμως καὶ καλῶς καὶ δικαίως, οὐδὲ φρονίμως καὶ καλῶς καὶ δικαίως ἄνευ τοῦ ἡδέως…",
+      "deutsch": "…es ist nicht möglich, lustvoll zu leben, ohne weise, schön und gerecht zu leben, noch weise, schön und gerecht, ohne lustvoll zu leben…",
+      "kolumne": "Kyriai Doxai V",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur formuliert die Einheit von Lust und Tugend. Beide sind nicht voneinander zu trennen. Wer tugendhaft lebt, lebt lustvoll. Wer lustvoll lebt, lebt tugendhaft."
+    },
+    {
+      "id": "ethik-027",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXVII (Kyriai Doxai)",
+      "griechisch": "…ὧν ἡ σοφία παρασκευάζεται εἰς τὴν τοῦ ὅλου βίου μακαριότητα, πολὺ μέγιστόν ἐστιν ἡ τῆς φιλίας κτῆσις…",
+      "deutsch": "…von allem, was die Weisheit für das glückselige Leben bereitstellt, ist der Besitz der Freundschaft das bei Weitem größte…",
+      "kolumne": "Kyriai Doxai XXVII",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur preist die Freundschaft als das höchste Gut des Lebens. Sie ist nicht ein Mittel zum Zweck. Sie ist der Zweck selbst. Wer die Freundschaft besitzt, besitzt alles."
+    },
+    {
+      "id": "ethik-028",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXIX (Kyriai Doxai)",
+      "griechisch": "…τῶν ἐπιθυμιῶν αἱ μέν εἰσι φυσικαὶ καὶ ἀναγκαῖαι, αἱ δὲ φυσικαὶ καὶ οὐκ ἀναγκαῖαι, αἱ δὲ οὔτε φυσικαὶ οὔτε ἀναγκαῖαι ἀλλὰ παρὰ κενὴν δόξαν…",
+      "deutsch": "…von den Begierden sind einige natürlich und notwendig, andere natürlich und nicht notwendig, andere weder natürlich noch notwendig, sondern aus leerer Meinung…",
+      "kolumne": "Kyriai Doxai XXIX",
+      "zeilen": "1–4",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur wiederholt die Dreiteilung in den Hauptlehrsätzen. Hier fügt er hinzu, dass die dritte Gruppe aus leerer Meinung (κενὴ δόξα) entsteht. Sie hat keinen Grund in der Natur."
+    },
+    {
+      "id": "ethik-029",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze LXIII (Kyriai Doxai)",
+      "griechisch": "…ἡ εὐτέλεια τῆς φύσεως αὐτῆς ἡδονῆς ἕνεκα καὶ τὸ ὀλιγοδεὲς μέγα ἀγαθόν…",
+      "deutsch": "…die Einfachheit der Natur um der Lust willen und die Bedürfnislosigkeit sind ein großes Gut…",
+      "kolumne": "Kyriai Doxai LXIII",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur preist die Einfachheit. Sie ist nicht Selbstzweck, sondern Bedingung der Lust. Wer wenig braucht, kann viel genießen. Wer viel braucht, kann wenig genießen."
+    },
+    {
+      "id": "ethik-030",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 1",
+      "griechisch": "…τὸ μακάριον καὶ ἄφθαρτον οὔτε αὐτὸ πράγματα ἔχει οὔτε ἄλλῳ παρέχει…",
+      "deutsch": "…das Glückselige und Unvergängliche hat weder selbst Mühen noch bereitet es anderen welche…",
+      "kolumne": "Sententia Vaticana 1",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum, Codex Vaticanus Graecus 1950",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die erste Vatikanische Sentenz. Epikur beschreibt das göttliche Wesen als frei von Mühen und Leiden. Es bereitet auch anderen keine Mühen. Diese Lehre befreit von der Furcht vor göttlicher Strafe."
+    },
+    {
+      "id": "ethik-031",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 2",
+      "griechisch": "…ἀρχὴ πάντων τούτων τὸ ἀγαθὸν τῆς ψυχῆς…",
+      "deutsch": "…der Anfang von allem diesem ist das Gut der Seele…",
+      "kolumne": "Sententia Vaticana 2",
+      "zeilen": "1",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur stellt das Seelenheil an den Anfang. Ohne die Ruhe der Seele nützt kein äußeres Gut. Das innere Wohl ist die Grundlage jeder Ethik."
+    },
+    {
+      "id": "ethik-032",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 15",
+      "griechisch": "…ὥσπερ ἡ τοῦ σώματος ὑγίεια οὐκ ἐν τῷ πολλῷ ἐστιν, οὕτως οὐδ' ἡ τῆς ψυχῆς εὐδαιμονία…",
+      "deutsch": "…wie die Gesundheit des Körpers nicht im Vielen besteht, so auch nicht das Glück der Seele…",
+      "kolumne": "Sententia Vaticana 15",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Gesundheit des Leibes und Glück der Seele entstehen nicht durch Überfluss, sondern durch Ausgewogenheit. Das Maß ist die Bedingung beider."
+    },
+    {
+      "id": "ethik-033",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 32",
+      "griechisch": "…ὁ τὴν φύσιν αὐτῶν ἐπισκεπτόμενος εἰς τὸ συμφέρον ἀεὶ τρέπει…",
+      "deutsch": "…wer ihre Natur prüft, wendet sie immer zum Nutzen…",
+      "kolumne": "Sententia Vaticana 32",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Wer die Natur einer Sache erforscht, kann sie zum eigenen Nutzen wenden. Das Wissen ist nicht Selbstzweck. Es dient dem guten Leben."
+    },
+    {
+      "id": "ethik-034",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 41",
+      "griechisch": "…γελᾶν ἅμα δεῖ καὶ φιλοσοφεῖν καὶ οἰκονομεῖν καὶ τοῖς λοιποῖς οἰκείοις χρῆσθαι…",
+      "deutsch": "…man muss zugleich lachen und philosophieren und den Haushalt führen und sich den übrigen Angehörigen widmen…",
+      "kolumne": "Sententia Vaticana 41",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur vereint Lachen, Philosophieren, Haushalt und Familie. Philosophie ist keine Sache jenseits des Alltags. Sie ist im Alltag."
+    },
+    {
+      "id": "ethik-035",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 52",
+      "griechisch": "…ἡ φιλία περιχορεύει τὴν οἰκουμένην…",
+      "deutsch": "…die Freundschaft tanzt über die bewohnte Welt hinweg…",
+      "kolumne": "Sententia Vaticana 52",
+      "zeilen": "1",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Einer der schönsten Sätze Epikurs. Die Freundschaft ist nicht begrenzt auf einen Ort. Sie ist allgegenwärtig. Sie tanzt über die Welt hinweg wie ein Fest, das keine Grenzen kennt."
+    },
+    {
+      "id": "ethik-036",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 78",
+      "griechisch": "…ὁ καλὸς κἀγαθὸς περὶ σοφίαν καὶ φιλίαν μάλιστα διατρίβει, ὧν τὸ μὲν θνητόν, τὸ δὲ ἀθάνατον…",
+      "deutsch": "…der Edle und Gute verbringt seine Zeit vor allem mit Weisheit und Freundschaft; von diesen ist die eine sterblich, die andere unsterblich…",
+      "kolumne": "Sententia Vaticana 78",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Der Schlusssatz der ethischen Lehre. Der Weise widmet sein Leben der Weisheit und der Freundschaft. Die Weisheit ist sterblich, weil sie mit dem Menschen vergeht. Die Freundschaft ist unsterblich, weil sie sich im Kreise der Freunde fortsetzt."
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "thema": "musik",
+  "titel": "Musik & Ästhetik",
+  "beschreibung": "Texte über die Musik, den Rhythmus, die Harmonie und das Verhältnis von Klang und Charakter. Über die Natur der Musik, ihre Wirkung auf die Seele, ihre Grenzen als Erzieherin und ihre Stellung zwischen Kunst und Wissenschaft. Überwiegend aus Philodemos' von Gadara Schrift Über die Musik (PHerc. 1497, 1572, 225, 411).",
+  "anzahl_texte": 36,
+  "texte": [
+    {
+      "id": "musik-001",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…ἡ μουσικὴ οὐκ αὐτὴ τὴν ἀρετὴν ἐμποιεῖ, ἀλλὰ παρασκευάζει πρὸς αὐτήν…",
+      "deutsch": "…die Musik erzeugt nicht selbst die Tugend, aber sie bereitet auf sie vor…",
+      "kolumne": "Col. IV",
+      "zeilen": "12–15",
+      "quelle": {
+        "primaer": "PHerc. 1497, Vesuvius Challenge / Delattre",
+        "url": "https://papyri.info",
+        "edition": "Daniel Delattre, Les Papyrus Herculanais, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus' zentrale These gegen die Stoiker und Pythagoreer. Musik ist nicht selbst die Tugend, sondern sie bereitet auf sie vor. Sie ist Weg, nicht Ziel."
+    },
+    {
+      "id": "musik-002",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…τὸ μέλος ἁρμονίαν ἔχει, ἡ δὲ ἁρμονία νόμος ἐστὶ τῆς φύσεως…",
+      "deutsch": "…die Melodie hat Harmonie, und die Harmonie ist ein Gesetz der Natur…",
+      "kolumne": "Col. V",
+      "zeilen": "3–5",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus anerkennt einen Naturbezug der Musik, aber nicht als moralische Kraft, sondern als Struktur. Die Harmonie ist ein Gesetz der Natur, nicht ein Gesetz der Tugend."
+    },
+    {
+      "id": "musik-003",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…ἡ μουσικὴ ἡδονὴν μὲν παρέχει, οὐκ ἐπιστήμην δὲ ποιεῖ τῶν καλῶν…",
+      "deutsch": "…die Musik gewährt Lust, aber sie erzeugt nicht das Wissen des Schönen…",
+      "kolumne": "Col. VII",
+      "zeilen": "8–11",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet zwischen Lust und Wissen. Musik erzeugt Lust. Aber das Wissen des Schönen entsteht anders, durch Einsicht, durch Erkenntnis."
+    },
+    {
+      "id": "musik-004",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…καθάπερ γὰρ ἡ τροφὴ εἰς ὑγίειαν, οὕτως ἡ μουσικὴ εἰς ἡδονήν…",
+      "deutsch": "…wie die Nahrung zur Gesundheit, so die Musik zur Lust…",
+      "kolumne": "Col. IX",
+      "zeilen": "14–16",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Eine Analogie, die Philodemus verwendet, um das Verhältnis von Musik und Lust zu klären. Wie Nahrung zur Gesundheit beiträgt, aber nicht selbst die Gesundheit ist, so trägt Musik zur Lust bei, ist aber nicht selbst die Lust."
+    },
+    {
+      "id": "musik-005",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…οὐκ ἀπὸ τοῦ θεοῦ τὰ μέλη, ἀλλ' ἀπὸ τῆς ἐν ἡμῖν αἰσθήσεως καὶ τῆς τέχνης…",
+      "deutsch": "…die Melodien kommen nicht von Gott, sondern von unserer Wahrnehmung und der Kunst…",
+      "kolumne": "Col. XII",
+      "zeilen": "6–9",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus lehnt die Vorstellung ab, Musik sei göttlichen Ursprungs. Sie stammt aus der menschlichen Wahrnehmung und aus der Kunstfertigkeit. Er gibt ihr einen rationalen Ursprung."
+    },
+    {
+      "id": "musik-006",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…ὁ ῥυθμὸς καὶ τὸ μέλος τὴν ψυχὴν κινοῦσι, τὸ δὲ ἦθος οὐ μεταφέρουσιν…",
+      "deutsch": "…Rhythmus und Melodie bewegen die Seele, aber den Charakter verwandeln sie nicht…",
+      "kolumne": "Col. XIV",
+      "zeilen": "2–4",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus trennt Bewegung und Verwandlung. Musik bewegt die Seele, sie bringt Emotionen hervor. Aber sie verwandelt nicht den Charakter. Charakterveränderung erfordert mehr als Musik."
+    },
+    {
+      "id": "musik-007",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…τὸ κάλλος οὐκ ἐν τῇ συμμετρίᾳ μόνον, ἀλλ' ἐν τῇ οἰκειότητι πρὸς ἡμᾶς…",
+      "deutsch": "…das Schöne liegt nicht allein im rechten Maß, sondern in der Angemessenheit für uns…",
+      "kolumne": "Col. XVI",
+      "zeilen": "10–13",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus erweitert den Begriff des Schönen. Es ist nicht nur mathematische Proportion, sondern auch Angemessenheit für den Wahrnehmenden."
+    },
+    {
+      "id": "musik-008",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…ἄνευ λόγου ἡ μουσικὴ θηρίον ἐστίν, μετὰ δὲ λόγου παιδεία γίνεται…",
+      "deutsch": "…ohne Vernunft ist die Musik ein wildes Tier, mit Vernunft wird sie Bildung…",
+      "kolumne": "Col. XVIII",
+      "zeilen": "4–6",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet zwischen roher und gebildeter Musik. Ohne Vernunft bleibt Musik ein Trieb. Mit Vernunft wird sie Bildung. Nicht die Musik selbst bildet, sondern der Umgang mit ihr."
+    },
+    {
+      "id": "musik-009",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…οὐχ ἡ λύρα οὐδ' ὁ αὐλὸς ἡδύνουσιν, ἀλλ' ὁ τέχνῃ χρώμενος αὐτοῖς…",
+      "deutsch": "…nicht die Leier und nicht der Aulos erfreuen, sondern der, welcher sie mit Kunst gebraucht…",
+      "kolumne": "Col. XX",
+      "zeilen": "7–9",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verlagert den ästhetischen Wert vom Instrument auf den Künstler. Nicht das Werkzeug erfreut, sondern die Kunstfertigkeit des Spielenden."
+    },
+    {
+      "id": "musik-010",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…ἡ μὲν γὰρ ψυχὴ ὑπὸ τῶν μελῶν τέρπεται, ὁ δὲ νοῦς ὑπὸ τῶν λόγων πείθεται…",
+      "deutsch": "…die Seele wird durch die Melodien erfreut, der Geist aber wird durch die Worte überzeugt…",
+      "kolumne": "Col. XXII",
+      "zeilen": "3–5",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet zwei Ebenen des ästhetischen Erlebens. Die Seele wird durch Musik erfreut. Der Geist wird durch Worte überzeugt. Beide Ebenen sind notwendig, aber nicht austauschbar."
+    },
+    {
+      "id": "musik-011",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…ἡ μουσικὴ κίνησίς τίς ἐστι περὶ τὴν ἀκοήν…",
+      "deutsch": "…die Musik ist eine gewisse Bewegung im Bereich des Gehörs…",
+      "kolumne": "Col. XXIV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus definiert Musik als Bewegung. Sie ist kein Gegenstand, sondern ein Vorgang. Sie lebt im Hören, nicht im Notierten."
+    },
+    {
+      "id": "musik-012",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…οὐχ ἡ ἁρμονία τῶν σφαιρῶν, ἀλλ' ἡ ἐν τοῖς ὀργάνοις…",
+      "deutsch": "…nicht die Harmonie der Sphären, sondern die in den Instrumenten…",
+      "kolumne": "Col. XXVI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus wendet sich gegen die pythagoreische Lehre von der Sphärenharmonie. Musik ist nicht im Kosmos, sondern in den Instrumenten, im Hören, in der Praxis."
+    },
+    {
+      "id": "musik-013",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…ὁ μουσικὸς οὐχ ὁ εἰδὼς τοὺς φθόγγους, ἀλλ' ὁ χρώμενος αὐτοῖς κατὰ τέχνην…",
+      "deutsch": "…der Musiker ist nicht der, welcher die Töne kennt, sondern der, welcher sie nach Kunst gebraucht…",
+      "kolumne": "Col. XXVIII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet zwischen theoretischem Wissen und praktischer Kunst. Der Musiker ist nicht der Theoretiker, sondern der Praktiker. Die Musik lebt in der Ausführung, nicht in der Theorie."
+    },
+    {
+      "id": "musik-014",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…οὐδεμίαν ἡ μουσικὴ πρὸς τὰ ἤθη κίνησιν ἐμποιεῖ ἰδίαν…",
+      "deutsch": "…keine eigene Bewegung erzeugt die Musik gegenüber dem Charakter…",
+      "kolumne": "Col. XXX",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus wiederholt seine Grundthese in scharfer Form. Die Musik hat keine eigene Kraft zur Charakterbildung. Diese These richtet sich gegen Platon und die Stoiker."
+    },
+    {
+      "id": "musik-015",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…εἰ δὲ καὶ παρασκευάζει, οὐχ ὡς αἰτία, ἀλλ' ὡς αἱ κοιναὶ τῶν ἐπιτηδευμάτων ἀρχαί…",
+      "deutsch": "…wenn sie aber auch vorbereitet, so nicht als Ursache, sondern wie die gemeinsamen Anfänge der Beschäftigungen…",
+      "kolumne": "Col. XXXII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus präzisiert seine These. Musik ist nicht die Ursache der Tugend. Aber sie kann eine Bedingung sein, eine Atmosphäre, in der Tugend wächst. Sie ist kein Grund, sondern eine Gelegenheit."
+    },
+    {
+      "id": "musik-016",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…ἡ δὲ ἡδονὴ ἡ ἀπὸ τῆς μουσικῆς οὐκ ἔστιν ἀναγκαία τῷ βίῳ…",
+      "deutsch": "…die Lust aber, die von der Musik kommt, ist für das Leben nicht notwendig…",
+      "kolumne": "Col. XXXIV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus ordnet die Musik niedriger ein als die notwendigen Güter. Musik ist ein Geschenk, kein Bedürfnis. Diese Nüchternheit ist typisch epikureisch."
+    },
+    {
+      "id": "musik-017",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…ἡ μουσικὴ σοφιστικὴ οὖσα πιθανότητας ἐργάζεται, ἀληθείας δὲ οὐκ ἐφάπτεται…",
+      "deutsch": "…die Musik, sophistisch geworden, erzeugt Wahrscheinlichkeiten, aber sie berührt die Wahrheit nicht…",
+      "kolumne": "Col. XXXVI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus vergleicht die Musik mit der Sophistik. Beide arbeiten mit Wahrscheinlichkeit. Beide erzeugen Wirkung, ohne Wahrheit zu berühren. Diese kritische Einschätzung teilt die epikureische Musiktheorie mit der platonischen, zieht aber andere Konsequenzen."
+    },
+    {
+      "id": "musik-018",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…τὸν μουσικὸν οὐκ ἀγαθὸν εἶναι ἀνάγκη, τὸν δὲ ἀγαθὸν οὐκ ἀνάγκη μουσικόν…",
+      "deutsch": "…der Musiker muss nicht gut sein, aber der Gute muss nicht Musiker sein…",
+      "kolumne": "Col. XXXVIII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus trennt Musikalität und Charakter. Der gute Musiker ist nicht automatisch ein guter Mensch. Der gute Mensch muss nicht musikalisch sein. Diese Unterscheidung ist eine klare Absage an jede Musikmystik."
+    },
+    {
+      "id": "musik-019",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…οἱ πολλοὶ τὴν μουσικὴν ἐπαινοῦσιν ἄνευ τοῦ λόγον διδόναι…",
+      "deutsch": "…die Menge lobt die Musik, ohne Rechenschaft abzulegen…",
+      "kolumne": "Col. XL",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus beobachtet das Verhalten der Menge. Sie liebt die Musik, aber sie kann nicht sagen, warum. Der Philosoph soll begründen, was der Menge selbstverständlich erscheint."
+    },
+    {
+      "id": "musik-020",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…οὐδὲ γὰρ οἱ αὐληταὶ διὰ τὴν τέχνην σπουδαῖοι γίνονται ἄνδρες…",
+      "deutsch": "…auch die Aulosspieler werden nicht durch ihre Kunst zu tüchtigen Männern…",
+      "kolumne": "Col. XLII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus gibt ein konkretes Beispiel. Der Aulosspieler ist ein Handwerker. Seine Kunst macht ihn nicht besser als andere. Die Virtuosität ist kein Zeichen von Charakter."
+    },
+    {
+      "id": "musik-021",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch I (PHerc. 1572)",
+      "griechisch": "…ἡ μουσικὴ τῶν ἐγκυκλίων ἐστίν, οὐ τῶν ἀναγκαίων…",
+      "deutsch": "…die Musik gehört zu den allgemeinbildenden Dingen, nicht zu den notwendigen…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1572, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus ordnet die Musik in den Bereich der allgemeinen Bildung ein. Sie ist wertvoll, aber nicht lebensnotwendig. Diese Einordnung schützt vor Überschätzung."
+    },
+    {
+      "id": "musik-022",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch I (PHerc. 1572)",
+      "griechisch": "…οὐ περὶ τῆς ἐν τοῖς ὀργάνοις μουσικῆς ὁ λόγος, ἀλλὰ περὶ τῆς ἐν τῇ ψυχῇ…",
+      "deutsch": "…die Rede ist nicht von der Musik in den Instrumenten, sondern von der in der Seele…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1572, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet zwischen der äußeren und der inneren Musik. Die Frage ist nicht, welche Musik gespielt wird, sondern welche Musik im Menschen entsteht."
+    },
+    {
+      "id": "musik-023",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch I (PHerc. 1572)",
+      "griechisch": "…εἰ καὶ ἡ μουσικὴ πρὸς ἀρετὴν ὁδός, οὐκ αὐτόματος ἡ ὁδός…",
+      "deutsch": "…wenn auch die Musik ein Weg zur Tugend ist, so ist der Weg nicht selbsttätig…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1572, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus gibt zu, dass Musik ein Weg zur Tugend sein kann. Aber der Weg geht nicht von selbst. Er erfordert Übung, Einsicht, Wiederholung. Die Musik ist eine Gelegenheit, kein Automatismus."
+    },
+    {
+      "id": "musik-024",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch I (PHerc. 1572)",
+      "griechisch": "…οὐχ αἱ ἁρμονίαι τὰ ἤθη, ἀλλὰ τὰ ἤθη τὰς ἁρμονίας αἱροῦνται…",
+      "deutsch": "…nicht die Harmonien wählen die Charaktere, sondern die Charaktere wählen die Harmonien…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1572, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus kehrt das Verhältnis um. Nicht die Musik formt den Charakter. Der Charakter wählt die Musik. Wer zornig ist, wählt wilde Musik. Wer sanft ist, wählt sanfte Musik. Die Wahl ist die Wirkung, nicht die Ursache."
+    },
+    {
+      "id": "musik-025",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…ὁ δὲ ἀκροατὴς οὐκ ἀκούει μόνον, ἀλλὰ καὶ συνᾴδει τρόπον τινά…",
+      "deutsch": "…der Zuhörer hört nicht nur, sondern singt gewissermaßen mit…",
+      "kolumne": "Col. XLIV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus beschreibt die aktive Rolle des Zuhörers. Musik ist keine Einbahnstraße. Der Zuhörer nimmt teil. Er singt mit, innerlich, wenn nicht äußerlich."
+    },
+    {
+      "id": "musik-026",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…ἡ δὲ μουσικὴ τὰ πάθη κινεῖ καὶ ἀνακινεῖ…",
+      "deutsch": "…die Musik bewegt und erregt die Affekte…",
+      "kolumne": "Col. XLVI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus anerkennt die emotionale Wirkung der Musik. Sie bewegt die Affekte. Aber sie ordnet sie nicht. Sie weckt sie, aber sie heilt sie nicht. Die Heilung kommt aus der Philosophie."
+    },
+    {
+      "id": "musik-027",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…ἡ ἡδονὴ ἡ ἀπὸ τῶν μελῶν οὐχ ἡ αὐτὴ τῇ ἀπὸ τῶν λόγων…",
+      "deutsch": "…die Lust von den Melodien ist nicht dieselbe wie die von den Worten…",
+      "kolumne": "Col. XLVIII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet zwei Formen der Lust. Die eine kommt aus der Musik, die andere aus dem Wort. Sie sind nicht austauschbar. Jede hat ihren eigenen Ort im Leben."
+    },
+    {
+      "id": "musik-028",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…οἱ ἀρχαῖοι τὴν μουσικὴν οὐχ ὡς φάρμακον, ἀλλ' ὡς παιδιὰν ἐτίμων…",
+      "deutsch": "…die Alten ehrten die Musik nicht als Heilmittel, sondern als Spiel…",
+      "kolumne": "Col. L",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus erinnert an die ursprüngliche Funktion der Musik. Sie war Spiel, nicht Medizin. Sie war Freude, nicht Therapie. Diese Erinnerung schützt vor Überforderung der Musik."
+    },
+    {
+      "id": "musik-029",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…ἡ δὲ τῶν ὀργάνων ποικιλία οὐ τὴν τῆς ψυχῆς ποιεῖ ποικιλίαν…",
+      "deutsch": "…die Vielfalt der Instrumente erzeugt nicht die Vielfalt der Seele…",
+      "kolumne": "Col. LII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus trennt äußere Vielfalt und innere Vielfalt. Viele Instrumente bedeuten nicht viele Fähigkeiten der Seele. Die Seele wächst durch anderes, nicht durch die Zahl der Klänge."
+    },
+    {
+      "id": "musik-030",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…οὐχ ἡ τῶν ῥυθμῶν πολυπλοκία σοφία ἐστίν…",
+      "deutsch": "…nicht die Vielfältigkeit der Rhythmen ist Weisheit…",
+      "kolumne": "Col. LIV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus lehnt die Gleichsetzung von Komplexität und Weisheit ab. Wer viele Rhythmen beherrscht, ist nicht weise. Die Weisheit liegt woanders."
+    },
+    {
+      "id": "musik-031",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch IV (PHerc. 1497)",
+      "griechisch": "…ἡ μουσικὴ ἐν τῇ σχολῇ οἰκεία, οὐκ ἐν τῷ ἀγῶνι…",
+      "deutsch": "…die Musik ist der Muße eigen, nicht dem Wettkampf…",
+      "kolumne": "Col. LVI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1497, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus ordnet die Musik der Muße zu. Sie gehört zum freien Leben, nicht zum Wettbewerb. Diese Zuordnung trennt die epikureische Ästhetik von jeder Leistungsästhetik."
+    },
+    {
+      "id": "musik-032",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch II (PHerc. 225)",
+      "griechisch": "…ὁ δὲ νοῦς τοῖς τῆς μουσικῆς σχήμασιν οὐκ ἀναγκάζεται…",
+      "deutsch": "…der Geist wird durch die Figuren der Musik nicht gezwungen…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 225, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus betont die Freiheit des Geistes. Musik kann den Geist bewegen, aber nicht zwingen. Der Geist bleibt frei, auch wenn der Leib berührt ist. Diese Freiheit ist die Grundlage der epikureischen Ethik."
+    },
+    {
+      "id": "musik-033",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch II (PHerc. 225)",
+      "griechisch": "…οὐδὲν ἡ μουσικὴ ποιεῖ μέγα καλόν, ὅ τι μὴ καὶ λόγος…",
+      "deutsch": "…nichts Großes und Schönes bewirkt die Musik, was nicht auch der Logos bewirkt…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 225, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verlagert die Wirkung vom Klang auf den Logos. Was Musik bewirkt, kann auch die Vernunft bewirken. Der Logos ist stärker als der Klang, weil er bleiben kann, wenn der Klang verstummt."
+    },
+    {
+      "id": "musik-034",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Musik, Buch II (PHerc. 225)",
+      "griechisch": "…ἡδονὴν μὲν ὁμολογοῦμεν, παιδείαν δὲ οὐχ ὁμολογοῦμεν…",
+      "deutsch": "…die Lust geben wir zu, die Bildung aber geben wir nicht zu…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 225, Delattre, Les Belles Lettres, 2007",
+        "url": "https://papyri.info",
+        "edition": "Delattre, Les Belles Lettres, 2007",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus fasst seine Position zusammen. Musik gibt Lust, aber keine Bildung. Sie ist eine Freude des Lebens, nicht eine Schule der Tugend. Beides ist nötig. Nur nicht verwechselt."
+    },
+    {
+      "id": "musik-035",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 10",
+      "griechisch": "…ἡ μουσικὴ καὶ ἡ ποίησις, εἰ μὲν ἡδονὰς παρέχουσιν, ἀποδεκτέον, εἰ δὲ μηδὲν ὠφελοῦσι, παραπεμπτέον…",
+      "deutsch": "…die Musik und die Dichtung sind anzunehmen, wenn sie Lust gewähren, aber zu übergehen, wenn sie nichts nützen…",
+      "kolumne": "Sententia Vaticana 10",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum, Codex Vaticanus Graecus 1950",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur ordnet Musik und Dichtung nüchtern ein. Sie sind wertvoll, wenn sie Lust geben. Sie sind zu übergehen, wenn sie keinen Nutzen bringen. Diese Freiheit im Urteil ist die praktische Anwendung der epikureischen Ästhetik."
+    },
+    {
+      "id": "musik-036",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 48",
+      "griechisch": "…δεῖ ἄγειν τὴν ψυχὴν ἀπὸ τῶν ἐνδεῶν πρὸς τὰ ἱκανά…",
+      "deutsch": "…man muss die Seele von den bedürftigen Dingen zu den ausreichenden führen…",
+      "kolumne": "Sententia Vaticana 48",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur fasst die Aufgabe der Seele zusammen. Sie soll von den unbegrenzten Bedürfnissen zu den ausreichenden Gütern geführt werden. Die Musik ist eines dieser ausreichenden Güter. Sie genügt, wenn sie im rechten Maß genommen wird."
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "thema": "goetter",
+  "titel": "Götter & Religion",
+  "beschreibung": "Texte über das Wesen der Götter, die Kritik an der Volksreligion, die Furcht vor göttlicher Strafe, den Wert des Gebets, die Rolle der Mythen und die epikureische Auffassung eines frommen Lebens ohne Aberglauben. Über die natürliche Gotteserkenntnis, die Bilder der Götter und die Ruhe der wahren Frömmigkeit. Überwiegend aus Epikurs Briefen, den Hauptlehrsätzen, den Vatikanischen Sprüchen und Philodemos' Schrift Über die Frömmigkeit (PHerc. 1077, PHerc. 1098).",
+  "anzahl_texte": 36,
+  "texte": [
+    {
+      "id": "goetter-001",
+      "autor": "Epikur",
+      "werk": "Brief an Menoikeus (Diogenes Laertios X, 123)",
+      "griechisch": "…πρῶτον μὲν τὸν θεὸν ζῷον ἄφθαρτον καὶ μακάριον νομίζων, ὡς ἡ κοινὴ τοῦ θεοῦ νόησις ὑπεγράφη, μηθὲν μήτε ἀφθαρσίας μήτε μακαριότητος ἀνοίκειον ἐπιφέρειν…",
+      "deutsch": "…zunächst halte den Gott für ein unvergängliches und glückseliges Wesen, wie es die allgemeine Vorstellung von Gott umschreibt, und schreibe ihm nichts zu, was mit der Unvergänglichkeit oder der Glückseligkeit unvereinbar ist…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "123",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Leben und Meinungen berühmter Philosophen, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Menoeceum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikurs Grundprinzip der Theologie. Die Götter sind glückselig und unvergänglich. Ihnen etwas zuzuschreiben, was mit diesen Eigenschaften unvereinbar ist, heißt, die Götter zu leugnen."
+    },
+    {
+      "id": "goetter-002",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 77)",
+      "griechisch": "…ἀλλὰ μὴν καὶ θεοί εἰσιν· ἐναργὴς γὰρ αὐτῶν ἐστιν ἡ γνῶσις…",
+      "deutsch": "…aber freilich gibt es auch Götter; denn deutlich ist ihre Erkenntnis…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "77",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur bekennt sich ausdrücklich zur Existenz der Götter. Die Erkenntnis ihrer Existenz stammt aus der Prolepsis, der natürlichen Vorstellung."
+    },
+    {
+      "id": "goetter-003",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 77)",
+      "griechisch": "…οὐ γάρ τοι ἀνθρωπόμορφοι οὐδὲ ἀνθρωποπαθεῖς εἰσιν οἱ θεοί…",
+      "deutsch": "…denn die Götter haben weder menschliche Gestalt noch menschliche Leidenschaften…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "77",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur lehnt die anthropomorphe Gottesvorstellung ab. Die Götter zürnen nicht, sie belohnen nicht, sie strafen nicht. Wer die Götter mit menschlichen Leidenschaften ausstattet, verkleinert sie."
+    },
+    {
+      "id": "goetter-004",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze I (Kyriai Doxai)",
+      "griechisch": "…τὸ μακάριον καὶ ἄφθαρτον οὔτε αὐτὸ πράγματα ἔχει οὔτε ἄλλῳ παρέχει, ὥστε οὔτε ὀργαῖς οὔτε χάρισι συνέχεται…",
+      "deutsch": "…das Glückselige und Unvergängliche hat weder selbst Mühen noch bereitet es anderen welche, so dass es weder von Zorn noch von Gnade berührt wird…",
+      "kolumne": "Kyriai Doxai I",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X, Hauptlehrsätze",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Der erste und wichtigste Hauptlehrsatz. Die Götter sind nicht in menschliche Angelegenheiten verstrickt. Diese Lehre befreit von der Furcht vor göttlicher Rache."
+    },
+    {
+      "id": "goetter-005",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 65",
+      "griechisch": "…ἄτοπον τὸ τοὺς θεοὺς μὲν αἰτεῖσθαι ἅ τις ἑαυτῷ δοῦναι δύναται…",
+      "deutsch": "…es ist widersinnig, von den Göttern zu erbitten, was man sich selbst geben kann…",
+      "kolumne": "Sententia Vaticana 65",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum, Codex Vaticanus Graecus 1950",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur kritisiert das Bittgebet. Wer die Götter um etwas bittet, was in seiner eigenen Macht steht, missversteht sowohl die Götter als auch sich selbst."
+    },
+    {
+      "id": "goetter-006",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 38",
+      "griechisch": "…οὐχ ὁ τοὺς θεοὺς ἀρνούμενος ἀσεβής, ἀλλ' ὁ τοῖς πολλοῖς περὶ θεῶν δοξάζων…",
+      "deutsch": "…nicht wer die Götter leugnet, ist gottlos, sondern wer die Meinungen der Menge über sie übernimmt…",
+      "kolumne": "Sententia Vaticana 38",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die kühnste Formulierung der epikureischen Religionskritik. Nicht der Atheismus ist Gottlosigkeit, sondern die ungeprüfte Übernahme der volkstümlichen Gottesbilder."
+    },
+    {
+      "id": "goetter-007",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1077)",
+      "griechisch": "…τῶν δὲ πολλῶν καὶ ἀσεβέστατον εἶναι τὸν τὰ περὶ θεῶν μυθικῶς λέγοντα…",
+      "deutsch": "…von den Vielen und Gottlosesten aber ist der am gottlosesten, der über die Götter in Mythen spricht…",
+      "kolumne": "Col. I",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1077, Vesuvius Challenge / Obbink",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety, Part 1, Oxford, 1996",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus greift die mythische Theologie an. Die Mythen über die Götter sind nicht harmlose Dichtung. Sie verbreiten ein falsches Bild."
+    },
+    {
+      "id": "goetter-008",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1098)",
+      "griechisch": "…εὐσέβεια δέ ἐστι τὸ μήτε ταράττειν τοὺς θεοὺς μήτε ταράττεσθαι ὑπ' αὐτῶν…",
+      "deutsch": "…Frömmigkeit aber ist dies, weder die Götter zu beunruhigen noch von ihnen beunruhigt zu werden…",
+      "kolumne": "Col. III",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1098, Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus definiert Frömmigkeit als eine doppelte Freiheit. Der Fromme beunruhigt die Götter nicht durch falsche Bitten. Und er lässt sich von ihnen nicht beunruhigen."
+    },
+    {
+      "id": "goetter-009",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1077)",
+      "griechisch": "…ὁ δὲ φόβος ὁ περὶ τῶν μετὰ τὸν θάνατον μάταιος, ὥσπερ καὶ ὁ περὶ τῶν ἐν τῷ ζῆν τιμωριῶν…",
+      "deutsch": "…die Furcht vor dem, was nach dem Tod kommt, ist ebenso leer wie die Furcht vor Strafen im Leben…",
+      "kolumne": "Col. VII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1077, Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verbindet die Religionskritik mit der Todesphilosophie. Die Furcht vor göttlicher Strafe nach dem Tod ist leer."
+    },
+    {
+      "id": "goetter-010",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1098)",
+      "griechisch": "…οἱ δὲ θεοὶ δι' εἰδώλων τινῶν αὐτοῖς ἐμφαινομένων θεωροῦνται ὑπὸ τῶν σοφῶν…",
+      "deutsch": "…die Götter aber werden durch gewisse Bilder, die in uns erscheinen, von den Weisen geschaut…",
+      "kolumne": "Col. IX",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1098, Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Die epikureische Gotteserkenntnis beruht auf Bildern (eidola). Diese feinen Atomfilme lösen sich von den Göttern und gelangen zu uns."
+    },
+    {
+      "id": "goetter-011",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 76)",
+      "griechisch": "…ἀθάνατοι καὶ μακάριοι κατὰ τὴν τοῦ θείου νόησιν…",
+      "deutsch": "…unsterblich und glückselig gemäß der Vorstellung vom Göttlichen…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "76",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur fasst die beiden Wesensmerkmale der Götter zusammen. Sie sind unsterblich und glückselig. Alles andere ist Hinzufügung der Menschen."
+    },
+    {
+      "id": "goetter-012",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 78)",
+      "griechisch": "…τὰ δὲ φαινόμενα περὶ αὐτῶν μηδὲν ἀντιμαρτυρεῖν…",
+      "deutsch": "…was aber über sie erscheint, dem widerspricht nichts…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "78",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur beruft sich auf die Erscheinung der Götter. Was über sie erscheint, wird nicht widerlegt. Die Gotteserkenntnis ist eine Erfahrung, keine Spekulation."
+    },
+    {
+      "id": "goetter-013",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 79)",
+      "griechisch": "…εἰ δὲ μηθὲν ἐναργὲς περὶ αὐτῶν ὑπῆρχε, πῶς ἂν καὶ ἐλέγομεν…",
+      "deutsch": "…wenn aber nichts Deutliches über sie vorläge, wie hätten wir dann über sie sprechen können…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "79",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur argumentiert aus der Sprache. Wir sprechen über die Götter, weil wir eine Vorstellung von ihnen haben. Diese Vorstellung stammt aus der Erfahrung."
+    },
+    {
+      "id": "goetter-014",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXXIII (Kyriai Doxai)",
+      "griechisch": "…οὐκ ἦν τι καθ' ἑαυτὸ δικαιοσύνη περὶ θεῶν…",
+      "deutsch": "…es gab keine Gerechtigkeit an sich in Bezug auf die Götter…",
+      "kolumne": "Kyriai Doxai XXXIII",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur überträgt seine Lehre von der Gerechtigkeit auf das Verhältnis zu den Göttern. Es gibt kein an sich Gerechtes gegenüber den Göttern. Es gibt nur Übereinkünfte, die sich wandeln."
+    },
+    {
+      "id": "goetter-015",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 32",
+      "griechisch": "…ὁ δὲ τῆς φύσεως αὐτῶν ἐπισκεπτόμενος εἰς τὸ συμφέρον ἀεὶ τρέπει…",
+      "deutsch": "…wer ihre Natur erforscht, wendet sie immer zum Nutzen…",
+      "kolumne": "Sententia Vaticana 32",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur betont den Nutzen der Naturerkenntnis. Wer die Natur der Dinge kennt, kann sie zum eigenen Wohl wenden. Das Wissen ist kein Selbstzweck."
+    },
+    {
+      "id": "goetter-016",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1077)",
+      "griechisch": "…οὐκ ἔστιν εὐσεβὴς ὁ πολλὰ θύων, ἀλλ' ὁ ὀρθὰ περὶ θεῶν φρονῶν…",
+      "deutsch": "…nicht wer viele Opfer bringt, ist fromm, sondern wer das Rechte über die Götter denkt…",
+      "kolumne": "Col. XIV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1077, Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verlagert die Frömmigkeit vom Opfer auf die Erkenntnis. Nicht die Menge der Opfer zählt, sondern die rechte Vorstellung von den Göttern."
+    },
+    {
+      "id": "goetter-017",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1077)",
+      "griechisch": "…τὰ δὲ μυστήρια καὶ αἱ τελεταὶ οὐδὲν ἀληθὲς ἔχουσιν…",
+      "deutsch": "…die Mysterien und die Weihen aber enthalten nichts Wahres…",
+      "kolumne": "Col. XVII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1077, Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus kritisiert die Mysterienreligionen. Die Weihen enthalten nichts Wahres. Sie beruhigen die Furcht nicht, sie schüren sie."
+    },
+    {
+      "id": "goetter-018",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1077)",
+      "griechisch": "…οἱ δὲ ἀστρολόγοι καὶ οἱ μάντεις οὐδὲν περὶ θεῶν ἴσασιν…",
+      "deutsch": "…die Astrologen und die Seher aber wissen nichts über die Götter…",
+      "kolumne": "Col. XXI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1077, Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus lehnt die Astrologie und die Mantik ab. Wer die Sterne deutet oder die Zukunft weissagt, kennt die Götter nicht. Er kennt nur seine eigenen Ängste."
+    },
+    {
+      "id": "goetter-019",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1098)",
+      "griechisch": "…ἡ δὲ τῶν θεῶν γνῶσις φυσική ἐστιν, οὐ διδακτή…",
+      "deutsch": "…die Erkenntnis der Götter aber ist natürlich, nicht gelehrt…",
+      "kolumne": "Col. XII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1098, Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus betont den natürlichen Ursprung der Gotteserkenntnis. Sie ist keine Offenbarung, keine Lehre, kein Dogma. Sie ist eine Erfahrung, die jeder Mensch machen kann."
+    },
+    {
+      "id": "goetter-020",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1098)",
+      "griechisch": "…ὁ δὲ σοφὸς τοῖς θεοῖς οὐχ ὡς δεσπόταις, ἀλλ' ὡς φίλοις χρῆται…",
+      "deutsch": "…der Weise aber verkehrt mit den Göttern nicht wie mit Herren, sondern wie mit Freunden…",
+      "kolumne": "Col. XV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1098, Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus formuliert das Verhältnis des Weisen zu den Göttern. Nicht Knechtschaft, sondern Freundschaft. Nicht Furcht, sondern Vertrauen. Die Götter sind Vorbilder, nicht Herrscher."
+    },
+    {
+      "id": "goetter-021",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1077)",
+      "griechisch": "…ἡ δὲ τῶν πολλῶν εὐσέβεια φόβος ἐστίν, οὐ σεβασμός…",
+      "deutsch": "…die Frömmigkeit der Menge aber ist Furcht, nicht Ehrfurcht…",
+      "kolumne": "Col. XXIV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1077, Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet Furcht und Ehrfurcht. Die Menge fürchtet die Götter. Der Weise ehrt sie. Die Furcht ist Sklavensinn. Die Ehrfurcht ist Freiheit."
+    },
+    {
+      "id": "goetter-022",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1077)",
+      "griechisch": "…ὁ δὲ ἀσεβὴς ὁ καὶ περὶ τῶν θείων ψευδόμενος…",
+      "deutsch": "…gottlos aber ist, wer auch über das Göttliche Falsches sagt…",
+      "kolumne": "Col. XXVI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1077, Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus definiert Gottlosigkeit präzise. Sie besteht nicht im Leugnen, sondern im Falschreden. Wer Falsches über die Götter sagt, ist gottloser als der Zweifler."
+    },
+    {
+      "id": "goetter-023",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1098)",
+      "griechisch": "…εἰ δὲ καὶ προσεύχονται οἱ σοφοί, οὐχ ὡς αἰτοῦντες, ἀλλ' ὡς ἀναμιμνησκόμενοι…",
+      "deutsch": "…wenn auch die Weisen beten, so nicht als Bittende, sondern als sich Erinnernde…",
+      "kolumne": "Col. XIX",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1098, Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus rehabilitiert das Gebet. Der Weise betet nicht, um etwas zu erbitten. Er betet, um sich an das Göttliche zu erinnern. Das Gebet ist eine Übung der Aufmerksamkeit."
+    },
+    {
+      "id": "goetter-024",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1098)",
+      "griechisch": "…ὁ δὲ φόβος τῶν θεῶν οὐκ εὐσέβειαν ἀλλὰ δεισιδαιμονίαν ποιεῖ…",
+      "deutsch": "…die Furcht vor den Göttern erzeugt nicht Frömmigkeit, sondern Aberglauben…",
+      "kolumne": "Col. XXII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1098, Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet Frömmigkeit und Aberglauben. Der Aberglaube entsteht aus der Furcht. Die wahre Frömmigkeit entsteht aus der Einsicht."
+    },
+    {
+      "id": "goetter-025",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1077)",
+      "griechisch": "…τοῖς μὲν οὖν σοφοῖς ἀγαθοὶ οἱ θεοί, τοῖς δὲ μωροῖς οὐκ ἀγαθοί…",
+      "deutsch": "…den Weisen also sind die Götter gut, den Toren aber nicht…",
+      "kolumne": "Col. XXX",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1077, Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus betont die Rolle der eigenen Haltung. Die Götter sind, wie sie sind. Die Weisen erkennen sie als gut. Die Toren schreiben ihnen Übel zu. Es liegt am Erkennenden."
+    },
+    {
+      "id": "goetter-026",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1077)",
+      "griechisch": "…οὐ γὰρ οἱ θεοὶ τοῖς ἀνθρώποις ὀργίζονται, ἀλλ' οἱ ἄνθρωποι ἑαυτοῖς…",
+      "deutsch": "…denn nicht die Götter zürnen den Menschen, sondern die Menschen sich selbst…",
+      "kolumne": "Col. XXXII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1077, Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus kehrt das Verhältnis um. Der Zorn, den die Menschen den Göttern zuschreiben, ist ihr eigener. Sie projizieren ihn. Die Götter zürnen nicht."
+    },
+    {
+      "id": "goetter-027",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1098)",
+      "griechisch": "…ὁ δὲ σοφὸς οὐ φοβεῖται τοὺς θεούς, ἀλλὰ φυλάσσει τὴν περὶ αὐτῶν δόξαν…",
+      "deutsch": "…der Weise aber fürchtet die Götter nicht, sondern bewahrt die Meinung über sie…",
+      "kolumne": "Col. XXV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1098, Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus beschreibt die Haltung des Weisen. Er fürchtet die Götter nicht. Aber er bewahrt die Meinung über sie. Er hält sie rein. Die Reinheit der Vorstellung ist die Frömmigkeit."
+    },
+    {
+      "id": "goetter-028",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Frömmigkeit (PHerc. 1098)",
+      "griechisch": "…αἱ δὲ θυσίαι οὐχ ὡς δεόμενοι οἱ θεοί, ἀλλ' ἡμῶν χάριν γίνονται…",
+      "deutsch": "…die Opfer geschehen nicht, weil die Götter sie brauchen, sondern um unseretwillen…",
+      "kolumne": "Col. XXVII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1098, Obbink, Philodemus On Piety, Oxford, 1996",
+        "url": "https://papyri.info",
+        "edition": "Dirk Obbink, Philodemus On Piety",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus ordnet den Kult neu. Die Götter brauchen keine Opfer. Aber die Menschen brauchen sie. Sie erinnern an die Götter. Sie halten die Beziehung wach."
+    },
+    {
+      "id": "goetter-029",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 31",
+      "griechisch": "…ἡ δὲ τοῦ θανάτου φόβος ὑπὸ τῆς φιλοδοξίας καὶ τῆς τῶν ἀνθρώπων δόξης μάλιστα συνέχεται…",
+      "deutsch": "…die Furcht vor dem Tod hängt vor allem mit dem Ehrgeiz und der Meinung der Menschen zusammen…",
+      "kolumne": "Sententia Vaticana 31",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur analysiert die Todesfurcht als soziale Furcht. Sie hängt mit dem Ehrgeiz zusammen. Wer sich um das Urteil der Menschen sorgt, sorgt sich auch um das Urteil der Götter."
+    },
+    {
+      "id": "goetter-030",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 27",
+      "griechisch": "…ἡ δὲ εὐσέβεια οὐχ ἡ πρὸς τοὺς θεοὺς φοβεῖσθαι, ἀλλὰ τὸ φρονεῖν περὶ αὐτῶν…",
+      "deutsch": "…die Frömmigkeit aber besteht nicht darin, die Götter zu fürchten, sondern in der rechten Erkenntnis über sie…",
+      "kolumne": "Sententia Vaticana 27",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur fasst die Frömmigkeit in einem Satz zusammen. Sie ist keine Furcht. Sie ist Erkenntnis. Die rechte Vorstellung von den Göttern ist schon die Frömmigkeit."
+    },
+    {
+      "id": "goetter-031",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 45",
+      "griechisch": "…ὁ δὲ θεὸς οὐκ οἰκονομεῖ τὰ τῶν ἀνθρώπων, οὐδὲ μερίζει…",
+      "deutsch": "…der Gott aber verwaltet nicht die Angelegenheiten der Menschen, noch verteilt er sie…",
+      "kolumne": "Sententia Vaticana 45",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur lehnt die Vorstellung einer göttlichen Vorsehung ab. Die Götter greifen nicht in das Weltgeschehen ein. Sie lenken nicht, sie richten nicht, sie rächen nicht."
+    },
+    {
+      "id": "goetter-032",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 58",
+      "griechisch": "…ἐκλυτέον ἑαυτοὺς ἐκ τοῦ περὶ τῶν θείων φόβου…",
+      "deutsch": "…man muss sich aus der Furcht vor dem Göttlichen befreien…",
+      "kolumne": "Sententia Vaticana 58",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur beschreibt die Aufgabe. Man muss sich aus der Furcht vor dem Göttlichen befreien. Die Furcht ist das Gefängnis. Die Erkenntnis ist die Tür."
+    },
+    {
+      "id": "goetter-033",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 60",
+      "griechisch": "…πᾶς δὲ ἄνθρωπος τῶν θείων φύσει φοβεῖται…",
+      "deutsch": "…jeder Mensch aber fürchtet von Natur das Göttliche…",
+      "kolumne": "Sententia Vaticana 60",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur anerkennt die natürliche Furcht vor dem Göttlichen. Sie ist tief verwurzelt. Aber sie kann durch Einsicht überwunden werden. Die Natur ist der Anfang, nicht das Ende."
+    },
+    {
+      "id": "goetter-034",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 72",
+      "griechisch": "…εἰ μηδὲν ἡμᾶς αἱ τῶν θείων ὑποψίαι ἠνώχλουν…",
+      "deutsch": "…wenn uns die Vermutungen über das Göttliche nicht beunruhigten…",
+      "kolumne": "Sententia Vaticana 72",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur nennt die Vermutungen über das Göttliche als Quelle der Beunruhigung. Nicht die Götter beunruhigen uns. Unsere Vermutungen über sie beunruhigen uns."
+    },
+    {
+      "id": "goetter-035",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 81",
+      "griechisch": "…οὐκ ἔστιν ὁ θεὸς τοιοῦτος οἷος ὁ πολὺς νομίζει…",
+      "deutsch": "…der Gott ist nicht so, wie die Menge glaubt…",
+      "kolumne": "Sententia Vaticana 81",
+      "zeilen": "1",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur formuliert die Kluft zwischen dem wirklichen Gott und dem Gott der Menge. Der eine ist glückselig und unvergänglich. Der andere ist zornig und strafend. Die Menge irrt."
+    },
+    {
+      "id": "goetter-036",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 87",
+      "griechisch": "…ὁ δὲ εὐσεβὴς καὶ ἀτάραχος περὶ θεῶν διατελεῖ…",
+      "deutsch": "…der Fromme aber verharrt unerschüttert in Bezug auf die Götter…",
+      "kolumne": "Sententia Vaticana 87",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Der Schlusssatz der epikureischen Theologie. Der Fromme ist unerschüttert in Bezug auf die Götter. Er fürchtet sie nicht. Er erwartet nichts von ihnen. Er schaut sie an in Ruhe."
+    }
+  ]
+}

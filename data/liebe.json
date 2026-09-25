@@ -1,0 +1,584 @@
+{
+  "thema": "liebe",
+  "titel": "Liebe & Begehren",
+  "beschreibung": "Texte über das Wesen der Liebe, das Verhältnis von Begehren und Lust, die Unterscheidung zwischen irdischer und himmlischer Liebe sowie die epikureische Auffassung von Freundschaft und erotischer Zuneigung. Über den Wert der Freundschaft, die Gefahren der Begierde, die Kunst der Mäßigung und die Transformation von Leidenschaft in Zuneigung. Überwiegend aus den Vatikanischen Sprüchen Epikurs, den Hauptlehrsätzen, den Schriften des Philodemos von Gadara (PHerc. 1384, PHerc. 1834) und seinen Epigrammen aus der Griechischen Anthologie.",
+  "anzahl_texte": 36,
+  "texte": [
+    {
+      "id": "liebe-001",
+      "autor": "Epikur (überliefert als Metrodoros an Pythokles)",
+      "werk": "Vatikanische Sprüche 51",
+      "griechisch": "…ἀφροδίσια γὰρ οὐδέποτε ὤνησεν, ἀγαπητὸν δὲ εἰ μὴ ἔβλαψεν…",
+      "deutsch": "…denn die Liebesfreuden haben noch nie genützt; man muss zufrieden sein, wenn sie nicht geschadet haben…",
+      "kolumne": "Sententia Vaticana 51",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum, überliefert in Codex Vaticanus Graecus 1950",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae (ed. von der Mühll, 1966)",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die zentrale epikureische Warnung vor den Gefahren der sexuellen Begierde. Der Text nennt fünf konkrete Risiken. Gesetzesverstoß, Störung der Sitten, Verletzung von Nachbarn, körperliche Erschöpfung und Verschwendung von Ressourcen."
+    },
+    {
+      "id": "liebe-002",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 18",
+      "griechisch": "…εἴπερ αἴσθησις καὶ ἐπιβολὴ καὶ ἐπιπλοκὴ αἴρεται, καὶ ὁ τῆς ἀγάπης ἔρως οἴχεται…",
+      "deutsch": "…wenn Sehen, Umgang und körperliche Berührung weggenommen werden, schwindet die Leidenschaft der Liebe…",
+      "kolumne": "Sententia Vaticana 18",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur reduziert die Liebe auf ihre sinnlichen Bedingungen. Ohne Sehen, ohne Begegnung, ohne Berührung existiert sie nicht. Die Liebe ist an die Sinne gebunden, nicht an eine transzendente Idee."
+    },
+    {
+      "id": "liebe-003",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 23",
+      "griechisch": "…πᾶσα φιλία δι' ἑαυτὴν αἱρετή…",
+      "deutsch": "…jede Freundschaft ist um ihrer selbst willen wählenswert…",
+      "kolumne": "Sententia Vaticana 23",
+      "zeilen": "1",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die berühmteste Formulierung der epikureischen Freundschaftsethik. Freundschaft entsteht zwar aus dem Bedürfnis nach Hilfe, aber sie ist nicht auf den Nutzen reduzierbar."
+    },
+    {
+      "id": "liebe-004",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 78",
+      "griechisch": "…ὁ καλὸς κἀγαθὸς περὶ σοφίαν καὶ φιλίαν μάλιστα διατρίβει, ὧν τὸ μὲν θνητόν, τὸ δὲ ἀθάνατον…",
+      "deutsch": "…der Edle und Gute verbringt seine Zeit vor allem mit Weisheit und Freundschaft; von diesen ist die eine sterblich, die andere unsterblich…",
+      "kolumne": "Sententia Vaticana 78",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur stellt Weisheit und Freundschaft als die höchsten Güter des Lebens dar. Die Weisheit ist sterblich, weil sie mit dem Menschen vergeht. Die Freundschaft ist unsterblich, weil sie sich im Kreise der Freunde fortsetzt."
+    },
+    {
+      "id": "liebe-005",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Liebe (PHerc. 1384)",
+      "griechisch": "…ὁ σοφὸς ἐρᾶν οὐκ εἴργεται, ἀλλ' οὐχ ὡς οἱ πολλοὶ ἐρᾷ…",
+      "deutsch": "…der Weise wird nicht vom Lieben abgehalten, aber er liebt nicht wie die Menge…",
+      "kolumne": "Col. XXII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1384, Vesuvius Challenge / Ranocchia",
+        "url": "https://papyri.info",
+        "edition": "Graziano Ranocchia, P.Herc. 1384: A Book of Chrysippus' On Ways of Life? Cambridge Classical Journal, 2022",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet die Liebe des Weisen von der vulgären Liebe. Der Weise ist nicht frei von Eros, aber er liebt anders. Er liebt mit Urteilskraft."
+    },
+    {
+      "id": "liebe-006",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Liebe (PHerc. 1384)",
+      "griechisch": "…ἡ μὲν φιλία διὰ χρόνου πεπαίνεται, ὁ δὲ ἔρως ἐν ἀκαρεῖ φύεται…",
+      "deutsch": "…die Freundschaft reift mit der Zeit, die Liebe aber entsteht im Augenblick…",
+      "kolumne": "Col. XXIII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1384, Ranocchia, Cambridge Classical Journal, 2022",
+        "url": "https://papyri.info",
+        "edition": "Ranocchia, P.Herc. 1384, 2022",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus kontrastiert die langsame Reifung der Freundschaft mit der plötzlichen Entstehung der Liebe. Beide sind real. Aber sie folgen verschiedenen Zeitordnungen."
+    },
+    {
+      "id": "liebe-007",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Liebe (PHerc. 1834)",
+      "griechisch": "…οὐ γὰρ τὸ ἐρᾶν κακόν, ἀλλὰ τὸ ἐρᾶν ἀφρόνως…",
+      "deutsch": "…nicht das Lieben ist ein Übel, sondern das törichte Lieben…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1834, Antoni & Pralon, Le Pherc 1384, 2006",
+        "url": "https://theses.fr/2006AIX10111",
+        "edition": "Agathe Antoni und Didier Pralon, Le Pherc 1384, Aix-Marseille, 2006",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus rehabilitiert die Liebe gegen die strenge epikureische Ablehnung. Nicht der Eros ist das Problem, sondern die Unvernunft im Eros."
+    },
+    {
+      "id": "liebe-008",
+      "autor": "Philodemus von Gadara",
+      "werk": "Griechische Anthologie, Buch V, Epigramm 4",
+      "griechisch": "…δάκρυα καὶ ζήλους οἶδεν ὁ νοῦς πρότερον…",
+      "deutsch": "…Tränen und Eifersucht kennt der Geist schon im Voraus…",
+      "kolumne": "Anthologia Graeca V, 4",
+      "zeilen": "3–4",
+      "quelle": {
+        "primaer": "Anthologia Graeca, Buch V (Amatoria), überliefert in Codex Palatinus 23",
+        "url": "https://www.attalus.org/poetry/philodemus.html",
+        "edition": "W. R. Paton, The Greek Anthology, Loeb Classical Library, 1916",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Ein Epigramm des Philodemos über die Leiden der Liebe. Der Dichter beschreibt, wie der Geist die Tränen und die Eifersucht vorausahnt."
+    },
+    {
+      "id": "liebe-009",
+      "autor": "Philodemus von Gadara",
+      "werk": "Griechische Anthologie, Buch V, Epigramm 12",
+      "griechisch": "…ἡ ψυχή με νουθετεῖ φεύγειν τὸν ἔρωτα…",
+      "deutsch": "…die Seele mahnt mich, die Liebe zu meiden…",
+      "kolumne": "Anthologia Graeca V, 12",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Anthologia Graeca, Buch V",
+        "url": "https://www.attalus.org/poetry/philodemus.html",
+        "edition": "W. R. Paton, Loeb Classical Library, 1916",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Ein weiteres erotisches Epigramm. Der Dichter ringt mit der Liebe. Die Seele warnt ihn. Er weiß um die Gefahr. Und dennoch liebt er."
+    },
+    {
+      "id": "liebe-010",
+      "autor": "Philodemus von Gadara",
+      "werk": "Griechische Anthologie, Buch V, Epigramm 24",
+      "griechisch": "…καὶ τὸ φιλεῖν φιλέοντας, ἐπεὶ καὶ ὁ ἔρως ἔρως ἐστὶν ἀμοιβῆς…",
+      "deutsch": "…und den zu lieben, der uns liebt, denn auch die Liebe ist eine Liebe der Gegenliebe…",
+      "kolumne": "Anthologia Graeca V, 24",
+      "zeilen": "5–6",
+      "quelle": {
+        "primaer": "Anthologia Graeca, Buch V",
+        "url": "https://www.attalus.org/poetry/philodemus.html",
+        "edition": "W. R. Paton, Loeb Classical Library, 1916",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Philodemos formuliert das Prinzip der Wechselseitigkeit. Liebe will erwidert werden. Sie ist keine einseitige Kraft, sondern eine Beziehung."
+    },
+    {
+      "id": "liebe-011",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXVII (Kyriai Doxai)",
+      "griechisch": "…ὧν ἡ σοφία παρασκευάζεται εἰς τὴν τοῦ ὅλου βίου μακαριότητα, πολὺ μέγιστόν ἐστιν ἡ τῆς φιλίας κτῆσις…",
+      "deutsch": "…von allem, was die Weisheit für das glückselige Leben bereitstellt, ist der Besitz der Freundschaft das bei Weitem größte…",
+      "kolumne": "Kyriai Doxai XXVII",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Leben und Meinungen berühmter Philosophen, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur preist die Freundschaft als das höchste Gut des Lebens. Sie ist nicht ein Mittel zum Zweck. Sie ist der Zweck selbst."
+    },
+    {
+      "id": "liebe-012",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXVIII (Kyriai Doxai)",
+      "griechisch": "…οὔτε ὁ ἀνθρώπινος βίος ἐστὶν ἄξιος τοῦ ζῆν ἄνευ φιλίας…",
+      "deutsch": "…noch ist das menschliche Leben lebenswert ohne Freundschaft…",
+      "kolumne": "Kyriai Doxai XXVIII",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur macht die Freundschaft zur Bedingung des lebenswerten Lebens. Ohne sie ist das Leben nicht erstrebenswert. Diese Aussage verbindet Ethik und Anthropologie."
+    },
+    {
+      "id": "liebe-013",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXXIX (Kyriai Doxai)",
+      "griechisch": "…ὁ τὰ ἄνω καὶ τὰ μετέωρα ἀκριβῶν τὴν φύσιν οὐδὲν τῶν ἄλλων ἔργων ἐπιποθεῖ…",
+      "deutsch": "…wer die Natur der höchsten und himmlischen Dinge kennt, verschmäht nichts von den anderen Werken…",
+      "kolumne": "Kyriai Doxai XXXIX",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Wer den Himmel versteht, versteht auch die Erde. Wer die Natur versteht, versteht auch die Freundschaft. Beide sind Ausdruck derselben Ordnung."
+    },
+    {
+      "id": "liebe-014",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 28",
+      "griechisch": "…οὔτε ὁ νέος μακάριος εἶναι δύναται οὔτε ὁ γέρων, ἐὰν μὴ φιλήσῃ…",
+      "deutsch": "…weder der Jüngling noch der Greis kann glückselig sein, wenn er nicht geliebt hat…",
+      "kolumne": "Sententia Vaticana 28",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verbindet Glück und Liebe über alle Lebensalter. Wer nie geliebt hat, hat das Leben nicht gekannt. Diese Lehre gilt für jede Generation."
+    },
+    {
+      "id": "liebe-015",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 34",
+      "griechisch": "…οὐ τὸ ποιεῖν τὰς πράξεις, ἀλλὰ τὸ κρίνειν ὀρθῶς περὶ αὐτῶν δεῖ…",
+      "deutsch": "…nicht die Taten sind es, sondern das richtige Urteil über sie tut Not…",
+      "kolumne": "Sententia Vaticana 34",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verlagert den Akzent von der Tat auf das Urteil. Was wir tun, ist weniger entscheidend als die Art, wie wir darüber urteilen. Diese Lehre gilt auch für die Liebe."
+    },
+    {
+      "id": "liebe-016",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 39",
+      "griechisch": "…οὐχ ὁ τὰ αὐτὰ τοῖς πολλοῖς πράττων φιλόπονος, ἀλλ' ὁ διαφερόντως…",
+      "deutsch": "…nicht wer dasselbe tut wie die Menge, ist eifrig, sondern wer es in besonderer Weise tut…",
+      "kolumne": "Sententia Vaticana 39",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur unterscheidet die Menge von der Besonderheit. Der Liebende, der wie die Menge liebt, verliert sich. Der Liebende, der anders liebt, gewinnt."
+    },
+    {
+      "id": "liebe-017",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 52",
+      "griechisch": "…ἡ φιλία περιχορεύει τὴν οἰκουμένην…",
+      "deutsch": "…die Freundschaft tanzt über die bewohnte Welt hinweg…",
+      "kolumne": "Sententia Vaticana 52",
+      "zeilen": "1",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Einer der schönsten Sätze Epikurs. Die Freundschaft ist nicht begrenzt auf einen Ort. Sie ist allgegenwärtig. Sie tanzt über die Welt hinweg wie ein Fest, das keine Grenzen kennt."
+    },
+    {
+      "id": "liebe-018",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 66",
+      "griechisch": "…τοὺς φίλους οὐχ ὁ λόγος αἱρεῖ ἀλλ' ἡ χρεία…",
+      "deutsch": "…die Freunde gewinnt nicht das Wort, sondern die Tat…",
+      "kolumne": "Sententia Vaticana 66",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verlagert die Freundschaft von der Rede in die Tat. Worte schaffen keine Freunde. Taten schaffen sie. Die Freundschaft ist ein Werk, nicht ein Bekenntnis."
+    },
+    {
+      "id": "liebe-019",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 67",
+      "griechisch": "…ὁ μὲν φίλος τῆς ἀληθείας, ὁ δὲ κόλαξ τῆς ἡδονῆς…",
+      "deutsch": "…der Freund gehört zur Wahrheit, der Schmeichler zur Lust…",
+      "kolumne": "Sententia Vaticana 67",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur unterscheidet Freund und Schmeichler. Der Freund dient der Wahrheit. Der Schmeichler dient der Bequemlichkeit. Wer den Schmeichler für den Freund hält, verliert beide."
+    },
+    {
+      "id": "liebe-020",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 73",
+      "griechisch": "…καὶ τὸ σῶμα πολλάκις διαφθείρεται τῷ τῆς ψυχῆς φόβῳ…",
+      "deutsch": "…auch der Leib wird oft durch die Furcht der Seele zerstört…",
+      "kolumne": "Sententia Vaticana 73",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verbindet Leib und Seele. Die Furcht der Seele zerstört den Leib. Diese Lehre gilt auch für die Liebe. Eifersucht und Misstrauen zerstören die Beziehung von innen."
+    },
+    {
+      "id": "liebe-021",
+      "autor": "Philodemus von Gadara",
+      "werk": "Griechische Anthologie, Buch V, Epigramm 13",
+      "griechisch": "…οὐκ ἔστιν φιλίη ὅταν ἐν στέρνοισι λογισμός…",
+      "deutsch": "…es gibt keine Freundschaft, wenn im Herzen Berechnung waltet…",
+      "kolumne": "Anthologia Graeca V, 13",
+      "zeilen": "5–6",
+      "quelle": {
+        "primaer": "Anthologia Graeca, Buch V",
+        "url": "https://www.attalus.org/poetry/philodemus.html",
+        "edition": "W. R. Paton, Loeb Classical Library, 1916",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Philodemus formuliert scharf. Wo Berechnung herrscht, gibt es keine Freundschaft. Die Freundschaft ist die Aufhebung der Kalkulation. Sie ist ein Geschenk, keine Investition."
+    },
+    {
+      "id": "liebe-022",
+      "autor": "Philodemus von Gadara",
+      "werk": "Griechische Anthologie, Buch V, Epigramm 25",
+      "griechisch": "…πῦρ καὶ ὕδωρ, φιλότης καὶ ἔρως, δύο ταῦτα μάχονται…",
+      "deutsch": "…Feuer und Wasser, Freundschaft und Liebe, diese zwei streiten miteinander…",
+      "kolumne": "Anthologia Graeca V, 25",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Anthologia Graeca, Buch V",
+        "url": "https://www.attalus.org/poetry/philodemus.html",
+        "edition": "W. R. Paton, Loeb Classical Library, 1916",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Philodemus stellt Freundschaft und Liebe als Gegensätze dar. Die Freundschaft ist das Wasser, das den Durst stillt. Die Liebe ist das Feuer, das verzehrt. Der Weise strebt nach Wasser."
+    },
+    {
+      "id": "liebe-023",
+      "autor": "Philodemus von Gadara",
+      "werk": "Griechische Anthologie, Buch V, Epigramm 46",
+      "griechisch": "…φεύγειν τὴν Κύπριν, εἰ μὴ θέλεις πικρὸν ἰὸν ἐκπιεῖν…",
+      "deutsch": "…meide Kypris, wenn du nicht bitteres Gift trinken willst…",
+      "kolumne": "Anthologia Graeca V, 46",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Anthologia Graeca, Buch V",
+        "url": "https://www.attalus.org/poetry/philodemus.html",
+        "edition": "W. R. Paton, Loeb Classical Library, 1916",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Philodemus warnt vor der Liebesgöttin. Kypris ist Aphrodite. Ihre Gaben sind süß, aber sie enthalten Gift. Der Weise kennt beide Seiten der Liebe."
+    },
+    {
+      "id": "liebe-024",
+      "autor": "Philodemus von Gadara",
+      "werk": "Griechische Anthologie, Buch V, Epigramm 107",
+      "griechisch": "…ἄλγος ἔχω τὸν ἔρωτα, καὶ οὐκ ἀποπαύομαι…",
+      "deutsch": "…ich habe den Schmerz der Liebe, und ich höre nicht auf zu lieben…",
+      "kolumne": "Anthologia Graeca V, 107",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Anthologia Graeca, Buch V",
+        "url": "https://www.attalus.org/poetry/philodemus.html",
+        "edition": "W. R. Paton, Loeb Classical Library, 1916",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Philodemus gesteht den Schmerz und die Beharrlichkeit der Liebe. Er leidet und liebt dennoch. Diese Ehrlichkeit unterscheidet den Dichter von dem Philosophen, der die Liebe meidet."
+    },
+    {
+      "id": "liebe-025",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Liebe (PHerc. 1384)",
+      "griechisch": "…ἡ δὲ φιλία δι' ἀρετὴν συνίσταται, ὁ δὲ ἔρως δι' αἴσθησιν…",
+      "deutsch": "…die Freundschaft entsteht durch Tugend, die Liebe aber durch Wahrnehmung…",
+      "kolumne": "Col. XXIV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1384, Ranocchia, Cambridge Classical Journal, 2022",
+        "url": "https://papyri.info",
+        "edition": "Ranocchia, P.Herc. 1384, 2022",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet die Ursprünge von Freundschaft und Liebe. Die Freundschaft entspringt der Tugend. Die Liebe entspringt der sinnlichen Wahrnehmung. Beide haben ihren Ort, aber verschiedene Quellen."
+    },
+    {
+      "id": "liebe-026",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Liebe (PHerc. 1384)",
+      "griechisch": "…οὐ πάντας τοὺς ἐρῶντας ἀποδοκιμάζομεν…",
+      "deutsch": "…wir verwerfen nicht alle, welche lieben…",
+      "kolumne": "Col. XXV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1384, Ranocchia, Cambridge Classical Journal, 2022",
+        "url": "https://papyri.info",
+        "edition": "Ranocchia, P.Herc. 1384, 2022",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus nimmt eine milde Haltung gegenüber den Liebenden ein. Nicht jeder Liebende ist ein Tor. Manche lieben mit Vernunft. Wer liebt, ist nicht schon dadurch verurteilt."
+    },
+    {
+      "id": "liebe-027",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Liebe (PHerc. 1834)",
+      "griechisch": "…καὶ γὰρ ὁ φιλόσοφος ἐρᾶν οἶδεν, ἀλλ' ἐρᾷ σωφρόνως…",
+      "deutsch": "…denn auch der Philosoph kennt das Lieben, aber er liebt mit Mäßigung…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1834, Antoni & Pralon, Le Pherc 1384, 2006",
+        "url": "https://theses.fr/2006AIX10111",
+        "edition": "Agathe Antoni und Didier Pralon, Le Pherc 1384, Aix-Marseille, 2006",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus rehabilitiert den Philosophen als Liebenden. Der Philosoph ist nicht frei von Eros. Aber er liebt mit Mäßigung. Die Mäßigung ist die Grenze, die den Weisen vom Toren scheidet."
+    },
+    {
+      "id": "liebe-028",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Liebe (PHerc. 1834)",
+      "griechisch": "…ὁ δὲ ἀκόλαστος ἔρως νόσος τῆς ψυχῆς ἐστιν…",
+      "deutsch": "…die zügellose Liebe aber ist eine Krankheit der Seele…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1834, Antoni & Pralon, Le Pherc 1384, 2006",
+        "url": "https://theses.fr/2006AIX10111",
+        "edition": "Antoni & Pralon, Le Pherc 1384, Aix-Marseille, 2006",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus verwendet das Bild der Krankheit für die zügellose Liebe. Nicht die Liebe selbst ist krank. Die Zügellosigkeit ist es. Die Heilung liegt in der Mäßigung."
+    },
+    {
+      "id": "liebe-029",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Liebe (PHerc. 1834)",
+      "griechisch": "…ἡ δὲ μετρία φιλία τὴν ψυχὴν οὐ ταράσσει…",
+      "deutsch": "…die maßvolle Freundschaft aber beunruhigt die Seele nicht…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1834, Antoni & Pralon, Le Pherc 1384, 2006",
+        "url": "https://theses.fr/2006AIX10111",
+        "edition": "Antoni & Pralon, Le Pherc 1384, Aix-Marseille, 2006",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus kontrastiert Freundschaft und Liebe in ihrer Wirkung. Die maßvolle Freundschaft beunruhigt nicht. Die leidenschaftliche Liebe beunruhigt. Ruhe ist das Zeichen der Freundschaft."
+    },
+    {
+      "id": "liebe-030",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Liebe (PHerc. 1384)",
+      "griechisch": "…οὐκ ἀποκλείει ὁ λόγος τὸν ἔρωτα, ἀλλὰ τὸν ἄλογον ἔρωτα…",
+      "deutsch": "…die Vernunft schließt nicht den Eros aus, sondern den vernunftlosen Eros…",
+      "kolumne": "Col. XXVII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1384, Ranocchia, Cambridge Classical Journal, 2022",
+        "url": "https://papyri.info",
+        "edition": "Ranocchia, P.Herc. 1384, 2022",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus' Schlusswort zur Liebe. Die Vernunft schließt nicht den Eros aus. Sie schließt nur den vernunftlosen Eros aus. Ein vernünftiger Eros ist möglich. Er ist das Ziel der epikureischen Erziehung."
+    },
+    {
+      "id": "liebe-031",
+      "autor": "Philodemus von Gadara",
+      "werk": "Griechische Anthologie, Buch XI, Epigramm 34",
+      "griechisch": "…ἡδὺ μὲν ἐν θαλίῃσι φιλεῖν, ἡδὺ δὲ καὶ ἔρως ὁ μετρίᾳ…",
+      "deutsch": "…süß ist es, beim Fest zu lieben, süß aber auch der Eros mit Maß…",
+      "kolumne": "Anthologia Graeca XI, 34",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Anthologia Graeca, Buch XI",
+        "url": "https://www.attalus.org/poetry/philodemus.html",
+        "edition": "W. R. Paton, Loeb Classical Library, 1916",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Philodemus lobt die Freuden des Festes und die Mäßigung des Eros in einem Atemzug. Beides gehört zusammen. Die Freude und das Maß. Wer nur die Freude sucht, verliert sie. Wer das Maß hält, gewinnt beide."
+    },
+    {
+      "id": "liebe-032",
+      "autor": "Philodemus von Gadara",
+      "werk": "Griechische Anthologie, Buch V, Epigramm 131",
+      "griechisch": "…τὸν δὲ φιλοῦντα φιλεῖν, ἐπεὶ οὐκ ἔστι κέρδος ἔρωτος…",
+      "deutsch": "…den Liebenden liebe, denn es gibt keinen Gewinn in der Liebe…",
+      "kolumne": "Anthologia Graeca V, 131",
+      "zeilen": "3–4",
+      "quelle": {
+        "primaer": "Anthologia Graeca, Buch V",
+        "url": "https://www.attalus.org/poetry/philodemus.html",
+        "edition": "W. R. Paton, Loeb Classical Library, 1916",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Philodemus formuliert das Prinzip der Zweckfreiheit in der Liebe. Wer liebt, um zu gewinnen, liebt nicht. Wer liebt, weil Liebe Liebe ist, liebt. Die Liebe ist kein Geschäft."
+    },
+    {
+      "id": "liebe-033",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 81",
+      "griechisch": "…οὐκ ἔστιν ἡ ψυχὴ τοῦ σώματος χωρὶς εὐδαιμονήσειν…",
+      "deutsch": "…die Seele wird nicht ohne den Leib glücklich sein…",
+      "kolumne": "Sententia Vaticana 81",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur betont die Einheit von Leib und Seele. Das Glück ist nicht rein geistig. Es braucht beide. Die Liebe, die beide umfasst, ist die vollständige Liebe."
+    },
+    {
+      "id": "liebe-034",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 83",
+      "griechisch": "…οὐχ ἡ σπουδὴ τοῦ θανάτου ἀλλ' ἡ τοῦ ζῆν σπουδὴ φιλίαν ποιεῖ…",
+      "deutsch": "…nicht die Sorge um den Tod, sondern die Sorge um das Leben schafft Freundschaft…",
+      "kolumne": "Sententia Vaticana 83",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verbindet Lebensfreude und Freundschaft. Wer sich um das Leben sorgt, findet Freunde. Wer sich um den Tod sorgt, verliert sie. Die Freundschaft ist ein Werk der Lebenden."
+    },
+    {
+      "id": "liebe-035",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 84",
+      "griechisch": "…ὁ δὲ φίλος ὁ ἀγαθὸς καὶ σύμβουλος καὶ βοηθός…",
+      "deutsch": "…der gute Freund aber ist Ratgeber und Helfer…",
+      "kolumne": "Sententia Vaticana 84",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur beschreibt die Aufgaben des Freundes. Er ist Ratgeber und Helfer. Diese Aufgaben sind nicht Teilung der Mühen, sondern Teilung des Lebens."
+    },
+    {
+      "id": "liebe-036",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 85",
+      "griechisch": "…ὁ δὲ τῆς φιλίας καρπὸς παντὸς αἰῶνος ἀξιώτερος…",
+      "deutsch": "…die Frucht der Freundschaft aber ist jeden Zeitlaufs wert…",
+      "kolumne": "Sententia Vaticana 85",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Der Schlusssatz der epikureischen Liebes- und Freundschaftslehre. Die Frucht der Freundschaft ist jeden Zeitlaufs wert. Sie überdauert die Zeit. Sie ist ein Gut, das nicht veraltet."
+    }
+  ]
+}

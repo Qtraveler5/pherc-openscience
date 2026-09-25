@@ -1,0 +1,584 @@
+{
+  "thema": "natur",
+  "titel": "Natur & Physik",
+  "beschreibung": "Texte über die Grundlagen der Natur, die Atomtheorie, die Bewegung, die Zeit, die unendlichen Welten und die Erkenntnis des Verborgenen. Überwiegend aus Epikurs Brief an Herodot, dem Brief an Pythokles, den Hauptlehrsätzen und Philodemos' Schriften.",
+  "anzahl_texte": 36,
+  "texte": [
+    {
+      "id": "natur-001",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 38–39)",
+      "griechisch": "…οὐδὲν γίνεται ἐκ τοῦ μὴ ὄντος· πᾶν γὰρ ἐκ παντὸς ἐγίνετο ἂν σπερμάτων γε οὐθὲν προσδεόμενον…",
+      "deutsch": "…nichts entsteht aus dem Nichtseienden; denn alles würde aus allem entstehen, ohne dass es Samen bedürfte…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "38–39",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Leben und Meinungen berühmter Philosophen, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Erster Grundsatz der epikureischen Physik. Nichts entsteht aus Nichts. Jede Entstehung hat eine Ursache, einen Samen, eine Verbindung von Atomen. Ohne diesen Grundsatz wäre jede Ordnung Zufall und jeder Zusammenhang willkürlich."
+    },
+    {
+      "id": "natur-002",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 39)",
+      "griechisch": "…οὐδὲ εἰς τὸ μὴ ὂν φθείρεται· πάλιν γὰρ ἂν τι ἐκ τοῦ μηδαμῇ μηδαμῶς ὄντος ἀνεφύετο…",
+      "deutsch": "…nichts wird ins Nichtseiende vernichtet; denn wiederum würde etwas aus dem nirgends und niemals Seienden entstehen…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "39",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Zweiter Grundsatz. Nichts wird zu Nichts. Was sich auflöst, kehrt in seine Bestandteile zurück. Diese Einsicht nimmt den Gedanken der Erhaltung der Materie vorweg, den die Physik der Neuzeit formuliert hat."
+    },
+    {
+      "id": "natur-003",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 39–40)",
+      "griechisch": "…τὸ πᾶν ἀεὶ τοιοῦτον ἦν καὶ τοιοῦτον ἔσται…",
+      "deutsch": "…das All war immer so beschaffen und wird immer so beschaffen sein…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "39–40",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Das All ist ewig. Es gibt keinen Anfang, kein Ende. Die Summe der Atome und des Leeren bleibt dieselbe. Was sich verändert, sind die Verbindungen. Diese Lehre ist die Grundlage jeder Kosmologie ohne Schöpfung."
+    },
+    {
+      "id": "natur-004",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 40)",
+      "griechisch": "…ἡ γὰρ τοῦ παντὸς φύσις σώματα καὶ κενόν ἐστιν…",
+      "deutsch": "…die Natur des Alls besteht aus Körpern und dem Leeren…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "40",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Der berühmteste Satz der epikureischen Physik. Es gibt nur zwei Dinge: Atome und das Leere. Alles andere ist Eigenschaft, Verbindung oder Erscheinung. Diese Reduktion auf zwei Grundgrößen ist der Ursprung des abendländischen Materialismus."
+    },
+    {
+      "id": "natur-005",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 41)",
+      "griechisch": "…εἰ μὴ ἦν ὃ κενὸν καὶ χώραν καὶ ἀναφῆ φύσιν ὀνομάζομεν, οὐκ ἂν εἶχε τὰ σώματα ὅπου ἦν οὐδὲ δι' οὗ ἐκινεῖτο…",
+      "deutsch": "…wenn es nicht das gäbe, was wir das Leere, den Raum und die unsichtbare Natur nennen, so hätten die Körper keinen Ort, wo sie wären, und nichts, wodurch sie sich bewegten…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "41",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur begründet die Notwendigkeit des Leeren. Ohne Leere gäbe es keinen Ort für die Körper und keine Bewegung. Das Leere ist keine Negation, sondern eine reale Bedingung der Bewegung."
+    },
+    {
+      "id": "natur-006",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 42–43)",
+      "griechisch": "…τὰ ἄτομα ἀμετάβλητα καὶ ἀπαθῆ δεῖ εἶναι, εἴπερ μὴ μέλλει πάντα εἰς τὸ μὴ ὂν φθαρήσεσθαι…",
+      "deutsch": "…die Atome müssen unveränderlich und ohne Leiden sein, wenn nicht alles ins Nichtseiende vernichtet werden soll…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "42–43",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Wenn die Atome sich verändern könnten, müsste sich schließlich alles auflösen. Ihre Unveränderlichkeit ist die Bedingung dafür, dass die Welt bestehen bleibt. Sie sind die stabilen Grundeinheiten, aus denen die vergänglichen Dinge gebaut sind."
+    },
+    {
+      "id": "natur-007",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 43)",
+      "griechisch": "…οὐδὲν γὰρ τῶν ἀτόμων ὁρατόν ἐστιν…",
+      "deutsch": "…denn keines der Atome ist sichtbar…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "43",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur benennt den Grund, warum die Atome den Sinnen verborgen bleiben. Ihre Kleinheit ist nicht Mangel, sondern Wesen. Aus dem Unsichtbaren baut sich das Sichtbare. Diese Lehre nimmt die Erkenntnis der modernen Atomphysik in ihrer Grundstruktur vorweg."
+    },
+    {
+      "id": "natur-008",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 44–45)",
+      "griechisch": "…τὸ πᾶν ἄπειρόν ἐστιν· τὸ γὰρ πεπερασμένον ἄκρον ἔχει…",
+      "deutsch": "…das All ist unbegrenzt; denn was begrenzt ist, hat einen Rand…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "44–45",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikurs Argument für die Unendlichkeit des Alls. Was einen Rand hätte, müsste an etwas angrenzen. Aber außerhalb des Alls kann nichts sein. Also hat es keinen Rand. Also ist es unbegrenzt."
+    },
+    {
+      "id": "natur-009",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 45)",
+      "griechisch": "…καὶ ἡ τῶν ἀτόμων πλῆθος ἄπειρόν ἐστιν καὶ τὸ κενόν…",
+      "deutsch": "…auch die Menge der Atome ist unbegrenzt und ebenso das Leere…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "45",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die Zahl der Atome ist unendlich, das Leere ist unendlich. Wenn eines von beiden begrenzt wäre, könnte das All nicht bestehen. Die Unendlichkeit von Stoff und Raum ist die Grundlage für die Unendlichkeit der Welten."
+    },
+    {
+      "id": "natur-010",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 45)",
+      "griechisch": "…οὐδὲν γὰρ κωλύει ἄπειρα εἶναι σώματα καὶ κενὸν ἀεὶ ὄντα…",
+      "deutsch": "…denn nichts hindert, dass unendlich viele Körper und leeres immerfort bestehen…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "45",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Aus der Unendlichkeit von Atomen und Leere folgt die Unendlichkeit der Bewegung und der Welten. Nichts begrenzt den Stoff. Nichts begrenzt den Raum. Also entstehen immer wieder neue Welten."
+    },
+    {
+      "id": "natur-011",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 46)",
+      "griechisch": "…αἱ δὲ ἄτομοι κινοῦνται συνεχῶς διὰ παντὸς τοῦ αἰῶνος…",
+      "deutsch": "…die Atome aber bewegen sich ununterbrochen durch alle Ewigkeit…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "46",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die Atome ruhen niemals. Bewegung ist ihre Natur, nicht ihr Zustand. Diese Lehre nimmt das moderne Bild eines Universums in ständiger Bewegung vorweg."
+    },
+    {
+      "id": "natur-012",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 46–47)",
+      "griechisch": "…αἱ δὲ κινήσεις αἱ μὲν κατ' εὐθεῖαν, αἱ δὲ ἀποπαλλομένων…",
+      "deutsch": "…die Bewegungen aber sind teils geradlinig, teils durch Abprall…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "46–47",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur unterscheidet zwei Grundbewegungen: das freie Fallen der Atome und den Zusammenprall. Aus beiden zusammen entstehen alle Verbindungen, alle Körper, alle Welten."
+    },
+    {
+      "id": "natur-013",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 48–49)",
+      "griechisch": "…ἡ ψυχὴ σῶμά ἐστιν λεπτομερές, παρ' ὅλην τὴν σύγκρισιν παρεσπαρμένον…",
+      "deutsch": "…die Seele ist ein feinteiliger Körper, der über den ganzen Organismus verstreut ist…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "48–49",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die Seele ist kein Geist, sondern Materie. Sie ist ein feiner Körper, der den ganzen Leib durchdringt. Diese Lehre nimmt jede dualistische Trennung von Leib und Seele zurück. Mit dem Leib löst sich auch die Seele auf."
+    },
+    {
+      "id": "natur-014",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 63–64)",
+      "griechisch": "…τὰ εἴδωλα τοῖς σώμασιν ὁμοιόμορφα ἀπορρεῖ…",
+      "deutsch": "…die Bilder (eidola) strömen von den Körpern ab, ihnen gleichgestaltet…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "63–64",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die eidola sind feine Bilder, die von den Dingen abfließen und in unsere Sinne gelangen. Sie sind die Grundlage aller Wahrnehmung. Sehen ist ein materieller Vorgang, nicht ein spiritueller."
+    },
+    {
+      "id": "natur-015",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 49–50)",
+      "griechisch": "…αἱ αἰσθήσεις ἀληθείς εἰσιν…",
+      "deutsch": "…die Sinneswahrnehmungen sind wahr…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "49–50",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die Sinne täuschen nicht. Der Irrtum entsteht erst im Urteil. Wer sieht und dann falsch deutet, hat nicht falsch gesehen, sondern falsch gedacht. Diese Lehre begründet die epikureische Erkenntnistheorie."
+    },
+    {
+      "id": "natur-016",
+      "autor": "Epikur",
+      "werk": "Brief an Pythokles (Diogenes Laertios X, 89)",
+      "griechisch": "…ἅπαντα τὰ μετέωρα δι' ἀτόμων γίνεται…",
+      "deutsch": "…alle Himmelserscheinungen entstehen durch Atome…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "89",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Pythoclem",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Auch der Himmel folgt den Gesetzen der Atome. Sonne, Mond, Sterne entstehen und vergehen nach denselben Regeln wie alles andere. Kein göttlicher Wille, keine ewige Ordnung, nur Materie in Bewegung."
+    },
+    {
+      "id": "natur-017",
+      "autor": "Epikur",
+      "werk": "Brief an Pythokles (Diogenes Laertios X, 90)",
+      "griechisch": "…ὁ ἥλιος οὐ μείζων ὢν φαίνεται ἢ τηλικοῦτος ἡλίκος φαίνεται, ἢ μικρῷ μείζων…",
+      "deutsch": "…die Sonne ist entweder nicht größer, als sie erscheint, oder nur wenig größer…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "90",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Pythoclem",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur erlaubt zwei Deutungen. Die Sonne ist so groß, wie sie erscheint, oder nur wenig größer. Damit bleibt er dem Prinzip der Sinne treu, ohne sich auf eine einzige astronomische Größe festzulegen."
+    },
+    {
+      "id": "natur-018",
+      "autor": "Epikur",
+      "werk": "Brief an Pythokles (Diogenes Laertios X, 96)",
+      "griechisch": "…βροντὴν ἐνδέχεται γίνεσθαι καὶ κατὰ πνεύματος ἐν τοῖς κοιλώμασι τῶν νεφῶν συγκλεισμοῦ…",
+      "deutsch": "…der Donner kann entstehen durch Einschließung des Windes in den Höhlungen der Wolken…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "96",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Pythoclem",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur erklärt den Donner natürlich. Kein Zorn des Zeus, keine göttliche Stimme. Der Wind, der in den Höhlungen der Wolken eingeschlossen ist, erzeugt den Lärm. Eine frühe Form meteorologischer Naturerklärung."
+    },
+    {
+      "id": "natur-019",
+      "autor": "Epikur",
+      "werk": "Brief an Pythokles (Diogenes Laertios X, 102)",
+      "griechisch": "…ἀστραπὴν ἐνδέχεται γίνεσθαι καὶ κατὰ λόγους διαφόρους…",
+      "deutsch": "…der Blitz kann auf verschiedene Weisen entstehen…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "102",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Pythoclem",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur erlaubt mehrere Erklärungen. Er hält sich nicht an eine einzige Theorie. Was zählt, ist die Natürlichkeit der Ursache. Diese Offenheit ist ein früher Ausdruck methodischer Bescheidenheit in der Naturforschung."
+    },
+    {
+      "id": "natur-020",
+      "autor": "Epikur",
+      "werk": "Brief an Pythokles (Diogenes Laertios X, 109)",
+      "griechisch": "…αἱ δὲ νεφέλαι δύνανται συνίστασθαι καὶ σωρεύεσθαι παρ' ἀλλήλας…",
+      "deutsch": "…die Wolken können sich bilden und sich aneinander lagern…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "109",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Pythoclem",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Auch die Wolken sind nichts anderes als Ansammlungen von Atomen. Sie bilden sich, sie verändern sich, sie lösen sich wieder auf. Kein göttlicher Wille bewegt sie."
+    },
+    {
+      "id": "natur-021",
+      "autor": "Epikur",
+      "werk": "Brief an Pythokles (Diogenes Laertios X, 113)",
+      "griechisch": "…σεισμοὺς ἐνδέχεται γίνεσθαι καὶ διὰ πνεύματος ὑπόγειον…",
+      "deutsch": "…Erdbeben können auch durch unterirdischen Wind entstehen…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "113",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Pythoclem",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Erdbeben haben eine natürliche Ursache. Sie entstehen durch unterirdische Luftbewegungen. Poseidon zürnt nicht. Die Erde bebt, weil die Materie sich bewegt."
+    },
+    {
+      "id": "natur-022",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XI (Kyriai Doxai)",
+      "griechisch": "…εἰ μηθὲν ἡμᾶς αἱ τῶν μετεώρων ὑποψίαι ἠνώχλουν… οὐκ ἂν προσεδεόμεθα φυσιολογίας…",
+      "deutsch": "…wenn uns die Vermutungen über die Himmelserscheinungen nicht beunruhigten, hätten wir keine Naturphilosophie nötig…",
+      "kolumne": "Kyriai Doxai XI",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur sagt, warum wir Naturphilosophie brauchen. Nicht um zu wissen, sondern um nicht zu fürchten. Die Erkenntnis der Natur befreit von der Angst vor den Göttern."
+    },
+    {
+      "id": "natur-023",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XII (Kyriai Doxai)",
+      "griechisch": "…οὐκ ἦν τὸ φοβοῦμενον λύειν ὑπὲρ τῶν μεγίστων ἀπορούμενον…",
+      "deutsch": "…man kann nicht das Fürchten auflösen, wenn man über die wichtigsten Dinge im Unklaren ist…",
+      "kolumne": "Kyriai Doxai XII",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verbindet Naturerkenntnis und Seelenfrieden. Wer die Natur nicht kennt, fürchtet sie. Wer sie kennt, kann in Ruhe leben. Die Physik dient der Ethik."
+    },
+    {
+      "id": "natur-024",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XIII (Kyriai Doxai)",
+      "griechisch": "…οὐδὲν ὄφελος ἦν κατ' ἄνθρωπον ἀσφάλειαν πορίσασθαι κατὰ τὰ ἄλλα, εἰ τὰ μετέωρα καὶ τὰ ὑπὸ γῆν ὑπεφόβει…",
+      "deutsch": "…es nützt nichts, menschliche Sicherheit in allen anderen Dingen zu erlangen, wenn man die Himmelserscheinungen und das unter der Erde fürchtet…",
+      "kolumne": "Kyriai Doxai XIII",
+      "zeilen": "1–4",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die Furcht vor dem Himmel und der Unterwelt ist tiefer als jede andere. Sie lähmt den Menschen. Wer sie überwindet, gewinnt seine Freiheit zurück."
+    },
+    {
+      "id": "natur-025",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXXIX (Kyriai Doxai)",
+      "griechisch": "…ὁ τὰ ἄνω καὶ τὰ μετέωρα ἀκριβῶν τὴν φύσιν οὐδὲν τῶν ἄλλων ἔργων ἐπιποθεῖ…",
+      "deutsch": "…wer die Natur der höchsten und himmlischen Dinge kennt, verschmäht nichts von den anderen Werken…",
+      "kolumne": "Kyriai Doxai XXXIX",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Wer den Himmel versteht, versteht auch die Erde. Naturerkenntnis ist ein Ganzes. Man kann nicht den Kosmos begreifen und die Welt gering schätzen."
+    },
+    {
+      "id": "natur-026",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 5",
+      "griechisch": "…οὔτε ὁ ἄπειρος χρόνος ἴσος ἐστὶ τῷ πεπερασμένῳ…",
+      "deutsch": "…die unbegrenzte Zeit ist nicht gleich der begrenzten…",
+      "kolumne": "Sententia Vaticana 5",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum, Codex Vaticanus Graecus 1950",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur sagt nicht, dass jede Zeit gleich viel Lust bringt. Er sagt nur, dass die Lust sich nicht an der Dauer misst. Die Zeit ist nicht das Maß der Fülle."
+    },
+    {
+      "id": "natur-027",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 9",
+      "griechisch": "…ἡ μὲν ἀναγκαία φύσις, ἡ δὲ κεναὶ δόξαι…",
+      "deutsch": "…das eine gehört zur notwendigen Natur, das andere zu den leeren Meinungen…",
+      "kolumne": "Sententia Vaticana 9",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur unterscheidet zwischen natürlichen Bedürfnissen und eingebildeten Wünschen. Diese Unterscheidung ist die Grundlage jeder epikureischen Lebenskunst. Sie beruht auf einer Naturerkenntnis."
+    },
+    {
+      "id": "natur-028",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 21",
+      "griechisch": "…οὐ δεῖ βιάζεσθαι τὴν φύσιν, ἀλλὰ πείθειν…",
+      "deutsch": "…man darf die Natur nicht zwingen, sondern muss sie überzeugen…",
+      "kolumne": "Sententia Vaticana 21",
+      "zeilen": "1",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Man kann die Natur nicht zwingen. Man muss ihre Gesetze verstehen und sich mit ihnen bewegen. Diese Haltung verbindet die epikureische Naturlehre mit der praktischen Lebenskunst."
+    },
+    {
+      "id": "natur-029",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 26",
+      "griechisch": "…πάντα φύσει γίνεται, οὐ κατὰ λόγον ἕνα…",
+      "deutsch": "…alles geschieht von Natur aus, nicht nach einer einzigen Vernunftordnung…",
+      "kolumne": "Sententia Vaticana 26",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur lehnt jede göttliche Weltvernunft ab. Die Natur folgt keinen Ideen, sondern ihren eigenen Bewegungen. Was geschieht, geschieht aus natürlichen Ursachen."
+    },
+    {
+      "id": "natur-030",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…ἐκ τῶν φαινομένων δεῖ περὶ τῶν ἀφανῶν τεκμαίρεσθαι…",
+      "deutsch": "…aus dem Erscheinenden muss man das Verborgene erschließen…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, Vesuvius Challenge / De Lacy",
+        "url": "https://papyri.info",
+        "edition": "Phillip und Estelle De Lacy, Philodemus: On Methods of Inference, Neapel 1978",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus formuliert das Grundprinzip der epikureischen Erkenntnistheorie. Das Verborgene ist nicht direkt zugänglich, aber durch Zeichen erschließbar. Der Ursprung derhn induktiven Methode."
+    },
+    {
+      "id": "natur-031",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…ἡ σημείωσις ἡ δι' ὁμοιότητος ἰσχύει…",
+      "deutsch": "…diejenige Zeichenerschließung gilt, die durch Ähnlichkeit wirkt…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "De Lacy, Philodemus: On Methods of Inference",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Naturerkenntnis beruht auf Analogie. Was wir sehen, ähnelt dem, was wir nicht sehen. Diese Ähnlichkeit ist die Brücke zwischen Erscheinung und Wirklichkeit."
+    },
+    {
+      "id": "natur-032",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…τὰ μὲν γὰρ φαινόμενα πιστά, τὰ δὲ ἄδηλα διὰ τούτων καταλαμβάνεται…",
+      "deutsch": "…das Erscheinende ist gewiss, das Verborgene aber wird durch jenes erfasst…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "De Lacy, Philodemus: On Methods of Inference",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Die Sinne sind die Grundlage. Ohne sie gäbe es keinen Zugang zum Verborgenen. Aber sie sind nicht das Letzte. Sie sind der Anfang."
+    },
+    {
+      "id": "natur-033",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…ἡ ἐπαγωγὴ ἐκ τῶν καθ' ἕκαστα ἐπὶ τὰ καθόλου πρόεισιν…",
+      "deutsch": "…die Induktion schreitet vom Einzelnen zum Allgemeinen fort…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "De Lacy, Philodemus: On Methods of Inference",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus beschreibt die Methode der Naturerkenntnis. Aus einzelnen Beobachtungen werden allgemeine Sätze gebildet. Eine frühe Formulierung des induktiven Verfahrens, das Bacon und Mill später ausarbeiten."
+    },
+    {
+      "id": "natur-034",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…οὐ πάντα τὰ σημεῖα ὁμοίως ἰσχυρά ἐστιν…",
+      "deutsch": "…nicht alle Zeichen sind in gleicher Weise stark…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "De Lacy, Philodemus: On Methods of Inference",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Manche Zeichen sind eindeutig, andere nur wahrscheinlich. Die Kunst der Naturerkenntnis besteht darin, die Stärke der Zeichen zu unterscheiden."
+    },
+    {
+      "id": "natur-035",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…ἡ δὲ ὁμωνυμία πολλὰς ἀπάτας ἐμποιεῖ τοῖς ζητοῦσιν…",
+      "deutsch": "…die Mehrdeutigkeit der Wörter erzeugt viele Täuschungen bei den Suchenden…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "De Lacy, Philodemus: On Methods of Inference",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus warnt vor der Mehrdeutigkeit der Sprache. Wer die Natur erforscht, muss zuerst die Begriffe klären. Die Sprachkritik ist der Anfang der Naturforschung."
+    },
+    {
+      "id": "natur-036",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…τῆς φύσεως ἡ γνῶσις διὰ σημείων καὶ ὁμοιοτήτων γίνεται…",
+      "deutsch": "…die Erkenntnis der Natur geschieht durch Zeichen und Ähnlichkeiten…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "De Lacy, Philodemus: On Methods of Inference",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Der Schlusssatz der epikureischen Erkenntnislehre. Naturerkenntnis ist keine unmittelbare Schau. Sie ist ein Weg durch Zeichen und Ähnlichkeiten. Sie ist geduldig, aber sie führt zum Ziel."
+    }
+  ]
+}

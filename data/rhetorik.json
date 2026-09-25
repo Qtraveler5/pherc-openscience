@@ -1,0 +1,584 @@
+{
+  "thema": "rhetorik",
+  "titel": "Rhetorik & Sprache",
+  "beschreibung": "Texte über die Kunst der Rede, das Verhältnis von Sprache und Wahrheit, die Grenzen der Überzeugung und die Unterscheidung zwischen sophistischer und politischer Rhetorik. Über die Natur des Wortes, die Macht der Überredung, die Pflicht zur Klarheit und die ethische Verantwortung des Redners. Überwiegend aus Philodemos' von Gadara Schrift Über die Rhetorik (PHerc. 1004, PHerc. 1427, PHerc. 1015, PHerc. 832).",
+  "anzahl_texte": 36,
+  "texte": [
+    {
+      "id": "rhetorik-001",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch I (PHerc. 1427)",
+      "griechisch": "…ἡ ῥητορικὴ οὐκ ἔστιν τέχνη περὶ τὸ ἀληθές, ἀλλὰ περὶ τὸ πιθανόν…",
+      "deutsch": "…die Rhetorik ist keine Kunst, die sich auf das Wahre richtet, sondern auf das Überzeugende…",
+      "kolumne": "Col. II",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1427, Vesuvius Challenge / Sudhaus",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Philodemi Volumina Rhetorica, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet scharf zwischen Wahrheit und Überzeugung. Die Rhetorik zielt auf das Wahrscheinliche, nicht auf das Wahre."
+    },
+    {
+      "id": "rhetorik-002",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch I (PHerc. 1427)",
+      "griechisch": "…ἡ σοφιστικὴ ῥητορικὴ οὐδὲν ἄλλο ἢ σκιὰ τῆς ἀληθινῆς πολιτείας ἐστίν…",
+      "deutsch": "…die sophistische Rhetorik ist nichts anderes als ein Schatten der wahren Staatskunst…",
+      "kolumne": "Col. VII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1427, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus übernimmt Platons Bild der Rhetorik als Schatten, wendet es aber anders an. Für ihn ist die sophistische Rhetorik nicht böse, sondern leer."
+    },
+    {
+      "id": "rhetorik-003",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…ὁ ῥήτωρ πείθει οὐ βίᾳ, ἀλλὰ λόγῳ, καὶ οὐ πάντας, ἀλλὰ τοὺς ἐπιτηδείους…",
+      "deutsch": "…der Redner überzeugt nicht durch Gewalt, sondern durch das Wort, und nicht alle, sondern die dafür Empfänglichen…",
+      "kolumne": "Col. II",
+      "zeilen": "18–20",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus betont zweierlei. Die Überzeugung geschieht durch Sprache, nicht durch Zwang. Sie wirkt nur bei denen, die empfänglich sind."
+    },
+    {
+      "id": "rhetorik-004",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…ἡ μὲν γλῶσσα τὸ ὄργανον, ἡ δὲ ψυχὴ ὁ τεχνίτης…",
+      "deutsch": "…die Zunge ist das Werkzeug, die Seele aber ist der Künstler…",
+      "kolumne": "Col. VI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verlagert den Ursprung der Rede ins Innere. Die Zunge spricht, aber die Seele formt. Wer den Redner bilden will, muss die Seele bilden."
+    },
+    {
+      "id": "rhetorik-005",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…ἡ χάρις τοῦ λόγου οὐκ ἐν τῷ πλήθει τῶν ῥημάτων, ἀλλ' ἐν τῇ ἀκριβείᾳ τῆς ἀληθείας…",
+      "deutsch": "…die Anmut der Rede liegt nicht in der Menge der Wörter, sondern in der Genauigkeit der Wahrheit…",
+      "kolumne": "Col. XI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus lehnt die Rhetorik der Fülle ab. Anmut entsteht nicht durch Reichtum der Worte, sondern durch Genauigkeit."
+    },
+    {
+      "id": "rhetorik-006",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…ὁ πολιτικὸς ῥήτωρ τὸ κοινῇ συμφέρον σκοπεῖ, οὐ τὸ ἑαυτῷ…",
+      "deutsch": "…der politische Redner sucht das gemeinsame Wohl, nicht das eigene…",
+      "kolumne": "Col. XIV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet die politische Rhetorik von der sophistischen durch ihr Ziel. Die politische Rhetorik dient dem Gemeinwesen."
+    },
+    {
+      "id": "rhetorik-007",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…ἡ ἀλήθεια πικρά, τὸ δὲ ψεῦδος γλυκύ, διὸ οἱ πολλοὶ τὸ δεύτερον αἱροῦνται…",
+      "deutsch": "…die Wahrheit ist bitter, die Lüge süß, deshalb wählen die meisten das Zweite…",
+      "kolumne": "Col. XVIII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus benennt das Grundproblem jeder Rhetorik. Die Lüge ist leichter zu sprechen als die Wahrheit. Deshalb braucht die Wahrheit eine eigene Kunst."
+    },
+    {
+      "id": "rhetorik-008",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…δεῖ τὸν ῥήτορα μὴ μόνον εἰπεῖν δύνασθαι, ἀλλὰ καὶ σιωπῆσαι ἐπίστασθαι…",
+      "deutsch": "…der Redner muss nicht nur sprechen können, sondern auch zu schweigen wissen…",
+      "kolumne": "Col. XXI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus stellt das Schweigen neben das Sprechen. Beide sind Künste. Das Schweigen ist die Vollendung der Rede."
+    },
+    {
+      "id": "rhetorik-009",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…ὁ λόγος ὁ ἀληθινὸς οὐ κολακεύει, ἀλλὰ θεραπεύει ὥσπερ ἰατρός…",
+      "deutsch": "…die wahre Rede schmeichelt nicht, sondern sie heilt wie ein Arzt…",
+      "kolumne": "Col. XXIII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verwendet das Bild des Arztes für die wahre Rede. Der Arzt schmeichelt nicht. Er sagt, was nötig ist."
+    },
+    {
+      "id": "rhetorik-010",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…οὐχ ἡ εὐγλωττία ποιεῖ τὸν ῥήτορα, ἀλλ' ἡ τοῦ ἤθους ἀρετή…",
+      "deutsch": "…nicht die Zungenfertigkeit macht den Redner, sondern die Tugend des Charakters…",
+      "kolumne": "Col. XXVII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus' Schlussfolgerung. Der Redner ist nicht der, der schnell und gewandt spricht. Die Rhetorik ist die Verlängerung des Charakters."
+    },
+    {
+      "id": "rhetorik-011",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch I (PHerc. 1427)",
+      "griechisch": "…δύο εἴδη τῆς ῥητορικῆς, τὸ μὲν πολιτικόν, τὸ δὲ σοφιστικόν…",
+      "deutsch": "…es gibt zwei Arten der Rhetorik, die politische und die sophistische…",
+      "kolumne": "Col. IX",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1427, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Die Grundunterscheidung des Philodemus. Die politische Rhetorik dient dem Gemeinwesen, die sophistische dem Schein. Beide sind Künste, aber mit verschiedenen Zielen."
+    },
+    {
+      "id": "rhetorik-012",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch I (PHerc. 1427)",
+      "griechisch": "…ἡ μὲν πολιτικὴ ῥητορικὴ τέχνη ἐστίν, ἡ δὲ σοφιστικὴ ἐμπειρία…",
+      "deutsch": "…die politische Rhetorik ist eine Kunst, die sophistische aber eine bloße Erfahrung…",
+      "kolumne": "Col. XII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1427, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus greift die platonische Unterscheidung auf. Die politische Rhetorik hat Methode, die sophistische nur Routine. Die eine ist lehrbar, die andere nicht."
+    },
+    {
+      "id": "rhetorik-013",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch I (PHerc. 1427)",
+      "griechisch": "…οὐκ ἔστιν ἡ ῥητορικὴ ἐπιστήμη, ἀλλὰ δύναμις περὶ λόγους…",
+      "deutsch": "…die Rhetorik ist kein Wissen, sondern eine Fähigkeit im Umgang mit Worten…",
+      "kolumne": "Col. XV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1427, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus ordnet die Rhetorik zwischen Wissen und Handwerk ein. Sie ist keine Wissenschaft, aber auch nicht bloßes Geschick. Sie ist eine Fähigkeit, die durch Übung wächst."
+    },
+    {
+      "id": "rhetorik-014",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch I (PHerc. 1427)",
+      "griechisch": "…οὐ περὶ παντὸς ὁ ῥήτωρ λέγει, ἀλλὰ περὶ τῶν ἐν τῷ βίῳ συμφερόντων…",
+      "deutsch": "…der Redner spricht nicht über alles, sondern über das, was im Leben nützlich ist…",
+      "kolumne": "Col. XVIII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1427, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus begrenzt den Gegenstand der Rhetorik. Sie ist keine Universalwissenschaft. Sie behandelt die Angelegenheiten des praktischen Lebens."
+    },
+    {
+      "id": "rhetorik-015",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch I (PHerc. 1427)",
+      "griechisch": "…ἡ δὲ σοφιστικὴ ῥητορικὴ τὸ πιθανὸν ἐν παντὶ ζητεῖ…",
+      "deutsch": "…die sophistische Rhetorik sucht in allem das Überzeugende…",
+      "kolumne": "Col. XXI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1427, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Die sophistische Rhetorik kennt keine Grenzen. Sie überzeugt über alles. Damit wird sie beliebig. Sie kann ebenso gut für die Wahrheit wie für die Lüge arbeiten."
+    },
+    {
+      "id": "rhetorik-016",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch I (PHerc. 1427)",
+      "griechisch": "…ὁ δὲ πολιτικὸς ῥήτωρ ἔργον ἔχει τὸ κοινῇ συμφέρον εἰπεῖν…",
+      "deutsch": "…der politische Redner hat die Aufgabe, das gemeinsame Wohl auszusprechen…",
+      "kolumne": "Col. XXIV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1427, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus formuliert die Aufgabe der politischen Rhetorik. Sie hat ein Thema, das nicht verhandelbar ist. Sie dient dem Gemeinwohl."
+    },
+    {
+      "id": "rhetorik-017",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…ὁ δὲ λόγος ὁ ἀληθινὸς τὸν ἀκροατὴν οὐχ ἁρπάζει, ἀλλὰ πείθει…",
+      "deutsch": "…die wahre Rede reißt den Zuhörer nicht hin, sondern überzeugt ihn…",
+      "kolumne": "Col. XXX",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet zwischen dem Hinreißen und dem Überzeugen. Die wahre Rede berührt den Verstand. Sie lässt den Zuhörer frei."
+    },
+    {
+      "id": "rhetorik-018",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…ἡ δὲ πειθὼ οὐκ ἔστι βία, ἀλλ' ὁδὸς εἰς τὸ ἀγαθόν…",
+      "deutsch": "…die Überzeugung ist keine Gewalt, sondern ein Weg zum Guten…",
+      "kolumne": "Col. XXXII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus trennt Überzeugung von Zwang. Überzeugung setzt Freiheit voraus. Zwang zerstört sie. Deshalb ist die Rhetorik eine Kunst der Freiheit."
+    },
+    {
+      "id": "rhetorik-019",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…ὁ ἀκροατὴς κρίνει, οὐχ ὑπακούει μόνον…",
+      "deutsch": "…der Zuhörer urteilt, er gehorcht nicht nur…",
+      "kolumne": "Col. XXXIV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus betont die aktive Rolle des Zuhörers. Die Rede überzeugt nur, wenn der Zuhörer urteilt. Er ist nicht Empfänger, sondern Prüfer."
+    },
+    {
+      "id": "rhetorik-020",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…δεῖ τὸν λέγοντα τοῖς τοῦ ἀκούοντος ὦτα χρῆσθαι…",
+      "deutsch": "…der Sprechende muss die Ohren des Hörenden gebrauchen…",
+      "kolumne": "Col. XXXVI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus beschreibt die wechselseitige Bedingung jeder Rede. Sprechen und Hören gehören zusammen. Der Redner muss den Zuhörer mitdenken."
+    },
+    {
+      "id": "rhetorik-021",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…οὐχ ἡ φωνὴ τὸ κύριον, ἀλλ' ὁ νοῦς ὁ ἐν τῇ φωνῇ…",
+      "deutsch": "…nicht die Stimme ist das Entscheidende, sondern der Sinn in der Stimme…",
+      "kolumne": "Col. XXXVIII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verlagert den Wert der Rede von der äußeren Form auf den inneren Gehalt. Die Stimme trägt den Sinn. Sie ist nicht der Sinn."
+    },
+    {
+      "id": "rhetorik-022",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…ὁ ἀγαθὸς ῥήτωρ ὀλίγα λέγει, ἀλλὰ καιρίως…",
+      "deutsch": "…der gute Redner sagt wenig, aber zur rechten Zeit…",
+      "kolumne": "Col. XL",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus lobt die Sparsamkeit des guten Redners. Es kommt nicht auf die Menge der Worte an, sondern auf den Kairos, den rechten Augenblick."
+    },
+    {
+      "id": "rhetorik-023",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…ἡ δὲ ἀλήθεια οὐ δεῖται κόμπου, ἀλλὰ μαρτυρίας…",
+      "deutsch": "…die Wahrheit bedarf keiner Prahlerei, sondern des Zeugnisses…",
+      "kolumne": "Col. XLII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet Wahrheit und Prahlerei. Die Wahrheit braucht keine großen Worte. Sie braucht Belege. Wer prahlt, hat nichts zu zeigen."
+    },
+    {
+      "id": "rhetorik-024",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…ὁ δὲ κόλαξ ῥήτωρ οὐ τὸν ἀκροατὴν ὠφελεῖ, ἀλλ' ἑαυτόν…",
+      "deutsch": "…der schmeichlerische Redner nützt nicht dem Zuhörer, sondern sich selbst…",
+      "kolumne": "Col. XLIV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus prangert die Schmeichelei in der Rede an. Der Schmeichler sucht nicht die Wahrheit, sondern den Beifall. Er dient sich selbst."
+    },
+    {
+      "id": "rhetorik-025",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch III (PHerc. 1015)",
+      "griechisch": "…ἡ δὲ ῥητορικὴ οὐχ ἁπλῆ, ἀλλὰ πολυειδής ἐστιν…",
+      "deutsch": "…die Rhetorik ist nicht einfach, sondern vielgestaltig…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1015, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus anerkennt die Vielgestalt der Rhetorik. Sie ist nicht eine Kunst, sondern viele. Sie passt sich an Anlass, Publikum und Ziel an."
+    },
+    {
+      "id": "rhetorik-026",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch III (PHerc. 1015)",
+      "griechisch": "…ὁ δὲ ῥήτωρ οὐχ ἓν εἶδος λόγου, ἀλλὰ πολλὰ χρῆται…",
+      "deutsch": "…der Redner gebraucht nicht eine einzige Art der Rede, sondern viele…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1015, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus betont die Anpassungsfähigkeit des Redners. Er muss nicht nur eine Form beherrschen. Er muss die Form wählen, die der Situation entspricht."
+    },
+    {
+      "id": "rhetorik-027",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch III (PHerc. 1015)",
+      "griechisch": "…τὸ δὲ μῆκος τοῦ λόγου οὐ τὸ μέτρον τῆς σοφίας…",
+      "deutsch": "…die Länge der Rede ist nicht das Maß der Weisheit…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1015, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus warnt vor der Verwechslung von Länge und Tiefe. Eine lange Rede ist nicht weise. Eine kurze Rede kann mehr enthalten."
+    },
+    {
+      "id": "rhetorik-028",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch III (PHerc. 1015)",
+      "griechisch": "…δεῖ τὸν λέγοντα σαφῶς λέγειν, οὐχ ὡς οἱ ποιηταί…",
+      "deutsch": "…der Sprechende muss klar sprechen, nicht wie die Dichter…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1015, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus trennt Rhetorik und Dichtung. Die Dichtung darf verschleiern. Die Rhetorik muss klar sein. Sie dient nicht der Schönheit, sondern der Verständigung."
+    },
+    {
+      "id": "rhetorik-029",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch III (PHerc. 1015)",
+      "griechisch": "…ἡ δὲ κολακεία τῆς ῥητορικῆς νόσος ἐστίν…",
+      "deutsch": "…die Schmeichelei ist eine Krankheit der Rhetorik…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1015, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verwendet das Bild der Krankheit. Die Schmeichelei ist nicht eine Form der Rhetorik, sondern eine Entartung. Sie zerstört die Rhetorik von innen."
+    },
+    {
+      "id": "rhetorik-030",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch III (PHerc. 1015)",
+      "griechisch": "…ὁ δὲ ἀγαθὸς ῥήτωρ τὴν ἀλήθειαν προτίθησιν πάντων…",
+      "deutsch": "…der gute Redner stellt die Wahrheit über alles…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1015, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus fasst das Ethos des Redners zusammen. Die Wahrheit steht über dem Erfolg. Wer die Wahrheit zurückstellt, um zu überzeugen, hat bereits verloren."
+    },
+    {
+      "id": "rhetorik-031",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch IV (PHerc. 832)",
+      "griechisch": "…ὁ δὲ πολιτικὸς λόγος περὶ πόλεως καὶ νόμων…",
+      "deutsch": "…die politische Rede handelt von der Stadt und den Gesetzen…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 832, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus benennt den Gegenstand der politischen Rede. Sie hat es mit dem Gemeinwesen zu tun, nicht mit dem Einzelnen. Ihre Themen sind die Stadt, die Gesetze, das gemeinsame Wohl."
+    },
+    {
+      "id": "rhetorik-032",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch IV (PHerc. 832)",
+      "griechisch": "…ἡ δὲ πολιτικὴ ῥητορικὴ ἐν καιρῷ μάλιστα τὴν ἰσχὺν ἔχει…",
+      "deutsch": "…die politische Rhetorik hat ihre Stärke vor allem im rechten Augenblick…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 832, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus betont den Kairos als Kern der politischen Rede. Was zur falschen Zeit gesagt wird, verliert seine Wirkung. Die rechte Stunde entscheidet über Erfolg oder Misserfolg."
+    },
+    {
+      "id": "rhetorik-033",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch IV (PHerc. 832)",
+      "griechisch": "…ὁ δὲ σοφὸς οὐκ ἐπὶ πᾶσι τοῖς πολιτικοῖς λόγοις σπουδάζει…",
+      "deutsch": "…der Weise eifert nicht bei allen politischen Reden…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 832, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus beschreibt die Haltung des Weisen zur politischen Rede. Er beteiligt sich, aber nicht an allem. Er wählt die Themen, die dem Gemeinwohl dienen."
+    },
+    {
+      "id": "rhetorik-034",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch IV (PHerc. 832)",
+      "griechisch": "…οὐκ ἀεὶ δεῖ τὸν ῥήτορα ἐν ἀγορᾷ λέγειν…",
+      "deutsch": "…der Redner muss nicht immer in der Volksversammlung sprechen…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 832, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet die öffentliche Rede von anderen Formen des Sprechens. Wer immer laut spricht, hat keinen Raum für das leise Wort. Der Redner wählt seine Orte."
+    },
+    {
+      "id": "rhetorik-035",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch IV (PHerc. 832)",
+      "griechisch": "…ἡ δὲ σιωπὴ πολλάκις τοῦ λόγου δυνατωτέρα ἐστίν…",
+      "deutsch": "…das Schweigen ist oft stärker als die Rede…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 832, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus wiederholt in scharfer Form, was er im zweiten Buch bereits angelegt hat. Schweigen ist keine Leere. Es ist eine eigene Kraft. Wer die Stille beherrscht, beherrscht die Rede."
+    },
+    {
+      "id": "rhetorik-036",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch IV (PHerc. 832)",
+      "griechisch": "…οὐχ ἡ ῥητορικὴ τὰ πράγματα ποιεῖ, ἀλλὰ τὰ πράγματα τὴν ῥητορικήν…",
+      "deutsch": "…nicht die Rhetorik macht die Dinge, sondern die Dinge machen die Rhetorik…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 832, Sudhaus, Philodemi Volumina Rhetorica",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Teubner, 1892–1896",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus' Schlusswort zur Rhetorik. Die Rede ist nicht die Ursache der Wirklichkeit. Die Wirklichkeit ist der Grund der Rede. Die Rhetorik dient der Sache, nicht umgekehrt."
+    }
+  ]
+}

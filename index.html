@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<meta name="theme-color" content="#0f0d0a">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="description" content="Eine Auswahl bereits übersetzter Texte aus den verkohlten Papyri von Herculaneum. Nach Themen geordnet. Mit Quellen versehen.">
+<title>P.Herc. OpenScience — Lesesaal der Antike</title>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500&family=GFS+Didot&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+
+<!-- Intro-Overlay mit Video (Audio im Video enthalten) -->
+<div id="intro" class="intro-overlay">
+  <video class="intro-video" autoplay playsinline preload="auto">
+    <source src="assets/video/intro.mp4" type="video/mp4">
+  </video>
+</div>
+
+<!-- Beweglicher Sternenhimmel mit Laniakea -->
+<div class="sky" id="sky" aria-hidden="true">
+  <div class="sky-field" id="skyField">
+    <div class="laniakea"></div>
+  </div>
+</div>
+
+<!-- Sternschnuppen -->
+<div class="shooting-star-wrapper" style="--angle: 32deg; top: 18%; animation-delay: 9s;" aria-hidden="true">
+  <div class="shooting-star"></div>
+</div>
+<div class="shooting-star-wrapper" style="--angle: 22deg; top: 58%; animation-delay: 27s;" aria-hidden="true">
+  <div class="shooting-star"></div>
+</div>
+<div class="shooting-star-wrapper" style="--angle: 48deg; top: 8%; animation-delay: 46s;" aria-hidden="true">
+  <div class="shooting-star"></div>
+</div>
+
+<div class="container">
+
+  <header>
+    <div class="logo">AitherStudio</div>
+    <div class="header-status">LESESAAL DER ANTIKE</div>
+  </header>
+
+  <section class="hero">
+    <div class="eyebrow">DIE BIBLIOTHEK VON HERCULANEUM</div>
+    <h1>
+      Was die Asche<br>
+      <span class="ital">bewahrt hat</span>
+    </h1>
+    <p class="sub">
+      Eine Auswahl bereits übersetzter Texte aus den verkohlten Papyri.
+      Nach Themen geordnet. Mit Quellen versehen. Zum Lesen bereit.
+    </p>
+
+    <div class="counters">
+      <div class="counter">
+        <div class="num">1.800</div>
+        <div class="lbl">BEKANNTE ROLLEN</div>
+      </div>
+      <div class="counter">
+        <div class="num" id="counter-trans">—</div>
+        <div class="lbl">ÜBERSETZTE TEXTE</div>
+      </div>
+      <div class="counter">
+        <div class="num" id="counter-themes">—</div>
+        <div class="lbl">THEMEN</div>
+      </div>
+    </div>
+  </section>
+
+  <div class="section-title">
+    <div class="eyebrow">WÄHLE EIN THEMA</div>
+    <h2>Zehn Fenster zur Antike</h2>
+  </div>
+
+  <section class="themes" id="themesGrid">
+    <div class="loading">Die Sammlung wird geladen…</div>
+  </section>
+
+  <section class="reader" id="reader">
+    <div class="reader-header">
+      <div class="reader-meta">
+        <div class="author" id="rAuthor"></div>
+        <div class="work" id="rWork"></div>
+      </div>
+      <div class="reader-tabs" role="tablist">
+        <button class="reader-tab active" data-lang="de" role="tab" aria-selected="true">DEUTSCH</button>
+        <button class="reader-tab" data-lang="greek" role="tab" aria-selected="false">GRIECHISCH</button>
+      </div>
+    </div>
+
+    <div class="reader-body">
+      <div class="reader-text german-text" id="rText"></div>
+    </div>
+
+    <div class="reader-source">
+      <div class="source-line">
+        Quelle: <a href="#" id="rSourceLink" target="_blank" rel="noopener">—</a>
+      </div>
+      <div class="source-position" id="rPosition">—</div>
+    </div>
+
+    <div class="reader-nav">
+      <button id="rPrev" aria-label="Vorheriger Text">← Zurück</button>
+      <span id="rCount">— / —</span>
+      <button id="rNext" aria-label="Nächster Text">Weiter →</button>
+    </div>
+  </section>
+
+  <div class="section-title">
+    <div class="eyebrow">DER STAND DER DINGE</div>
+    <h2>Was bereits geöffnet ist</h2>
+  </div>
+
+  <section class="overview">
+    <div class="overview-bar">
+      <div class="open" style="width: 4.3%;" title="78 vollständig übersetzt"></div>
+      <div class="reading" style="width: 8.7%;" title="157 in Bearbeitung"></div>
+      <div class="pending" style="width: 87%;" title="1.565 ungeöffnet"></div>
+    </div>
+    <div class="overview-legend">
+      <span class="l-open">78 übersetzt (4,3 %)</span>
+      <span class="l-reading">157 in Bearbeitung (8,7 %)</span>
+      <span class="l-pending">1.565 in der KI-Pipeline (87,0 %)</span>
+    </div>
+  </section>
+
+  <footer>
+    <div>EIN OFFENES FORSCHUNGSPROJEKT · 2026</div>
+    <div>DATEN AUS PAPYRI.INFO · VESUVIUS CHALLENGE · IIIF CISPE NEAPEL</div>
+    <div class="sig">So sei es immer untrennbar und treu.</div>
+  </footer>
+
+</div>
+
+<script src="assets/app.js?v=2"></script>
+</body>
+</html>

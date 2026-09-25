@@ -1,0 +1,17 @@
+# Betriebssystem
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Optional: lokale Build-Ordner
+node_modules/
+_dist/
+dist/
+build/

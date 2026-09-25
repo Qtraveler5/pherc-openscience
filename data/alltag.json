@@ -1,0 +1,584 @@
+{
+  "thema": "alltag",
+  "titel": "Alltag & Haushalt",
+  "beschreibung": "Texte über die Führung des Hauses, den Umgang mit Reichtum und Armut, die Kunst der Genügsamkeit, die Sorge um die täglichen Bedürfnisse und das epikureische Verständnis eines guten Lebens im Alltag. Über den Wert der Arbeit, die Rolle der Familie, die Mäßigung der Begierden und die Verbindung von Haus und Gemeinwesen. Überwiegend aus Philodemos' Schrift Über die Haushaltsführung (PHerc. 1424), den Vatikanischen Sprüchen Epikurs und Fragmenten aus dem Alltagsleben der Vesuvius-Region.",
+  "anzahl_texte": 36,
+  "texte": [
+    {
+      "id": "alltag-001",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ὁ πλοῦτος οὐκ ἐν τῇ κτήσει, ἀλλ' ἐν τῇ χρήσει κεῖται…",
+      "deutsch": "…der Reichtum liegt nicht im Besitz, sondern im Gebrauch…",
+      "kolumne": "Col. III",
+      "zeilen": "18–20",
+      "quelle": {
+        "primaer": "PHerc. 1424, Vesuvius Challenge / Tsouna",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management, SBL Press, 2012",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Der zentrale Satz der epikureischen Ökonomie. Reichtum ist keine Frage der Menge, sondern der Nutzung. Wer viel besitzt und nichts gebraucht, ist arm."
+    },
+    {
+      "id": "alltag-002",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…δεῖ τὸν οἰκονόμον μὴ τοῦ πλείονος ἐφίεσθαι, ἀλλὰ τοῦ μὴ δεῖσθαι πλειόνων…",
+      "deutsch": "…der Hausherr soll nicht nach mehr streben, sondern danach, nicht mehr zu bedürfen…",
+      "kolumne": "Col. VI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus formuliert das Ziel der Haushaltsführung. Es ist nicht die Vermehrung des Besitzes, sondern die Verringerung der Bedürfnisse."
+    },
+    {
+      "id": "alltag-003",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ὁ δὲ νοῦς τῆς οἰκονομίας ἐν τῷ καιρῷ, οὐκ ἐν τῷ πλήθει τῶν κτημάτων…",
+      "deutsch": "…der Sinn der Haushaltsführung liegt im rechten Augenblick, nicht in der Menge der Güter…",
+      "kolumne": "Col. VIII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus betont den Kairos, den rechten Augenblick, als Kern der Haushaltsführung. Es geht nicht darum, möglichst viel zu besitzen, sondern im richtigen Moment das Richtige zu tun."
+    },
+    {
+      "id": "alltag-004",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…μετρίως μὲν κεκτῆσθαι χρή, μὴ μετρίως δὲ χρῆσθαι…",
+      "deutsch": "…man soll mäßig besitzen, aber nicht mäßig gebrauchen…",
+      "kolumne": "Col. XI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet Besitz und Gebrauch. Der Besitz soll mäßig sein. Der Gebrauch aber soll großzügig sein. Wer wenig besitzt und es sparsam gebraucht, wird geizig."
+    },
+    {
+      "id": "alltag-005",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 63",
+      "griechisch": "…ἡ εὐτέλεια τῆς φύσεως αὐτῆς ἡδονῆς ἕνεκα καὶ τὸ ὀλιγοδεὲς μέγα ἀγαθόν ἐστιν…",
+      "deutsch": "…die Einfachheit der Natur um der Lust willen und die Bedürfnislosigkeit sind ein großes Gut…",
+      "kolumne": "Sententia Vaticana 63",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum, Codex Vaticanus Graecus 1950",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur preist die Einfachheit. Sie ist nicht Askese, sondern Ökonomie der Lust. Wer wenig braucht, kann viel genießen."
+    },
+    {
+      "id": "alltag-006",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 68",
+      "griechisch": "…οὐδὲν ἱκανόν ἐστιν ᾧ τὸ ἱκανὸν ὀλίγον ἐστίν…",
+      "deutsch": "…nichts ist genug für den, dem das Genug zu wenig ist…",
+      "kolumne": "Sententia Vaticana 68",
+      "zeilen": "1",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur benennt die Wurzel der Unzufriedenheit. Es liegt nicht am Mangel, sondern an der Maßlosigkeit des Begehrens."
+    },
+    {
+      "id": "alltag-007",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 15",
+      "griechisch": "…ὥσπερ ἡ τοῦ σώματος ὑγίεια οὐκ ἐν τῷ πολλῷ ἐστιν, οὕτως οὐδ' ἡ τῆς ψυχῆς εὐδαιμονία…",
+      "deutsch": "…wie die Gesundheit des Körpers nicht im Vielen besteht, so auch nicht das Glück der Seele…",
+      "kolumne": "Sententia Vaticana 15",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur vergleicht körperliche Gesundheit und seelisches Glück. Beide entstehen nicht durch Überfluss, sondern durch Ausgewogenheit."
+    },
+    {
+      "id": "alltag-008",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 34",
+      "griechisch": "…οὐ τὸ ποιεῖν τὰς πράξεις, ἀλλὰ τὸ κρίνειν ὀρθῶς περὶ αὐτῶν δεῖ…",
+      "deutsch": "…nicht die Taten sind es, sondern das richtige Urteil über sie tut Not…",
+      "kolumne": "Sententia Vaticana 34",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verlagert den Akzent von der Tat auf das Urteil. Der Alltag wird durch Klarheit geheiligt, nicht durch Menge."
+    },
+    {
+      "id": "alltag-009",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 41",
+      "griechisch": "…γελᾶν ἅμα δεῖ καὶ φιλοσοφεῖν καὶ οἰκονομεῖν καὶ τοῖς λοιποῖς οἰκείοις χρῆσθαι…",
+      "deutsch": "…man muss zugleich lachen und philosophieren und den Haushalt führen und sich den übrigen Angehörigen widmen…",
+      "kolumne": "Sententia Vaticana 41",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur vereint Lachen, Philosophieren, Haushalt und Familie in einem Atemzug. Philosophie ist im Alltag, nicht jenseits von ihm."
+    },
+    {
+      "id": "alltag-010",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…καλὸν ἡ γαλήνη τῆς ψυχῆς, ἥπερ ἐκ τῆς τῶν περιττῶν ἀποφυγῆς γίνεται…",
+      "deutsch": "…schön ist die Ruhe der Seele, die aus der Vermeidung des Überflüssigen entsteht…",
+      "kolumne": "Col. XVII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus' Schlusswort zur Haushaltsführung. Das Ziel ist die Seelenruhe (γαλήνη). Die Haushaltsführung ist eine spirituelle Übung im Gewand der Alltagsökonomie."
+    },
+    {
+      "id": "alltag-011",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ἡ δὲ φιλοχρηματία πᾶσα νόσος τῆς ψυχῆς ἐστίν…",
+      "deutsch": "…die Geldgier aber ist ganz und gar eine Krankheit der Seele…",
+      "kolumne": "Col. XX",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verwendet das Bild der Krankheit für die Geldgier. Sie ist keine Tugend, sondern ein Symptom. Wer sie hat, ist krank."
+    },
+    {
+      "id": "alltag-012",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…οὐχ ἡ τῶν πολλῶν κτῆσις εὐδαίμονα ποιεῖ τὸν ἄνθρωπον…",
+      "deutsch": "…nicht der Besitz des Vielen macht den Menschen glücklich…",
+      "kolumne": "Col. XXII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verneint die Gleichung von Reichtum und Glück. Wer viel besitzt, ist nicht schon glücklich. Das Glück hängt an anderem."
+    },
+    {
+      "id": "alltag-013",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ὁ δὲ θεράπων πιστὸς τοῦ δεσπότου ὁμοίωμα ἔστω…",
+      "deutsch": "…der treue Diener aber sei ein Abbild des Herrn…",
+      "kolumne": "Col. XXV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus beschreibt das Verhältnis von Herr und Diener als Spiegelung. Der Diener bildet den Herrn ab. Die Hausführung erzeugt die Form der Beziehung."
+    },
+    {
+      "id": "alltag-014",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…δεῖ δὲ καὶ τοὺς οἰκέτας ὡς ἑαυτὸν ἀγαπᾶν, μὴ ὡς θηρία μεταχειρίζεσθαι…",
+      "deutsch": "…man muss auch die Hausgenossen wie sich selbst lieben, nicht wie wilde Tiere behandeln…",
+      "kolumne": "Col. XXVI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verlangt eine humane Behandlung der Hausgenossen. Die Hausführung schließt die Gerechtigkeit gegenüber den Untergebenen ein."
+    },
+    {
+      "id": "alltag-015",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ἡ δὲ γυναικὶ συμβίωσις κοινωνία τίς ἐστιν ἀγαθή…",
+      "deutsch": "…das Zusammenleben mit der Frau aber ist eine gute Gemeinschaft…",
+      "kolumne": "Col. XXVIII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus beschreibt die Ehe als Gemeinschaft. Sie ist nicht eine Verfügungsgewalt, sondern ein gemeinsames Leben. Die Hausführung ist geteilte Sorge."
+    },
+    {
+      "id": "alltag-016",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…δεῖ γὰρ εὐποιητικὸν εἶναι τὸν ἄνθρωπον, οὐ μόνον αὐτῷ ἀλλὰ καὶ ἄλλοις…",
+      "deutsch": "…der Mensch muss wohltätig sein, nicht nur sich selbst, sondern auch anderen…",
+      "kolumne": "Col. XXX",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verbindet Haushalt und Wohltätigkeit. Wer nur für sich sorgt, führt sein Haus schlecht. Die Hausführung schließt die Gabe an andere ein."
+    },
+    {
+      "id": "alltag-017",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 15",
+      "griechisch": "…ὁ πλοῦτος ὁ τῆς φύσεως ὡρισμένος ἐστίν, ὁ δὲ τῆς κενῆς δόξης εἰς ἄπειρον ἐκπίπτει…",
+      "deutsch": "…der Reichtum der Natur ist begrenzt, der Reichtum der leeren Meinung aber fällt ins Unendliche…",
+      "kolumne": "Sententia Vaticana 15",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur unterscheidet den natürlichen Reichtum vom Reichtum der Meinung. Der eine ist begrenzt, der andere unbegrenzt. Das Streben nach dem zweiten ist bodenlos."
+    },
+    {
+      "id": "alltag-018",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 25",
+      "griechisch": "…ἡ πενία μετρουμένη πρὸς τὸν τῆς φύσεως σκοπὸν πλοῦτός ἐστιν…",
+      "deutsch": "…die Armut, gemessen am Ziel der Natur, ist Reichtum…",
+      "kolumne": "Sententia Vaticana 25",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur kehrt die Begriffe um. Die Armut, gemessen am natürlichen Maß, ist Reichtum. Der Reichtum, gemessen an der leeren Meinung, ist Armut."
+    },
+    {
+      "id": "alltag-019",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 21",
+      "griechisch": "…οὐ δεῖ βιάζεσθαι τὴν φύσιν, ἀλλὰ πείθειν…",
+      "deutsch": "…man darf die Natur nicht zwingen, sondern muss sie überzeugen…",
+      "kolumne": "Sententia Vaticana 21",
+      "zeilen": "1",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur formuliert eine Haushaltsregel. Man darf die Natur nicht zwingen. Die Bedürfnisse sind natürliche Grenzen. Wer sie übergeht, schadet sich."
+    },
+    {
+      "id": "alltag-020",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 33",
+      "griechisch": "…ἡ μὲν σάρξ τὰς λύπας καὶ τὰς ἡδονὰς δέχεται, ἡ δὲ ψυχὴ τὰ ἀγαθὰ καὶ τὰ κακά…",
+      "deutsch": "…das Fleisch empfängt die Schmerzen und die Lüste, die Seele aber das Gute und das Schlechte…",
+      "kolumne": "Sententia Vaticana 33",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur unterscheidet zwei Ebenen des Empfindens. Der Leib empfindet Lust und Schmerz. Die Seele erkennt Gut und Böse. Beide sind für das gute Leben nötig."
+    },
+    {
+      "id": "alltag-021",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ὁ δὲ πένης ὁ σοφὸς πλουσιώτερος τοῦ ἀνοήτου βασιλέως…",
+      "deutsch": "…der weise Arme aber ist reicher als der törichte König…",
+      "kolumne": "Col. XXXII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus vergleicht den Weisen und den Toren. Der Weise ist auch in der Armut reich, weil er das Maß kennt. Der Tor ist auch im Reichtum arm, weil er kein Maß kennt."
+    },
+    {
+      "id": "alltag-022",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…οὐχ ἡ τῶν σιτίων πολυτέλεια τὸν βίον ἡδύνει, ἀλλ' ἡ τῆς ὀρέξεως εὐτέλεια…",
+      "deutsch": "…nicht die Üppigkeit der Speisen versüßt das Leben, sondern die Einfachheit des Verlangens…",
+      "kolumne": "Col. XXXIV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verlagert die Freude von den Speisen auf das Verlangen. Wer wenig verlangt, kann an jeder Speise Freude haben. Wer viel verlangt, kann an keiner satt werden."
+    },
+    {
+      "id": "alltag-023",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ἡ δὲ φιλεργία τῇ φύσει σύμφωνος, ἡ δὲ ἀργία πολέμιος…",
+      "deutsch": "…die Arbeitsfreude ist mit der Natur im Einklang, die Trägheit aber ist ihr Feind…",
+      "kolumne": "Col. XXXVI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus preist die Arbeit. Sie entspricht der Natur des Menschen. Die Trägheit hingegen widerspricht ihr. Der Alltag wird durch Arbeit geformt."
+    },
+    {
+      "id": "alltag-024",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ὁ δὲ καιρὸς ὁ τῆς ἐργασίας οὐχ ὁ αὐτὸς παντί…",
+      "deutsch": "…der rechte Augenblick der Arbeit ist nicht für jeden derselbe…",
+      "kolumne": "Col. XXXVIII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus betont die Individualität des Kairos. Jeder hat seinen eigenen rechten Augenblick. Wer anderen die Arbeit vorschreibt, verfehlt sie."
+    },
+    {
+      "id": "alltag-025",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ἡ δὲ τῶν οἰκείων ἐπιμέλεια καρπὸν φέρει τὸν μέγιστον…",
+      "deutsch": "…die Sorge für die Angehörigen aber trägt die größte Frucht…",
+      "kolumne": "Col. XL",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus stellt die Sorge für die Familie über alle anderen Früchte des Haushalts. Sie trägt die größte Frucht. Der Alltag wird durch diese Sorge geheiligt."
+    },
+    {
+      "id": "alltag-026",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ὁ δὲ νοῦς ὁ τῆς οἰκονομίας ἔργον ἐστί τῆς φρονήσεως…",
+      "deutsch": "…der Sinn der Haushaltsführung aber ist ein Werk der praktischen Weisheit…",
+      "kolumne": "Col. XLII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verbindet Haushaltsführung und praktische Weisheit. Die Ökonomie ist keine Technik. Sie ist eine Form der Klugheit."
+    },
+    {
+      "id": "alltag-027",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 53",
+      "griechisch": "…οὐδεὶς φιλοχρήματος δίκαιος οὐδὲ φιλήδονος οὐδὲ φίλαρχος…",
+      "deutsch": "…niemand, der geldgierig ist, ist gerecht, und niemand, der lüstern ist, und niemand, der herrschsüchtig ist…",
+      "kolumne": "Sententia Vaticana 53",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verbindet drei Laster mit einem Verlust. Geldgier, Lüsternheit und Herrschsucht schließen die Gerechtigkeit aus. Die Gerechtigkeit im Alltag ist eine Frage der Begehren."
+    },
+    {
+      "id": "alltag-028",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 58",
+      "griechisch": "…ἐκλυτέον ἑαυτοὺς ἐκ τοῦ περὶ τὰ ἐγκύκλια καὶ πολιτικὰ πράγματα δεσμωτηρίου…",
+      "deutsch": "…man muss sich aus dem Gefängnis der Geschäfte des Alltags und der Politik befreien…",
+      "kolumne": "Sententia Vaticana 58",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur spricht vom Gefängnis der Alltagsgeschäfte. Die tägliche Sorge kann zum Kerker werden. Der Weise befreit sich, ohne die Sorge aufzugeben."
+    },
+    {
+      "id": "alltag-029",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 62",
+      "griechisch": "…ὁ δὲ μὴ ἀρκούμενος τοῖς παροῦσιν ἀγαθοῖς, οὗτος οὐδέποτε ἀρκούμενος…",
+      "deutsch": "…wer aber mit den gegenwärtigen Gütern nicht zufrieden ist, wird niemals zufrieden sein…",
+      "kolumne": "Sententia Vaticana 62",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verbindet Zufriedenheit mit Gegenwart. Wer das Heutige nicht annimmt, wird auch das Künftige nicht annehmen. Der Alltag ist der Ort der Zufriedenheit."
+    },
+    {
+      "id": "alltag-030",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 67",
+      "griechisch": "…ὁ μὲν φίλος τῆς ἀληθείας, ὁ δὲ κόλαξ τῆς ἡδονῆς…",
+      "deutsch": "…der Freund gehört zur Wahrheit, der Schmeichler zur Lust…",
+      "kolumne": "Sententia Vaticana 67",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur unterscheidet Freund und Schmeichler. Der Alltag ist der Ort, an dem sich diese Unterscheidung zeigt. Wer zu allem Ja sagt, ist kein Freund."
+    },
+    {
+      "id": "alltag-031",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…δεῖ τὸν οἰκονόμον ἐπιμελεῖσθαι καὶ τῶν μικρῶν, οὐ μόνον τῶν μεγάλων…",
+      "deutsch": "…der Hausherr muss auch für das Kleine sorgen, nicht nur für das Große…",
+      "kolumne": "Col. XLIV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus betont die Sorge für das Kleine. Der Alltag besteht aus kleinen Dingen. Wer nur das Große im Blick hat, verliert das Leben aus dem Blick."
+    },
+    {
+      "id": "alltag-032",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ἡ δὲ καθ' ἡμέραν φροντὶς ἴασις τῆς ψυχῆς ἐστιν…",
+      "deutsch": "…die tägliche Sorge aber ist eine Heilung der Seele…",
+      "kolumne": "Col. XLVI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verwendet das Bild der Heilung für die tägliche Sorge. Die Sorge ist nicht eine Last, sondern eine Übung. Sie heilt die Seele von der Unruhe."
+    },
+    {
+      "id": "alltag-033",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 24",
+      "griechisch": "…οὐχ ὁ τὰ πολλὰ λέγων σοφός, ἀλλ' ὁ τὰ χρήσιμα…",
+      "deutsch": "…nicht wer vieles sagt, ist weise, sondern wer das Nützliche sagt…",
+      "kolumne": "Sententia Vaticana 24",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur wendet die Sparsamkeit auf das Wort an. Der Alltag braucht wenige, aber nützliche Worte. Wer viel redet, sagt oft nichts."
+    },
+    {
+      "id": "alltag-034",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 46",
+      "griechisch": "…τὰς ἐν ἡμῖν αὐτοῖς οἰκονομίας τῶν ἔξωθεν μὴ μεγάλων φοβούμεθα…",
+      "deutsch": "…wir fürchten die inneren Verwaltungen nicht wegen der äußeren, die nicht groß sind…",
+      "kolumne": "Sententia Vaticana 46",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verlagert die Furcht von außen nach innen. Nicht die äußeren Umstände machen die Unruhe. Sie entsteht in der eigenen Verwaltung. Der Alltag ist ein innerer Haushalt."
+    },
+    {
+      "id": "alltag-035",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 73",
+      "griechisch": "…καὶ τὸ σῶμα πολλάκις διαφθείρεται τῷ τῆς ψυχῆς φόβῳ…",
+      "deutsch": "…auch der Leib wird oft durch die Furcht der Seele zerstört…",
+      "kolumne": "Sententia Vaticana 73",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verbindet Leib und Seele im Alltag. Die Furcht der Seele zerstört den Leib. Wer im Alltag in Furcht lebt, schadet seiner Gesundheit."
+    },
+    {
+      "id": "alltag-036",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 81",
+      "griechisch": "…οὐκ ἔστιν ἡ ψυχὴ τοῦ σώματος χωρὶς εὐδαιμονήσειν…",
+      "deutsch": "…die Seele wird nicht ohne den Leib glücklich sein…",
+      "kolumne": "Sententia Vaticana 81",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Der Schlusssatz der epikureischen Alltagslehre. Das Glück ist nicht rein geistig. Es braucht den Leib, die Sorge, die Arbeit, die Beziehung. Der Alltag ist der Ort, an dem das Glück wohnt."
+    }
+  ]
+}

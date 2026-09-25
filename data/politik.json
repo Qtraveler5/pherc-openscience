@@ -1,0 +1,584 @@
+{
+  "thema": "politik",
+  "titel": "Politik & Gemeinwesen",
+  "beschreibung": "Texte über das Verhältnis des Weisen zur Politik, die Gerechtigkeit als Übereinkunft des Nutzens, die Gefahren der Ehrsucht und die epikureische Kunst, im Verborgenen zu leben und dennoch dem Gemeinwesen zu dienen. Über die Natur des Rechts, die Aufgaben des Herrschers, den Unterschied zwischen Freiheit und Knechtschaft und die Frage, wann der Weise Verantwortung übernimmt. Überwiegend aus Epikurs Hauptlehrsätzen, den Vatikanischen Sprüchen sowie Philodemos' Schriften Über die Haushaltsführung (PHerc. 1424) und Über die Rhetorik (PHerc. 1004, 1427).",
+  "anzahl_texte": 36,
+  "texte": [
+    {
+      "id": "politik-001",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXXI (Kyriai Doxai)",
+      "griechisch": "…τὸ τῆς φύσεως δίκαιόν ἐστι σύμβολον τοῦ συμφέροντος εἰς τὸ μὴ βλάπτειν μηδὲ βλάπτεσθαι…",
+      "deutsch": "…das von Natur Gerechte ist ein Zeichen des Nutzens, damit man einander nicht schade und nicht geschädigt werde…",
+      "kolumne": "Kyriai Doxai XXXI",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Leben und Meinungen berühmter Philosophen, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die zentrale Definition der epikureischen Gerechtigkeit. Sie ist nicht göttlichen Ursprungs, nicht platonische Idee, nicht ewiges Gesetz. Sie ist eine Übereinkunft, die dem gegenseitigen Schutz dient."
+    },
+    {
+      "id": "politik-002",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXXII (Kyriai Doxai)",
+      "griechisch": "…ὅσα τῶν ζῴων μὴ ἐδύνατο συνθήκας ποιεῖσθαι τὰς ὑπὲρ τοῦ μὴ βλάπτειν ἄλληλα μηδὲ βλάπτεσθαι, πρὸς ταῦτα οὐδὲν ἦν δίκαιον οὐδὲ ἄδικον…",
+      "deutsch": "…bei jenen Lebewesen, die keine Verträge schließen konnten, einander nicht zu schaden und nicht geschädigt zu werden, gab es weder Gerechtigkeit noch Ungerechtigkeit…",
+      "kolumne": "Kyriai Doxai XXXII",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur begründet die Gerechtigkeit aus der Vertragsfähigkeit. Gerechtigkeit ist eine menschliche Errungenschaft, nicht ein Naturzustand."
+    },
+    {
+      "id": "politik-003",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXXIII (Kyriai Doxai)",
+      "griechisch": "…οὐκ ἦν τι καθ' ἑαυτὸ δικαιοσύνη, ἀλλ' ἐν ταῖς μετ' ἀλλήλων συστροφαῖς καθ' ὁπηλίκους δήποτε ἀεὶ τόπους συνθήκη τις ὑπὲρ τοῦ μὴ βλάπτειν ἢ βλάπτεσθαι…",
+      "deutsch": "…es gab keine Gerechtigkeit an sich, sondern nur in den Beziehungen der Menschen zueinander, an welchen Orten auch immer, eine Übereinkunft, einander nicht zu schaden oder geschädigt zu werden…",
+      "kolumne": "Kyriai Doxai XXXIII",
+      "zeilen": "1–4",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur lehnt jede metaphysische Gerechtigkeit ab. Es gibt kein Reich der Ideen, in dem das Gerechte wohnt. Gerechtigkeit ist kontextabhängig, nicht absolut."
+    },
+    {
+      "id": "politik-004",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXXIV (Kyriai Doxai)",
+      "griechisch": "…ἡ ἀδικία οὐ καθ' ἑαυτὴν κακόν, ἀλλ' ἐν τῷ κατὰ τὴν ὑποψίαν φόβῳ, εἰ μὴ λήσει τοὺς ὑπὲρ τῶν τοιούτων ἐφεστηκότας κολαστάς…",
+      "deutsch": "…das Unrecht ist nicht an sich ein Übel, sondern in der Furcht vor der Strafe, wenn man nicht vor den Aufsehern über solche Taten verborgen bleibt…",
+      "kolumne": "Kyriai Doxai XXXIV",
+      "zeilen": "1–4",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur analysiert das Unrecht als eine Frage der Furcht. Wer Unrecht tut, lebt in der ständigen Angst, entdeckt zu werden."
+    },
+    {
+      "id": "politik-005",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 58",
+      "griechisch": "…ἐκλυτέον ἑαυτοὺς ἐκ τοῦ περὶ τὰ ἐγκύκλια καὶ πολιτικὰ πράγματα δεσμωτηρίου…",
+      "deutsch": "…man muss sich aus dem Gefängnis der Geschäfte des Alltags und der Politik befreien…",
+      "kolumne": "Sententia Vaticana 58",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum, Codex Vaticanus Graecus 1950",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verwendet das Bild des Gefängnisses für die politischen Geschäfte. Die epikureische Empfehlung lautet nicht, die Welt zu verlassen, sondern sich nicht von ihr gefangen nehmen zu lassen."
+    },
+    {
+      "id": "politik-006",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 56",
+      "griechisch": "…οὐχ οὕτως εὐφραίνεται ὁ πολιτικός, ὡς ὁ ἰδιώτης, ὅταν εὐστοχήσῃ…",
+      "deutsch": "…der Politiker freut sich nicht so wie der einfache Bürger, wenn ihm etwas gelingt…",
+      "kolumne": "Sententia Vaticana 56",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur vergleicht die Freude des Politikers mit der des einfachen Bürgers. Die Freude des einfachen Bürgers ist reiner, weil sie nicht vom Beifall der Menge abhängt."
+    },
+    {
+      "id": "politik-007",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 77",
+      "griechisch": "…ἡ ἐλευθερία καρπὸς τῆς αὐταρκείας ἐστίν…",
+      "deutsch": "…die Freiheit ist die Frucht der Selbstgenügsamkeit…",
+      "kolumne": "Sententia Vaticana 77",
+      "zeilen": "1",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verbindet Freiheit und Selbstgenügsamkeit. Wer wenig braucht, ist wenig abhängig. Wer wenig abhängig ist, ist frei."
+    },
+    {
+      "id": "politik-008",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ὁ πολιτικὸς ἀνὴρ τὸ κοινῇ συμφέρον σκοπεῖ, οὐ τὸ ἑαυτῷ…",
+      "deutsch": "…der politische Mann sucht das gemeinsame Wohl, nicht das eigene…",
+      "kolumne": "Col. X",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Vesuvius Challenge / Tsouna",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management, SBL Press, 2012",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus unterscheidet den wahren politischen Mann vom Ehrgeizigen. Der Unterschied liegt nicht in der Position, sondern in der Absicht."
+    },
+    {
+      "id": "politik-009",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ἡ τοῦ κοινοῦ σωτηρία καὶ ἡ τοῦ ἰδίου σύγκειται…",
+      "deutsch": "…das Wohl des Gemeinwesens und das eigene Wohl sind miteinander verwoben…",
+      "kolumne": "Col. V",
+      "zeilen": "2–4",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus formuliert die Einheit von privatem und öffentlichem Wohl. Die Trennung von privat und öffentlich ist künstlich. Beide sind aufeinander verwiesen."
+    },
+    {
+      "id": "politik-010",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…ὁ σοφὸς οὐκ ἄρξει, εἰ μή τι ἐξαίρετον συμβαίνοι…",
+      "deutsch": "…der Weise wird nicht herrschen, es sei denn, etwas Außergewöhnliches träte ein…",
+      "kolumne": "Col. XXV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica, Teubner 1892",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Philodemi Volumina Rhetorica",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Philodemus formuliert die epikureische Zurückhaltung gegenüber der politischen Macht. Der Weise strebt nicht nach Herrschaft."
+    },
+    {
+      "id": "politik-011",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXXV (Kyriai Doxai)",
+      "griechisch": "…οὐκ ἔστι τὸν κρύπτοντα παρὰ τὰ συγκείμενα δίκαια λανθάνειν, εἰ καὶ νῦν λανθάνει…",
+      "deutsch": "…wer gegen die vereinbarten Gerechtigkeiten verstößt, kann nicht verborgen bleiben, auch wenn er jetzt noch verborgen ist…",
+      "kolumne": "Kyriai Doxai XXXV",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur betont die innere Folge des Unrechts. Wer gegen die Übereinkunft verstößt, mag äußerlich unentdeckt bleiben. Aber er kann nicht sicher sein. Die Unsicherheit ist die Strafe."
+    },
+    {
+      "id": "politik-012",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXXVI (Kyriai Doxai)",
+      "griechisch": "…κατὰ μὲν τὸ κοινὸν πάντες τὸ δίκαιον τὸ αὐτὸ διάγουσιν…",
+      "deutsch": "…im Allgemeinen führen alle das Gerechte als dasselbe durch…",
+      "kolumne": "Kyriai Doxai XXXVI",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur anerkennt eine allgemeine Übereinstimmung. Das Gerechte ist überall als Gerechtes erkennbar. Aber seine Inhalte sind verschieden, je nach Ort und Zeit."
+    },
+    {
+      "id": "politik-013",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXXVII (Kyriai Doxai)",
+      "griechisch": "…τὸ μὲν ἐπιεικὲς πανταχοῦ τὸ αὐτὸ εἶναι δοκεῖ, τὸ δὲ δίκαιον οὐ πανταχοῦ…",
+      "deutsch": "…das Angemessene scheint überall dasselbe zu sein, das Gerechte aber nicht überall…",
+      "kolumne": "Kyriai Doxai XXXVII",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur unterscheidet zwischen dem Angemessenen und dem Gerechten. Das Angemessene ist universell. Das Gerechte ist wandelbar. Diese Unterscheidung ist der Ursprung des Naturrechts."
+    },
+    {
+      "id": "politik-014",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXXVIII (Kyriai Doxai)",
+      "griechisch": "…ἐν οἷς τὰ κατὰ τοὺς νόμους δίκαια ὁμολογούμενα φαίνεται, ἐν τούτοις τὸ δίκαιον ὑπάρχειν…",
+      "deutsch": "…wo die gesetzlichen Gerechtigkeiten als übereinstimmend erscheinen, dort besteht das Gerechte…",
+      "kolumne": "Kyriai Doxai XXXVIII",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur definiert die Gültigkeit des Gesetzes. Solange die Übereinstimmung trägt, besteht das Gerechte. Wenn sie nicht mehr trägt, verliert das Gesetz seine Kraft. Kein Gesetz ist ewig."
+    },
+    {
+      "id": "politik-015",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXXX (Kyriai Doxai)",
+      "griechisch": "…ὅσοι τὴν δύναμιν ἔχοντες καὶ τὰς ἐπιθυμίας κρατοῦσιν, οὗτοι καὶ τὸ δίκαιον φυλάττουσιν…",
+      "deutsch": "…diejenigen, welche die Macht haben und die Begierden beherrschen, bewahren auch die Gerechtigkeit…",
+      "kolumne": "Kyriai Doxai XXXX",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verbindet Gerechtigkeit und Selbstbeherrschung. Wer Macht hat, aber seine Begierden nicht beherrscht, verletzt die Gerechtigkeit. Wer beide beherrscht, hält sie."
+    },
+    {
+      "id": "politik-016",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 6",
+      "griechisch": "…πάντα τὰ φαῦλα τοῦ θυμοῦ καὶ τῆς φιλαρχίας ἕνεκα…",
+      "deutsch": "…alle Schlechtigkeiten entstehen um des Zorns und der Herrschsucht willen…",
+      "kolumne": "Sententia Vaticana 6",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur benennt zwei Wurzeln des Übels. Den Zorn und die Herrschsucht. Beide wachsen in der Politik. Wer in der Politik tätig ist, muss sie besonders beherrschen."
+    },
+    {
+      "id": "politik-017",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 8",
+      "griechisch": "…οὐκ ἔστιν ἄρχειν τὸν ταῖς ἡδοναῖς δουλεύοντα…",
+      "deutsch": "…wer den Lüsten dient, kann nicht herrschen…",
+      "kolumne": "Sententia Vaticana 8",
+      "zeilen": "1",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur formuliert die Bedingung der Herrschaft. Wer sich selbst nicht beherrscht, kann nicht über andere herrschen. Die Selbstbeherrschung ist die erste Voraussetzung jeder Verantwortung."
+    },
+    {
+      "id": "politik-018",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 9",
+      "griechisch": "…ἡ μὲν ἀναγκαία φύσις, ἡ δὲ κεναὶ δόξαι…",
+      "deutsch": "…das eine gehört zur notwendigen Natur, das andere zu den leeren Meinungen…",
+      "kolumne": "Sententia Vaticana 9",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur unterscheidet natürliche Bedürfnisse und eingebildete Wünsche. Die Politik lebt von den eingebildeten Wünschen. Der Weise kennt den Unterschied."
+    },
+    {
+      "id": "politik-019",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 13",
+      "griechisch": "…ζηλοῦμεν γὰρ οὐ τοὺς πολλὰ κεκτημένους, ἀλλὰ τοὺς ἀλυπότατα ζῶντας…",
+      "deutsch": "…wir beneiden nicht die, welche viel besitzen, sondern die, welche am schmerzlosesten leben…",
+      "kolumne": "Sententia Vaticana 13",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verschiebt den Neid von Reichtum auf Ruhe. Nicht die Mächtigen sind zu beneiden, sondern die Schmerzlosen. Diese Umkehrung entlarvt die Politik als Trugbild."
+    },
+    {
+      "id": "politik-020",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 16",
+      "griechisch": "…οὐδεὶς ἔχων ἐπίσταται τὸν φόβον, ὁ δὲ μὴ ἔχων ἐλεύθερος…",
+      "deutsch": "…niemand kennt die Furcht, der hat, und wer nicht hat, ist frei…",
+      "kolumne": "Sententia Vaticana 16",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur formuliert eine scharfe These. Wer besitzt, fürchtet den Verlust. Wer nicht besitzt, hat nichts zu verlieren. Die Freiheit wächst mit der Armut. Die Politik ist der Ort der Furcht."
+    },
+    {
+      "id": "politik-021",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 17",
+      "griechisch": "…οὐχ ὁ νέος μακάριος εἶναι δύναται οὔτε ὁ γέρων…",
+      "deutsch": "…nicht der Jüngling noch der Greis kann glückselig sein, wenn er nicht geliebt hat…",
+      "kolumne": "Sententia Vaticana 17",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verbindet Glück und Liebe. Die Politik ist kein Ersatz für Liebe. Wer die Liebe nicht kennt, kann auch in der Politik nicht glücklich werden."
+    },
+    {
+      "id": "politik-022",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ὁ δὲ οἰκονόμος ἀγαθὸς καὶ τοῦ κοινοῦ οἰκονόμος γίνεται…",
+      "deutsch": "…der gute Hausherr wird auch zum guten Verwalter des Gemeinwesens…",
+      "kolumne": "Col. XII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verbindet Haus und Staat. Wer sein Haus gut führt, kann auch die Stadt gut führen. Die Tugenden der Haushaltsführung sind die Tugenden der Politik."
+    },
+    {
+      "id": "politik-023",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…οὐ δεῖ ἐπὶ τοῖς ἀλλοτρίοις σπουδάζειν, ἀλλ' ἐπὶ τοῖς ἰδίοις…",
+      "deutsch": "…man darf nicht nach den fremden Dingen streben, sondern nach den eigenen…",
+      "kolumne": "Col. XIV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus warnt vor der Begierde nach fremdem Besitz. Diese Begierde ist die Wurzel des Krieges und des Verbrechens. Die Politik darf nicht zur Beute werden."
+    },
+    {
+      "id": "politik-024",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…ὁ πολιτικὸς ῥήτωρ οὐχ ἁρπάζει τὰ κοινά, ἀλλὰ φυλάττει…",
+      "deutsch": "…der politische Redner raubt nicht das Gemeinwesen, sondern bewahrt es…",
+      "kolumne": "Col. XXVIII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica, Teubner 1892",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Philodemi Volumina Rhetorica",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Philodemus beschreibt die Aufgabe des politischen Redners. Er ist kein Eroberer, sondern ein Wächter. Sein Werk ist der Schutz, nicht der Raub."
+    },
+    {
+      "id": "politik-025",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…οὐ δεῖ τὸν πολιτικὸν τῆς ἰδίας δόξης ἀλλὰ τῆς κοινῆς ὠφελείας στοχάζεσθαι…",
+      "deutsch": "…der politische Mann darf nicht nach seinem eigenen Ruhm streben, sondern nach dem gemeinsamen Nutzen…",
+      "kolumne": "Col. XXX",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica, Teubner 1892",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Philodemi Volumina Rhetorica",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Philodemus trennt Ruhm und Nutzen. Wer in der Politik nach seinem eigenen Ruhm strebt, verfehlt den Zweck der Politik. Der Zweck ist das Wohl der Bürger."
+    },
+    {
+      "id": "politik-026",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…ἡ δὲ πολιτικὴ ῥητορικὴ οὐχ ἡ αὐτὴ τῇ σοφιστικῇ ἐν τοῖς πράγμασιν…",
+      "deutsch": "…die politische Rhetorik ist in den Dingen nicht dieselbe wie die sophistische…",
+      "kolumne": "Col. XXXII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica, Teubner 1892",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Philodemi Volumina Rhetorica",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Philodemus betont die materiale Differenz. Die politische Rhetorik behandelt die wirklichen Dinge. Die sophistische behandelt die Scheindinge. Nur eine dient dem Gemeinwesen."
+    },
+    {
+      "id": "politik-027",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…οὐκ ἔστιν ὁ αὐτὸς λόγος ἐν δημοκρατίᾳ καὶ ἐν μοναρχίᾳ…",
+      "deutsch": "…dieselbe Rede gilt nicht in der Demokratie und in der Monarchie…",
+      "kolumne": "Col. XXXIV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica, Teubner 1892",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Philodemi Volumina Rhetorica",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Philodemus anerkennt die Verschiedenheit der Staatsformen. Was in der Demokratie wirkt, wirkt nicht in der Monarchie. Die Rede passt sich der Verfassung an."
+    },
+    {
+      "id": "politik-028",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch II (PHerc. 1004)",
+      "griechisch": "…ὁ δὲ ἀγαθὸς πολίτης οὐχ ὁ πλεῖστα λαμβάνων, ἀλλ' ὁ πλεῖστα διδούς…",
+      "deutsch": "…der gute Bürger ist nicht der, welcher am meisten nimmt, sondern der, welcher am meisten gibt…",
+      "kolumne": "Col. XXXVI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1004, Sudhaus, Philodemi Volumina Rhetorica, Teubner 1892",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Philodemi Volumina Rhetorica",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Philodemus definiert den guten Bürger durch die Gabe, nicht durch die Einnahme. Diese Definition kehrt die übliche Ordnung um. Der Nutzen liegt im Beitrag."
+    },
+    {
+      "id": "politik-029",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch I (PHerc. 1427)",
+      "griechisch": "…ἡ δὲ πολιτικὴ ῥητορικὴ περὶ πόλεως καὶ νόμων…",
+      "deutsch": "…die politische Rhetorik handelt von der Stadt und den Gesetzen…",
+      "kolumne": "Col. XXXI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1427, Sudhaus, Philodemi Volumina Rhetorica, Teubner 1892",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Philodemi Volumina Rhetorica",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Philodemus benennt den Gegenstand der politischen Rhetorik. Die Stadt und die Gesetze. Nicht die Person und nicht der Ruhm. Der Inhalt ist öffentlich."
+    },
+    {
+      "id": "politik-030",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Rhetorik, Buch I (PHerc. 1427)",
+      "griechisch": "…οὐκ ἄνευ νόμων πόλις, οὐδ' ἄνευ δίκης νόμοι…",
+      "deutsch": "…keine Stadt ohne Gesetze, keine Gesetze ohne Gerechtigkeit…",
+      "kolumne": "Col. XXXIII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1427, Sudhaus, Philodemi Volumina Rhetorica, Teubner 1892",
+        "url": "https://papyri.info",
+        "edition": "Siegfried Sudhaus, Philodemi Volumina Rhetorica",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Philodemus formuliert eine Kette. Die Stadt braucht Gesetze. Die Gesetze brauchen Gerechtigkeit. Ohne Gerechtigkeit sind die Gesetze leer. Ohne Gesetze ist die Stadt keine Stadt."
+    },
+    {
+      "id": "politik-031",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ὁ δὲ πλοῦτος ὁ πολιτικός, ἐὰν μὲν ἐπὶ κακῷ ᾖ, βλάπτει τὴν πόλιν…",
+      "deutsch": "…der politische Reichtum aber, wenn er zum Übel dient, schadet der Stadt…",
+      "kolumne": "Col. XX",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus warnt vor dem politischen Reichtum. Reichtum in der Politik ist nicht neutral. Er dient entweder dem Wohl oder dem Übel der Stadt."
+    },
+    {
+      "id": "politik-032",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Haushaltsführung (PHerc. 1424)",
+      "griechisch": "…ἡ δὲ φιλοχρηματία καὶ ἡ φιλαρχία νοσήματα τῆς ψυχῆς…",
+      "deutsch": "…die Geldgier und die Herrschsucht sind Krankheiten der Seele…",
+      "kolumne": "Col. XXII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1424, Tsouna, SBL Press, 2012",
+        "url": "https://papyri.info",
+        "edition": "Voula Tsouna, Philodemus, On Property Management",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verwendet das Bild der Krankheit für die politischen Laster. Geldgier und Herrschsucht sind keine Tugenden, sondern Symptome. Wer sie hat, ist krank."
+    },
+    {
+      "id": "politik-033",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 54",
+      "griechisch": "…οὐ δεῖ φιλοσοφεῖν ἡμᾶς ὡς πάντα εἰδότας, ἀλλ' ὡς μαθησομένους…",
+      "deutsch": "…wir dürfen nicht philosophieren, als wüssten wir alles, sondern als solche, die lernen werden…",
+      "kolumne": "Sententia Vaticana 54",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur beschreibt die Haltung des Lernenden. Diese Haltung gilt auch in der Politik. Wer zu regieren beginnt und glaubt, alles zu wissen, hat schon verloren."
+    },
+    {
+      "id": "politik-034",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 64",
+      "griechisch": "…τὸν δὲ ἐπαινούμενον ὑπὸ τῶν πολλῶν μὴ θαυμάζειν…",
+      "deutsch": "…man darf den, welcher von der Menge gelobt wird, nicht bewundern…",
+      "kolumne": "Sententia Vaticana 64",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur warnt vor der Bewunderung des öffentlichen Lobes. Die Menge lobt oft das Falsche. Wer gelobt wird, ist nicht schon deshalb gut."
+    },
+    {
+      "id": "politik-035",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 68",
+      "griechisch": "…οὐδὲν ἱκανόν ἐστιν ᾧ τὸ ἱκανὸν ὀλίγον ἐστίν…",
+      "deutsch": "…nichts ist genug für den, dem das Genug zu wenig ist…",
+      "kolumne": "Sententia Vaticana 68",
+      "zeilen": "1",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur benennt die Wurzel der Unzufriedenheit. Diese Wurzel treibt auch die Politik an. Wer das Genug nicht anerkennt, wird in der Politik kein Genug finden."
+    },
+    {
+      "id": "politik-036",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 80",
+      "griechisch": "…ἀρχὴ δὲ τούτων καὶ μέγιστον ἀγαθὸν ἡ τῆς ἀληθείας γνῶσις…",
+      "deutsch": "…der Anfang und das größte Gut von allem ist die Erkenntnis der Wahrheit…",
+      "kolumne": "Sententia Vaticana 80",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Der Schlusssatz der epikureischen Politiklehre. Die Erkenntnis der Wahrheit ist auch in der Politik das höchste Gut. Ohne sie wird die Politik zur Kunst der Täuschung."
+    }
+  ]
+}

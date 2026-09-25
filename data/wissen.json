@@ -1,0 +1,584 @@
+{
+  "thema": "wissen",
+  "titel": "Wissen & Erkenntnis",
+  "beschreibung": "Texte über die Grundlagen der Erkenntnis, die Sinne als Kriterium der Wahrheit, die Vorwegnahme (Prolepsis), die Zeichenerschließung, die Unterscheidung zwischen Wissen und Meinung sowie die Grenzen und Möglichkeiten menschlicher Erkenntnis. Überwiegend aus Epikurs Brief an Herodot, den Hauptlehrsätzen, den Vatikanischen Sprüchen und Philodemos' Schrift Über die Zeichen (PHerc. 1065).",
+  "anzahl_texte": 36,
+  "texte": [
+    {
+      "id": "wissen-001",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 31–32)",
+      "griechisch": "…ἡ αἴσθησις πάντων ἡμῖν ἀρχὴ καὶ θεμέλιον τῆς γνώσεως…",
+      "deutsch": "…die Sinneswahrnehmung ist uns aller Erkenntnis Anfang und Fundament…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "31–32",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Leben und Meinungen berühmter Philosophen, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikurs erkenntnistheoretisches Grundprinzip. Die Sinne sind nicht trügerisch. Sie sind die einzige unmittelbare Berührung mit der Wirklichkeit."
+    },
+    {
+      "id": "wissen-002",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXIII (Kyriai Doxai)",
+      "griechisch": "…εἰ δὲ μὴ πάσαις ταῖς αἰσθήσεσι προσέξεις, οὐχ ἕξεις οὐδὲ μίαν ἀληθείας κρίσιν…",
+      "deutsch": "…wenn du nicht auf alle Sinneswahrnehmungen achtest, wirst du kein einziges Kriterium der Wahrheit haben…",
+      "kolumne": "Kyriai Doxai XXIII",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X, Hauptlehrsätze",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur formuliert das Prinzip der vollständigen Aufmerksamkeit. Wer nur einen Teil der Wahrnehmungen gelten lässt, verliert das Maß."
+    },
+    {
+      "id": "wissen-003",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXIV (Kyriai Doxai)",
+      "griechisch": "…εἴ τι φαίνεται κατὰ τὴν αἴσθησιν, μηδὲν αὐτῷ ἀντιμαρτυρεῖ τῶν ἐναργῶς φαινομένων…",
+      "deutsch": "…wenn etwas der Sinneswahrnehmung erscheint, so widerspricht ihm nichts von dem, was deutlich erscheint…",
+      "kolumne": "Kyriai Doxai XXIV",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X, Hauptlehrsätze",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur begründet die Zuverlässigkeit der Sinne durch ihre Widerspruchsfreiheit. Der Irrtum liegt nicht im Erscheinenden, sondern im Urteilenden."
+    },
+    {
+      "id": "wissen-004",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 33)",
+      "griechisch": "…τὴν πρόληψιν λέγουσιν οἱ Ἐπικούρειοι ἔννοιαν εἶναι τῶν πολλάκις ἔξωθεν φανέντων…",
+      "deutsch": "…die Prolepsis nennen die Epikureer die Vorstellung von dem, was häufig von außen erschienen ist…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "33",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die Prolepsis ist Epikurs Antwort auf Platons Ideenlehre. Sie ist keine angeborene Idee, sondern eine gespeicherte Erfahrung."
+    },
+    {
+      "id": "wissen-005",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 34)",
+      "griechisch": "…ἡ δὲ δόξα παρὰ τὴν ἐναργῆ μαρτυρίαν γινομένη ψεῦδος ἔχει ἐν ἑαυτῇ…",
+      "deutsch": "…die Meinung aber, die gegen das deutliche Zeugnis entsteht, trägt den Irrtum in sich selbst…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "34",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verlagert den Irrtum in die Meinung. Die Sinne täuschen nicht. Die Meinung täuscht."
+    },
+    {
+      "id": "wissen-006",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065), Fragment 1",
+      "griechisch": "…ἐκ τῶν φαινομένων δεῖ περὶ τῶν ἀφανῶν τεκμαίρεσθαι…",
+      "deutsch": "…aus dem Erscheinenden muss man das Verborgene erschließen…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy & De Lacy, Philodemus: On Methods of Inference, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "Philodemus, De signis (Περὶ σημειώσεων)",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus formuliert das Prinzip der epikureischen Erkenntnistheorie. Das Verborgene ist nicht direkt zugänglich, aber durch Zeichen erschließbar."
+    },
+    {
+      "id": "wissen-007",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065), Fragment 2",
+      "griechisch": "…ἡ σημείωσις ἡ δι' ὁμοιότητος ἰσχύει, οὐχ ἡ διὰ τῆς ἀνάγκης…",
+      "deutsch": "…diejenige Zeichenerschließung gilt, die durch Ähnlichkeit wirkt, nicht die durch Notwendigkeit…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy & De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "Philodemus, De signis",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus unterscheidet zwei Arten des Schließens. Die eine beruht auf Ähnlichkeit, die andere auf Notwendigkeit. Die Naturwissenschaft braucht Analogie."
+    },
+    {
+      "id": "wissen-008",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065), Fragment 3",
+      "griechisch": "…τὰ μὲν γὰρ φαινόμενα πιστά, τὰ δὲ ἄδηλα διὰ τούτων καταλαμβάνεται…",
+      "deutsch": "…das Erscheinende ist gewiss, das Verborgene aber wird durch jenes erfasst…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy & De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "Philodemus, De signis",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus formuliert die erkenntnistheoretische Rangordnung. Das Erscheinende ist gewiss. Das Verborgene ist nur mittelbar zugänglich."
+    },
+    {
+      "id": "wissen-009",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche (Gnomologium Vaticanum) 24",
+      "griechisch": "…οὐχ ὁ τὰ πολλὰ λέγων σοφός, ἀλλ' ὁ τὰ χρήσιμα…",
+      "deutsch": "…nicht wer vieles sagt, ist weise, sondern wer das Nützliche sagt…",
+      "kolumne": "Vatikanische Sprüche",
+      "zeilen": "24",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum, überliefert in Handschriften",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Gnomologium Vaticanum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur unterscheidet zwischen Menge und Nützlichkeit des Wissens. Weisheit ist nicht die Anhäufung von Kenntnissen."
+    },
+    {
+      "id": "wissen-010",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche (Gnomologium Vaticanum) 29",
+      "griechisch": "…περὶ ὧν οὐκ ἔστι βεβαιώσασθαι, τούτων οὐδὲ περὶ τῆς γνώσεως κρίνειν δυνατόν…",
+      "deutsch": "…worüber man keine Gewissheit gewinnen kann, darüber ist auch kein Urteil möglich…",
+      "kolumne": "Vatikanische Sprüche",
+      "zeilen": "29",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Gnomologium Vaticanum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur formuliert die Grenze der Erkenntnis. Wo keine Gewissheit möglich ist, ist kein Urteil erlaubt."
+    },
+    {
+      "id": "wissen-011",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 37–38)",
+      "griechisch": "…πρῶτον μὲν οὖν τὰ ὑποτεταγμένα τοῖς φθόγγοις, ὦ Ἡρόδοτε, δεῖ εἰληφέναι…",
+      "deutsch": "…zuerst also muss man, o Herodot, das, was unter den Wörtern liegt, erfasst haben…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "37–38",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur beginnt seinen Brief mit einer Sprachreflexion. Wer die Natur erkennen will, muss zuerst die Bedeutung der Wörter klären. Die Sprachprüfung ist die erste Aufgabe jeder Philosophie."
+    },
+    {
+      "id": "wissen-012",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 38)",
+      "griechisch": "…ὅπως ἔχωμεν εἰς τὰ ἀποδεικνύμενα ἢ ζητούμενα ἢ ἀπορούμενα ἀναφέρειν…",
+      "deutsch": "…damit wir das Bewiesene, das Gesuchte und das Bezweifelte darauf zurückführen können…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "38",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur beschreibt den Nutzen der klaren Begriffe. Ohne klare Begriffe kann man nichts beweisen, nichts suchen, nichts bezweifeln. Die Sprache ist das Werkzeug der Erkenntnis."
+    },
+    {
+      "id": "wissen-013",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 50)",
+      "griechisch": "…πᾶσα γὰρ αἴσθησις ἄλογός ἐστιν καὶ οὐκ ἐπιλαμβάνεται τῆς διανοίας…",
+      "deutsch": "…denn jede Sinneswahrnehmung ist vernunftlos und nimmt nichts von der Überlegung an…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "50",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die Sinne sind vernunftlos. Sie nehmen wahr, aber sie urteilen nicht. Das Urteil entsteht erst im Denken. Deshalb können die Sinne nicht irren, wohl aber das Denken."
+    },
+    {
+      "id": "wissen-014",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 51)",
+      "griechisch": "…τὸ δὲ ψεῦδος ἐν τῇ προσδοξαζομένῃ διανοίᾳ γίνεται…",
+      "deutsch": "…der Irrtum aber entsteht im hinzugefügten Denken…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "51",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur lokalisiert den Irrtum genau. Er entsteht nicht in den Sinnen, sondern in dem, was das Denken den Sinnen hinzufügt. Die Aufgabe der Philosophie ist es, die Zusätze zu prüfen."
+    },
+    {
+      "id": "wissen-015",
+      "autor": "Epikur",
+      "werk": "Brief an Herodot (Diogenes Laertios X, 62)",
+      "griechisch": "…τὰ εἴδωλα διὰ τοῦ κενοῦ φέρεται ἀπὸ τῶν σωμάτων…",
+      "deutsch": "…die Bilder fließen durch das Leere von den Körpern herbei…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "62",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Herodotum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur erklärt die Wahrnehmung durch eidola, feine Bilder, die von den Dingen abströmen. Sehen ist ein materieller Vorgang, nicht ein spiritueller. Diese Lehre ist die physikalische Grundlage der Erkenntnistheorie."
+    },
+    {
+      "id": "wissen-016",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXII (Kyriai Doxai)",
+      "griechisch": "…τὸ ὑφεστηκὸς καὶ τὸ κενὸν καὶ τὸ σχῆμα καὶ τὸ μέγεθος καὶ τὸ βάρος…",
+      "deutsch": "…das Beständige und das Leere und die Gestalt und die Größe und das Gewicht…",
+      "kolumne": "Kyriai Doxai XXII",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X, Hauptlehrsätze",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur listet die Grundkategorien des Seienden auf. Was ist, hat entweder Gestalt oder Größe oder Gewicht oder ist Leere. Alle anderen Begriffe sind abgeleitet oder leer."
+    },
+    {
+      "id": "wissen-017",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XXV (Kyriai Doxai)",
+      "griechisch": "…εἰ μὴ τῷ χρόνῳ τὰ μέτρα τῶν κινήσεων ἀναφέρειν δυνάμεθα…",
+      "deutsch": "…wenn wir nicht die Maße der Bewegungen auf die Zeit zurückführen können…",
+      "kolumne": "Kyriai Doxai XXV",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verbindet Zeitmessung und Bewegungserkenntnis. Zeit ist kein Gegenstand, sondern ein Maß der Bewegung. Wer die Zeit nicht zurückführt, kann Bewegung nicht messen."
+    },
+    {
+      "id": "wissen-018",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…ἡ ἐπαγωγὴ ἐκ τῶν καθ' ἕκαστα ἐπὶ τὰ καθόλου πρόεισιν…",
+      "deutsch": "…die Induktion schreitet vom Einzelnen zum Allgemeinen fort…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy & De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "Philodemus, De signis",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus beschreibt die Methode der Naturerkenntnis. Aus einzelnen Beobachtungen werden allgemeine Sätze gebildet. Eine frühe Formulierung des induktiven Verfahrens."
+    },
+    {
+      "id": "wissen-019",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…οὐ πάντα τὰ σημεῖα ὁμοίως ἰσχυρά ἐστιν…",
+      "deutsch": "…nicht alle Zeichen sind in gleicher Weise stark…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy & De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "Philodemus, De signis",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Manche Zeichen sind eindeutig, andere nur wahrscheinlich. Die Kunst der Naturerkenntnis besteht darin, die Stärke der Zeichen zu unterscheiden."
+    },
+    {
+      "id": "wissen-020",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…ἡ δὲ ὁμωνυμία πολλὰς ἀπάτας ἐμποιεῖ τοῖς ζητοῦσιν…",
+      "deutsch": "…die Mehrdeutigkeit der Wörter erzeugt viele Täuschungen bei den Suchenden…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy & De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "Philodemus, De signis",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus warnt vor der Mehrdeutigkeit der Sprache. Wer die Natur erforscht, muss zuerst die Begriffe klären. Die Sprachkritik ist der Anfang der Naturforschung."
+    },
+    {
+      "id": "wissen-021",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…ἡ δὲ ὁμοιότης οὐ πάντοτε ἐν τοῖς αὐτοῖς φαίνεται…",
+      "deutsch": "…die Ähnlichkeit zeigt sich nicht immer in denselben Dingen…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy & De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "Philodemus, De signis",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus betont, dass Ähnlichkeit nicht automatisch erkannt wird. Sie muss gesucht, geprüft, begründet werden. Die Analogie ist eine Arbeit, nicht ein Geschenk."
+    },
+    {
+      "id": "wissen-022",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…ἡ δὲ ἀντιμαρτύρησις λύει τὴν σημείωσιν…",
+      "deutsch": "…das Gegenzeugnis löst die Zeichenerschließung auf…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy & De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "Philodemus, De signis",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus beschreibt die Gegenprüfung. Wenn ein Gegenzeugnis auftritt, verliert die Zeichenerschließung ihre Gültigkeit. Die Wahrheit entsteht in der Prüfung, nicht in der Bestätigung."
+    },
+    {
+      "id": "wissen-023",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…οὐ πάντα ἀπὸ πάντων, ἀλλ' ὡρισμένα ἀπὸ ὡρισμένων…",
+      "deutsch": "…nicht alles folgt aus allem, sondern Bestimmtes aus Bestimmtem…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy & De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "Philodemus, De signis",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus begrenzt die Zeichenerschließung. Nicht jede Behauptung folgt aus jeder Beobachtung. Bestimmte Zeichen führen zu bestimmten Schlüssen. Die Erkenntnis braucht Präzision."
+    },
+    {
+      "id": "wissen-024",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…ἡ μὲν δι' ὁμοιότητος μέθοδος οἰκεία τῇ φυσικῇ θεωρίᾳ…",
+      "deutsch": "…die Methode durch Ähnlichkeit ist der Naturbetrachtung eigen…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy & De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "Philodemus, De signis",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus ordnet die Methode der Naturbetrachtung zu. Die Naturwissenschaft arbeitet mit Analogie. Die Logik arbeitet mit Notwendigkeit. Jede hat ihren eigenen Ort."
+    },
+    {
+      "id": "wissen-025",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…ὁ δὲ σοφιστικὸς λόγος διὰ τὸ ἀσαφὲς τῆς ὁμοιότητος ἁλίσκεται…",
+      "deutsch": "…die sophistische Rede wird durch die Unklarheit der Ähnlichkeit gefangen…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy & De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "Philodemus, De signis",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus beschreibt die Schwäche der sophistischen Argumentation. Sie nutzt die Unklarheit der Ähnlichkeit aus, um Wahrscheinliches als Notwendiges auszugeben."
+    },
+    {
+      "id": "wissen-026",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…οὐκ ἄρα ἐκ παντὸς πᾶν, οὐδ' ἐκ παντὸς ὁτιοῦν, ἀλλ' ἔστι τι καὶ σημεῖον…",
+      "deutsch": "…also folgt nicht aus allem alles, noch aus jedem Beliebiges, sondern es gibt auch ein Zeichen…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy & De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "Philodemus, De signis",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus hält an der Möglichkeit der Erkenntnis fest. Trotz aller Warnungen vor Mehrdeutigkeit und Trug gibt es echte Zeichen. Erkenntnis ist möglich, aber sie muss geprüft werden."
+    },
+    {
+      "id": "wissen-027",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über die Zeichen (PHerc. 1065)",
+      "griechisch": "…ἡ δὲ μέθοδος ἡ περὶ τῶν ἀδήλων ἐκ τῶν φαινομένων ἐστίν…",
+      "deutsch": "…die Methode in Bezug auf das Verborgene stammt aus dem Erscheinenden…",
+      "kolumne": "fragmentarisch",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1065, De Lacy & De Lacy, Neapel 1978",
+        "url": "https://papyri.info",
+        "edition": "Philodemus, De signis",
+        "lizenz": "Wissenschaftliche Edition"
+      },
+      "anmerkung": "Philodemus fasst die Methode zusammen. Es gibt nur einen Weg zum Verborgenen. Er führt durch das Sichtbare. Die Sinne sind die einzige Brücke zur Wirklichkeit."
+    },
+    {
+      "id": "wissen-028",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 33",
+      "griechisch": "…ἡ μὲν σάρξ τὰς λύπας καὶ τὰς ἡδονὰς δέχεται, ἡ δὲ ψυχὴ τὰ ἀγαθὰ καὶ τὰ κακά…",
+      "deutsch": "…das Fleisch empfängt die Schmerzen und die Lüste, die Seele aber das Gute und das Schlechte…",
+      "kolumne": "Sententia Vaticana 33",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur unterscheidet zwei Ebenen der Wahrnehmung. Der Leib empfindet Lust und Schmerz. Die Seele erkennt Gut und Böse. Beide sind für das gute Leben nötig."
+    },
+    {
+      "id": "wissen-029",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 34",
+      "griechisch": "…οὐ τὸ ποιεῖν τὰς πράξεις, ἀλλὰ τὸ κρίνειν ὀρθῶς περὶ αὐτῶν δεῖ…",
+      "deutsch": "…nicht die Taten sind es, sondern das richtige Urteil über sie tut Not…",
+      "kolumne": "Sententia Vaticana 34",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verlagert den Akzent von der Tat auf das Urteil. Der Weise handelt nicht mehr als andere. Er urteilt anders über das, was er tut."
+    },
+    {
+      "id": "wissen-030",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 36",
+      "griechisch": "…ἡ δὲ τῆς ψυχῆς ὑγίεια οὐχ ἡ αὐτὴ τῇ τοῦ σώματος…",
+      "deutsch": "…die Gesundheit der Seele ist nicht dieselbe wie die des Leibes…",
+      "kolumne": "Sententia Vaticana 36",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur unterscheidet zwei Formen der Gesundheit. Die des Leibes ist die Abwesenheit von Schmerz. Die der Seele ist die Klarheit der Erkenntnis. Beide folgen eigenen Gesetzen."
+    },
+    {
+      "id": "wissen-031",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 54",
+      "griechisch": "…οὐ δεῖ φιλοσοφεῖν ἡμᾶς ὡς πάντα εἰδότας, ἀλλ' ὡς μαθησομένους…",
+      "deutsch": "…wir dürfen nicht philosophieren, als wüssten wir alles, sondern als solche, die lernen werden…",
+      "kolumne": "Sententia Vaticana 54",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur beschreibt die Haltung des Lernenden. Philosophie ist kein Besitz, sondern ein Weg. Wer glaubt, alles zu wissen, hat aufgehört zu lernen."
+    },
+    {
+      "id": "wissen-032",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 71",
+      "griechisch": "…εἰ μηθὲν ἡμᾶς αἱ τῶν μετεώρων ὑποψίαι ἠνώχλουν καὶ ὁ περὶ θανάτου φόβος…",
+      "deutsch": "…wenn uns die Vermutungen über die Himmelserscheinungen und die Furcht vor dem Tod nicht beunruhigten…",
+      "kolumne": "Sententia Vaticana 71",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur nennt die zwei großen Beunruhigungen. Die Erkenntnis des Himmels und die Erkenntnis des Todes. Wer sie überwindet, findet Ruhe."
+    },
+    {
+      "id": "wissen-033",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 72",
+      "griechisch": "…ἐν μηδενὶ σημεῖον τοῦ ἀληθοῦς εἶναι τοῦτο, εἰ μηδὲν γίνοιτο ἐκ τῆς αἰσθήσεως…",
+      "deutsch": "…in nichts gibt es ein Zeichen des Wahren, wenn nichts aus der Wahrnehmung entstünde…",
+      "kolumne": "Sententia Vaticana 72",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur betont die Rolle der Sinne für jede Wahrheitsprüfung. Ohne Wahrnehmung gäbe es keinen Anhaltspunkt. Die Sinne sind das einzige Kriterium der Wirklichkeit."
+    },
+    {
+      "id": "wissen-034",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 74",
+      "griechisch": "…οὐδὲν ἐν τῷ ἀπορήσαντι κακὸν τὸ μηδαμῶς ἀποδεξάμενον…",
+      "deutsch": "…nichts Schlechtes gibt es in dem, der bezweifelt, ohne sogleich anzunehmen…",
+      "kolumne": "Sententia Vaticana 74",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur lobt den Zweifel. Wer zweifelt, ist nicht unfähig, sondern wachsam. Die Zurückhaltung des Urteils ist keine Schwäche, sondern eine Tugend."
+    },
+    {
+      "id": "wissen-035",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 79",
+      "griechisch": "…ὁ ἀτάραχος ἑαυτῷ καὶ ἑτέρῳ οὐκ ὄχληρός…",
+      "deutsch": "…der Unerschütterliche ist sich selbst und anderen nicht lästig…",
+      "kolumne": "Sententia Vaticana 79",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verbindet Erkenntnis und Haltung. Wer die Wirklichkeit kennt, wird nicht erschüttert. Wer nicht erschüttert ist, wird zum Frieden für sich und andere. Die Erkenntnis trägt die Ruhe."
+    },
+    {
+      "id": "wissen-036",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 80",
+      "griechisch": "…ἀρχὴ δὲ τούτων καὶ μέγιστον ἀγαθὸν ἡ τῆς ἀληθείας γνῶσις…",
+      "deutsch": "…der Anfang und das größte Gut von allem ist die Erkenntnis der Wahrheit…",
+      "kolumne": "Sententia Vaticana 80",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikurs Schlusswort zur Erkenntnislehre. Die Erkenntnis der Wahrheit ist nicht ein Mittel zu etwas anderem. Sie ist das höchste Gut selbst. Wer sie besitzt, besitzt den Frieden."
+    }
+  ]
+}

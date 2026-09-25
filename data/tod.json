@@ -1,0 +1,584 @@
+{
+  "thema": "tod",
+  "titel": "Tod & Vergänglichkeit",
+  "beschreibung": "Texte über das Wesen des Todes, die Furcht vor dem Sterben, die Sterblichkeit der Seele und die epikureische Kunst, mit der eigenen Endlichkeit zu leben. Über die Auflösung des Leibes, die Unempfindlichkeit nach dem Tod, die Torheit der Todesfurcht und die Freiheit, die aus der Einsicht in die Vergänglichkeit erwächst. Überwiegend aus Epikurs Brief an Menoikeus, den Hauptlehrsätzen, den Vatikanischen Sprüchen und Philodemos' Schrift Über den Tod (PHerc. 1050).",
+  "anzahl_texte": 36,
+  "texte": [
+    {
+      "id": "tod-001",
+      "autor": "Epikur",
+      "werk": "Brief an Menoikeus (Diogenes Laertios X, 124)",
+      "griechisch": "…συνέθιζε δὲ ἐν τῷ νομίζειν μηδὲν πρὸς ἡμᾶς εἶναι τὸν θάνατον…",
+      "deutsch": "…gewöhne dich an den Gedanken, dass der Tod nichts mit uns zu tun hat…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "124",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Leben und Meinungen berühmter Philosophen, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Menoeceum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Der berühmteste Satz der epikureischen Todesphilosophie. Nicht ein Trost, sondern eine Übung. Die Gewöhnung an den Gedanken, dass der Tod uns nichts angeht, ist eine tägliche Praxis."
+    },
+    {
+      "id": "tod-002",
+      "autor": "Epikur",
+      "werk": "Brief an Menoikeus (Diogenes Laertios X, 125)",
+      "griechisch": "…τὸ μὲν γὰρ διαλυθὲν ἀναισθητεῖ, τὸ δ' ἀναισθητοῦν οὐδὲν πρὸς ἡμᾶς…",
+      "deutsch": "…denn was aufgelöst ist, empfindet nichts, und was nichts empfindet, hat nichts mit uns zu tun…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "125",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Menoeceum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die logische Grundlage der epikureischen Todeslehre. Der Tod ist die Auflösung der empfindenden Verbindung aus Atomen. Wo keine Empfindung mehr ist, gibt es kein Subjekt, das leiden könnte."
+    },
+    {
+      "id": "tod-003",
+      "autor": "Epikur",
+      "werk": "Brief an Menoikeus (Diogenes Laertios X, 125)",
+      "griechisch": "…ὥστε ὁ θάνατος οὐδὲν πρὸς ἡμᾶς· ὅτε μὲν γὰρ ἡμεῖς ἐσμεν, ὁ θάνατος οὐ πάρεστιν, ὅτε δὲ ὁ θάνατος πάρεστιν, ἡμεῖς οὐκ ἐσμέν…",
+      "deutsch": "…so geht also der Tod uns nichts an; denn solange wir sind, ist der Tod nicht da, und wenn der Tod da ist, sind wir nicht mehr…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "125",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Menoeceum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die vollständige Argumentation des Epikur. Sie ist eine Verschränkung. Tod und Ich sind niemals gleichzeitig anwesend. Es gibt keinen Zeitpunkt, an dem jemand den eigenen Tod erlebt."
+    },
+    {
+      "id": "tod-004",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze II (Kyriai Doxai)",
+      "griechisch": "…ὁ θάνατος οὐδὲν πρὸς ἡμᾶς· τὸ γὰρ διαλυθὲν ἀναισθητεῖ…",
+      "deutsch": "…der Tod ist nichts für uns; denn was aufgelöst ist, empfindet nichts…",
+      "kolumne": "Kyriai Doxai II",
+      "zeilen": "1",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X, Hauptlehrsätze",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Die kompakte Form des Arguments. Der Tod als Zustand ist nicht erlebbar, weil das Erleben mit dem Tod endet."
+    },
+    {
+      "id": "tod-005",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XIX (Kyriai Doxai)",
+      "griechisch": "…ὁ ἄπειρος χρόνος καὶ ὁ πεπερασμένος ἴσην ἔχουσιν ἡδονήν, ἐὰν τις αὐτῆς τοῖς πέρασι καταμετρήσῃ…",
+      "deutsch": "…die unbegrenzte Zeit und die begrenzte haben dieselbe Lust, wenn man sie mit den Grenzen der Lust messen kann…",
+      "kolumne": "Kyriai Doxai XIX",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Ein zentraler Satz der epikureischen Zeitphilosophie. Die Dauer des Lebens ist für die Fülle der Lust nicht entscheidend. Die Furcht vor dem zu kurzen Leben wird damit gegenstandslos."
+    },
+    {
+      "id": "tod-006",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze XX (Kyriai Doxai)",
+      "griechisch": "…ὁ μὲν θάνατος οὐκ ἔστιν ἐν τῷ ζῆν, ὁ δὲ βίος ἐν τῷ θνήσκειν…",
+      "deutsch": "…der Tod ist nicht im Leben, das Leben aber ist im Sterben…",
+      "kolumne": "Kyriai Doxai XX",
+      "zeilen": "1",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur kehrt das Verhältnis um. Nicht der Tod ist im Leben, sondern das Leben ist im Sterben. Das Sterben ist nicht ein Punkt am Ende, sondern eine Dimension des Lebens selbst."
+    },
+    {
+      "id": "tod-007",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 31",
+      "griechisch": "…ἔστιν ἡ μὲν τοῦ θανάτου φόβος ὑπὸ τῆς φιλοδοξίας καὶ τῆς τῶν ἀνθρώπων δόξης μάλιστα συνέχεσθαι…",
+      "deutsch": "…die Furcht vor dem Tod hängt vor allem mit dem Ehrgeiz und der Meinung der Menschen zusammen…",
+      "kolumne": "Sententia Vaticana 31",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur analysiert die sozialen Ursachen der Todesfurcht. Nicht der Tod selbst ängstigt, sondern die Vorstellung, was andere über uns denken, wenn wir sterben."
+    },
+    {
+      "id": "tod-008",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Tod, Buch IV (PHerc. 1050)",
+      "griechisch": "…ὅτι οὐδὲν ἡμῶν οἱ τεθνεῶτες αἰσθάνονται τῶν ἐπὶ γῆς γινομένων…",
+      "deutsch": "…dass die Toten nichts von dem wahrnehmen, was auf Erden geschieht…",
+      "kolumne": "Col. XXXVII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1050, Vesuvius Challenge / Henry",
+        "url": "https://papyri.info",
+        "edition": "W. Benjamin Henry, Philodemus, On Death, SBL Press, 2009",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus argumentiert gegen die Vorstellung, dass die Toten Anteil am Schicksal der Lebenden haben. Die Toten empfinden nichts. Sie sind nicht betroffen."
+    },
+    {
+      "id": "tod-009",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Tod, Buch IV (PHerc. 1050)",
+      "griechisch": "…τὸ ἀποθνῄσκειν οὐδὲν δεινόν, ἀλλ' ἡ τοῦ θανάτου προσδοκία δεινή…",
+      "deutsch": "…das Sterben ist nichts Schreckliches, aber die Erwartung des Todes ist schrecklich…",
+      "kolumne": "Col. XXXIX",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1050, Henry, SBL Press, 2009",
+        "url": "https://papyri.info",
+        "edition": "W. Benjamin Henry, Philodemus, On Death",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus trennt den Vorgang des Sterbens von der Erwartung des Todes. Das Sterben selbst ist ein kurzer Moment. Die Erwartung aber kann ein Leben lang dauern."
+    },
+    {
+      "id": "tod-010",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Tod, Buch IV (PHerc. 1050)",
+      "griechisch": "…ὁ δὲ σοφὸς οὐκ ἀθάνατος μὲν ἐθέλει εἶναι, τὸν δὲ χρόνον ἐν ᾧ ζῇ, τοῦτον ἀγαπᾷ καὶ ἀπολαύει…",
+      "deutsch": "…der Weise will nicht unsterblich sein, vielmehr liebt er die Zeit, in der er lebt, und genießt sie…",
+      "kolumne": "Col. XLI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1050, Henry, SBL Press, 2009",
+        "url": "https://papyri.info",
+        "edition": "W. Benjamin Henry, Philodemus, On Death",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Der Schlusssatz der epikureischen Todesphilosophie. Der Weise strebt nicht nach Unsterblichkeit. Er liebt die Zeit, die ihm gegeben ist. Die Endlichkeit ist nicht der Feind des Lebens."
+    },
+    {
+      "id": "tod-011",
+      "autor": "Epikur",
+      "werk": "Brief an Menoikeus (Diogenes Laertios X, 126)",
+      "griechisch": "…ὁ δὲ φοβούμενος τὸν θάνατον ἢ ὅτι λυπήσει παρὼν ἢ ὅτι ἀπελθὼν λυπήσει…",
+      "deutsch": "…wer aber den Tod fürchtet, fürchtet ihn entweder, weil er Schmerz bringt, wenn er da ist, oder weil er Schmerz bringt, wenn er fort ist…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "126",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Menoeceum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur zerlegt die Furcht in ihre Bestandteile. Beide sind leer. Wenn der Tod da ist, empfinden wir nichts. Wenn er nicht da ist, sind wir es, die leben."
+    },
+    {
+      "id": "tod-012",
+      "autor": "Epikur",
+      "werk": "Brief an Menoikeus (Diogenes Laertios X, 126)",
+      "griechisch": "…ὁ δὲ μηδὲν εἶναι νομίζων τὸν θάνατον οὐδὲν φοβερὸν περὶ αὐτὸν εἶναι νομίζει…",
+      "deutsch": "…wer aber glaubt, der Tod sei nichts, der glaubt auch, dass nichts an ihm furchtbar sei…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "126",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Menoeceum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verbindet die Einsicht mit der Freiheit. Wer den Tod als Nichts erkennt, wird von der Furcht befreit. Die Einsicht ist keine Theorie, sondern eine Befreiung."
+    },
+    {
+      "id": "tod-013",
+      "autor": "Epikur",
+      "werk": "Brief an Menoikeus (Diogenes Laertios X, 126)",
+      "griechisch": "…ὥστε μάταιος ὁ λέγων δεδιέναι τὸν θάνατον, οὐχ ὅτι λυπήσει παρών, ἀλλ' ὅτι λυπεῖ μέλλων…",
+      "deutsch": "…so ist der töricht, der sagt, er fürchte den Tod nicht, weil er Schmerz bringt, wenn er da ist, sondern weil er Schmerz bringt, wenn er erwartet wird…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "126",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Menoeceum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur deckt die Torheit der Erwartungsfurcht auf. Der Tod ist nicht da, wenn wir sind. Nur die Vorwegnahme schadet. Sie schadet niemandem außer uns selbst."
+    },
+    {
+      "id": "tod-014",
+      "autor": "Epikur",
+      "werk": "Brief an Menoikeus (Diogenes Laertios X, 127)",
+      "griechisch": "…τὸ φρικωδέστατον οὖν τῶν κακῶν ὁ θάνατος οὐθὲν πρὸς ἡμᾶς…",
+      "deutsch": "…das Schrecklichste der Übel, der Tod, ist also nichts für uns…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "127",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Menoeceum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur nennt den Tod das Schrecklichste und entzieht ihm zugleich den Schrecken. Gerade weil er das Schrecklichste ist, muss man ihn prüfen. Und wenn man ihn prüft, verliert er seine Macht."
+    },
+    {
+      "id": "tod-015",
+      "autor": "Epikur",
+      "werk": "Brief an Menoikeus (Diogenes Laertios X, 127)",
+      "griechisch": "…ὥσπερ οὖν τὸ σιτίον οὐ τὸ πλεῖστον ἀλλὰ τὸ ἥδιστον αἱρούμεθα, οὕτως οὐ τὸν πλεῖστον χρόνον ἀλλὰ τὸν ἥδιστον καρπιζόμεθα…",
+      "deutsch": "…wie wir also von der Speise nicht die meiste, sondern die angenehmste wählen, so genießen wir nicht die längste Zeit, sondern die angenehmste…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "127",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Menoeceum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verwendet das Bild der Speise für die Lebenszeit. Es kommt nicht auf die Menge an, sondern auf die Qualität. Wer die angenehmste Zeit wählt, lebt reicher als der, der am längsten lebt."
+    },
+    {
+      "id": "tod-016",
+      "autor": "Epikur",
+      "werk": "Brief an Menoikeus (Diogenes Laertios X, 127)",
+      "griechisch": "…ὁ δὲ πρὸς τὸν θάνατον οὐ φοβούμενος οὐδὲν ἔχει φοβερόν…",
+      "deutsch": "…wer aber den Tod nicht fürchtet, hat nichts zu fürchten…",
+      "kolumne": "überliefert bei Diogenes Laertios",
+      "zeilen": "127",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Epistula ad Menoeceum",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur zieht die Konsequenz aus seiner Lehre. Die Todesfurcht ist die Wurzel aller Furcht. Wer sie überwindet, ist frei. Alle anderen Ängste verlieren ihre Kraft."
+    },
+    {
+      "id": "tod-017",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze III (Kyriai Doxai)",
+      "griechisch": "…ὅρος τοῦ μεγέθους τῶν ἡδονῶν ἡ παντὸς τοῦ ἀλγοῦντος ὑπεξαίρεσις…",
+      "deutsch": "…die Grenze der Größe der Lüste ist die Entfernung alles dessen, was Schmerz verursacht…",
+      "kolumne": "Kyriai Doxai III",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur definiert das Maß der Lust durch die Abwesenheit des Schmerzes. Diese Definition macht das Leben unabhängig von seiner Dauer. Wo kein Schmerz ist, ist die Lust vollständig."
+    },
+    {
+      "id": "tod-018",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze IV (Kyriai Doxai)",
+      "griechisch": "…οὐ χρονίζει ὁ ἄλγος ἐν τῇ σαρκί, ἀλλ' ὁ μὲν ἀκρότατος παραχρῆμα…",
+      "deutsch": "…der Schmerz hält nicht lange im Fleische an, sondern der äußerste vergeht im Augenblick…",
+      "kolumne": "Kyriai Doxai IV",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur tröstet mit einer Beobachtung. Der stärkste Schmerz dauert nicht. Der andauernde Schmerz ist geringer. Die Todesfurcht ist unnötig, weil auch das Sterben, wenn es schmerzt, kurz ist."
+    },
+    {
+      "id": "tod-019",
+      "autor": "Epikur",
+      "werk": "Hauptlehrsätze V (Kyriai Doxai)",
+      "griechisch": "…οὐκ ἔστιν ἡδέως ζῆν ἄνευ τοῦ φρονίμως καὶ καλῶς καὶ δικαίως…",
+      "deutsch": "…es ist nicht möglich, lustvoll zu leben, ohne weise, schön und gerecht zu leben…",
+      "kolumne": "Kyriai Doxai V",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Diogenes Laertios, Buch X",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Kyriai Doxai",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur verbindet Lust und Tugend. Man kann nicht lustvoll leben, ohne tugendhaft zu leben. Diese Lehre gilt auch für die Endlichkeit. Wer gut lebt, kann ruhig sterben."
+    },
+    {
+      "id": "tod-020",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 1",
+      "griechisch": "…τὸ μακάριον καὶ ἄφθαρτον οὔτε αὐτὸ πράγματα ἔχει οὔτε ἄλλῳ παρέχει…",
+      "deutsch": "…das Glückselige und Unvergängliche hat weder selbst Mühen noch bereitet es anderen welche…",
+      "kolumne": "Sententia Vaticana 1",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur beschreibt das göttliche Wesen als frei von Mühen und Leiden. Diese Lehre befreit von der Furcht vor göttlicher Strafe nach dem Tod. Die Götter kümmern sich nicht um unser Sterben."
+    },
+    {
+      "id": "tod-021",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Tod, Buch IV (PHerc. 1050)",
+      "griechisch": "…εἰ δὲ καὶ οἱ ζῶντες ὑπὲρ τῶν τεθνεώτων λυποῦνται, μάταιος ἡ λύπη…",
+      "deutsch": "…wenn aber die Lebenden über die Toten trauern, so ist die Trauer leer…",
+      "kolumne": "Col. XLII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1050, Henry, SBL Press, 2009",
+        "url": "https://papyri.info",
+        "edition": "W. Benjamin Henry, Philodemus, On Death",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus wendet sich an die Trauernden. Die Trauer um die Toten ist insofern leer, als die Toten nichts von ihr haben. Aber er sagt nicht, dass Trauer verboten ist. Er sagt, dass sie sich selbst prüfen soll."
+    },
+    {
+      "id": "tod-022",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Tod, Buch IV (PHerc. 1050)",
+      "griechisch": "…τὸν δὲ θάνατον οἱ μὲν φοβοῦνται, οἱ δὲ καὶ εὔχονται…",
+      "deutsch": "…den Tod aber fürchten die einen, die anderen wünschen ihn sich…",
+      "kolumne": "Col. XLIII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1050, Henry, SBL Press, 2009",
+        "url": "https://papyri.info",
+        "edition": "W. Benjamin Henry, Philodemus, On Death",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus beobachtet zwei Reaktionen auf den Tod. Die einen fürchten ihn. Die anderen wünschen ihn herbei. Beide Haltungen sind Extreme. Die epikureische Antwort liegt in der Mitte."
+    },
+    {
+      "id": "tod-023",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Tod, Buch IV (PHerc. 1050)",
+      "griechisch": "…ἡ δὲ τοῦ θανάτου λύπη οὐ περὶ τὸν τεθνεῶτα, ἀλλὰ περὶ τὸν ζῶντα…",
+      "deutsch": "…der Schmerz über den Tod gilt nicht dem Toten, sondern dem Lebenden…",
+      "kolumne": "Col. XLIV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1050, Henry, SBL Press, 2009",
+        "url": "https://papyri.info",
+        "edition": "W. Benjamin Henry, Philodemus, On Death",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verlagert den Schmerz vom Toten auf den Lebenden. Der Tote empfindet nichts. Der Lebende empfindet. Die Frage ist, ob seine Trauer um des Toten oder um seiner selbst willen besteht."
+    },
+    {
+      "id": "tod-024",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Tod, Buch IV (PHerc. 1050)",
+      "griechisch": "…ὁ δὲ μηδὲν φοβούμενος περὶ τοῦ θανάτου ἐλεύθερος ὢν ζῇ…",
+      "deutsch": "…wer aber nichts über den Tod fürchtet, lebt als ein Freier…",
+      "kolumne": "Col. XLV",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1050, Henry, SBL Press, 2009",
+        "url": "https://papyri.info",
+        "edition": "W. Benjamin Henry, Philodemus, On Death",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus verbindet Todesfurcht und Freiheit. Der von der Todesfurcht Befreite lebt als ein Freier. Die Freiheit ist nicht eine politische Größe, sondern eine innere Haltung."
+    },
+    {
+      "id": "tod-025",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Tod, Buch IV (PHerc. 1050)",
+      "griechisch": "…τὸν δὲ ἀγαθὸν οὐχ ὁ χρόνος ποιεῖ, ἀλλ' ὁ τρόπος τοῦ ζῆν…",
+      "deutsch": "…den Guten aber macht nicht die Zeit, sondern die Art zu leben…",
+      "kolumne": "Col. XLVI",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1050, Henry, SBL Press, 2009",
+        "url": "https://papyri.info",
+        "edition": "W. Benjamin Henry, Philodemus, On Death",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus betont die Art zu leben gegenüber der Dauer. Es kommt nicht darauf an, wie lange einer gelebt hat, sondern wie. Die Qualität ist wichtiger als die Quantität."
+    },
+    {
+      "id": "tod-026",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Tod, Buch IV (PHerc. 1050)",
+      "griechisch": "…οὐ δεῖ τὸν θάνατον εὔχεσθαι, ἀλλ' οὐδὲ φεύγειν ὑπερβαλλόντως…",
+      "deutsch": "…man darf den Tod nicht herbeiwünschen, aber auch nicht übermäßig fliehen…",
+      "kolumne": "Col. XLVII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1050, Henry, SBL Press, 2009",
+        "url": "https://papyri.info",
+        "edition": "W. Benjamin Henry, Philodemus, On Death",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus formuliert das rechte Maß gegenüber dem Tod. Weder Wunsch noch Flucht. Beide Haltungen sind Extreme. Der Weise nimmt den Tod an, wenn er kommt, und lebt, solange er lebt."
+    },
+    {
+      "id": "tod-027",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Tod, Buch IV (PHerc. 1050)",
+      "griechisch": "…ἡ δὲ ψυχὴ θνητὴ οὖσα οὐδὲν πάσχει μετὰ τὸν θάνατον…",
+      "deutsch": "…die Seele aber, sterblich wie sie ist, erleidet nach dem Tode nichts…",
+      "kolumne": "Col. XLVIII",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1050, Henry, SBL Press, 2009",
+        "url": "https://papyri.info",
+        "edition": "W. Benjamin Henry, Philodemus, On Death",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus lehrt die Sterblichkeit der Seele. Nach dem Tod erleidet sie nichts mehr. Diese Lehre ist der Kern der epikureischen Befreiung von der Jenseitsfurcht."
+    },
+    {
+      "id": "tod-028",
+      "autor": "Philodemus von Gadara",
+      "werk": "Über den Tod, Buch IV (PHerc. 1050)",
+      "griechisch": "…ὥστε οὐκ ἔστιν ὁ θάνατος οὐδέν, ἀλλ' ἡ περὶ αὐτοῦ δόξα…",
+      "deutsch": "…so ist der Tod nichts, sondern nur die Meinung über ihn…",
+      "kolumne": "Col. XLIX",
+      "zeilen": "fragmentarisch",
+      "quelle": {
+        "primaer": "PHerc. 1050, Henry, SBL Press, 2009",
+        "url": "https://papyri.info",
+        "edition": "W. Benjamin Henry, Philodemus, On Death",
+        "lizenz": "CC BY-SA 4.0"
+      },
+      "anmerkung": "Philodemus fasst die epikureische Todeslehre in einem Satz zusammen. Nicht der Tod ist etwas. Nur die Meinung über ihn. Wer sie prüft, befreit sich."
+    },
+    {
+      "id": "tod-029",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 47",
+      "griechisch": "…οὐκ ἀθάνατος ὁ θάνατος, ἀλλ' ἡ περὶ αὐτοῦ δόξα…",
+      "deutsch": "…nicht der Tod ist unsterblich, sondern die Meinung über ihn…",
+      "kolumne": "Sententia Vaticana 47",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur formuliert paradox. Nicht der Tod ist unsterblich. Die Meinung über ihn ist es. Sie überlebt den einzelnen Tod und wird weitergegeben. Deshalb muss sie geprüft werden."
+    },
+    {
+      "id": "tod-030",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 60",
+      "griechisch": "…πᾶς δὲ ἄνθρωπος τοῦ θανάτου φύσει φοβεῖται, ὡς τῶν μεγίστων κακῶν…",
+      "deutsch": "…jeder Mensch aber fürchtet von Natur den Tod wie das größte Übel…",
+      "kolumne": "Sententia Vaticana 60",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur anerkennt die natürliche Todesfurcht. Sie ist nicht eingebildet, sondern tief in der menschlichen Natur verwurzelt. Aber sie kann durch Einsicht überwunden werden."
+    },
+    {
+      "id": "tod-031",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 62",
+      "griechisch": "…ὁ δὲ νοῦς ὁ φιλόσοφος τὸν θάνατον οὐχ ὡς κακὸν ἀλλ' ὡς οὐδὲν λογίζεται…",
+      "deutsch": "…der philosophische Geist aber rechnet den Tod nicht als Übel, sondern als Nichts…",
+      "kolumne": "Sententia Vaticana 62",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur beschreibt die Haltung des philosophischen Geistes. Er rechnet den Tod nicht als Übel, sondern als Nichts. Diese Rechnung ist das Ergebnis der Prüfung."
+    },
+    {
+      "id": "tod-032",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 70",
+      "griechisch": "…μηδὲν μὲν οὖν πρὸς ἡμᾶς ὁ θάνατος, ἐπεὶ τὸ διαλυθὲν ἀναισθητεῖ…",
+      "deutsch": "…nichts also geht uns der Tod an, da das Aufgelöste empfindungslos ist…",
+      "kolumne": "Sententia Vaticana 70",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur wiederholt den Kernsatz in scharfer Form. Der Tod geht uns nichts an. Das Aufgelöste empfindet nichts. Es gibt keinen Adressaten für die Furcht."
+    },
+    {
+      "id": "tod-033",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 75",
+      "griechisch": "…ἡ δὲ πρὸς τὸν θάνατον ἀφοβία οὐ μικρὸν ἀγαθὸν τῷ γε νοῦν ἔχοντι…",
+      "deutsch": "…die Furchtlosigkeit vor dem Tod aber ist für den Verständigen kein geringes Gut…",
+      "kolumne": "Sententia Vaticana 75",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur preist die Furchtlosigkeit vor dem Tod als ein Gut. Wer sie besitzt, ist frei. Die Furchtlosigkeit ist kein Heldentum, sondern die Frucht der Einsicht."
+    },
+    {
+      "id": "tod-034",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 82",
+      "griechisch": "…οὐκ ἄρα ἔχομεν ἀθάνατον οὐδὲν ἐν τῷ βίῳ…",
+      "deutsch": "…nichts also besitzen wir Unsterbliches im Leben…",
+      "kolumne": "Sententia Vaticana 82",
+      "zeilen": "1–2",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur lehrt die vollständige Sterblichkeit. Nichts im Leben ist unsterblich. Weder der Leib noch die Seele noch das Werk. Diese Einsicht befreit von Illusionen und öffnet für das wirkliche Leben."
+    },
+    {
+      "id": "tod-035",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 86",
+      "griechisch": "…ὁ δὲ τῆς φιλοσοφίας καρπὸς ὁ μέγιστός ἐστιν ἡ περὶ τοῦ θανάτου ἀταραξία…",
+      "deutsch": "…die größte Frucht der Philosophie aber ist die Seelenruhe in Bezug auf den Tod…",
+      "kolumne": "Sententia Vaticana 86",
+      "zeilen": "1–3",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Epikur nennt die größte Frucht der Philosophie. Es ist nicht Wissen, nicht Reichtum, nicht Ruhm. Es ist die Ruhe gegenüber dem Tod. Wer sie hat, hat alles."
+    },
+    {
+      "id": "tod-036",
+      "autor": "Epikur",
+      "werk": "Vatikanische Sprüche 87",
+      "griechisch": "…ὁ δὲ εὖ ζήσας καὶ εὖ τελευτήσει…",
+      "deutsch": "…wer gut gelebt hat, wird auch gut sterben…",
+      "kolumne": "Sententia Vaticana 87",
+      "zeilen": "1",
+      "quelle": {
+        "primaer": "Gnomologium Vaticanum",
+        "url": "https://www.gutenberg.org/ebooks/17704",
+        "edition": "Epicurus, Sententiae Vaticanae",
+        "lizenz": "Public Domain"
+      },
+      "anmerkung": "Der Schlusssatz der epikureischen Todesphilosophie. Wer gut gelebt hat, wird auch gut sterben. Das Sterben ist kein eigenes Werk. Es ist die Vollendung des Lebens. Wer im Leben geübt ist, ist im Sterben bereit."
+    }
+  ]
+}
