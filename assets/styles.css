@@ -74,50 +74,6 @@ body::before {
 .gold { color: var(--gold); }
 .gold-bright { color: var(--gold-bright); }
 
-/* ─────────────────────────────────────────────
-   Intro-Overlay mit Video
-   ───────────────────────────────────────────── */
-.intro-overlay {
-  position: fixed;
-  inset: 0;
-  background: #000;
-  z-index: 9999;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  pointer-events: none;
-  opacity: 1;
-  transition: opacity 0.5s ease;
-}
-
-.intro-overlay.fade-out { opacity: 0; }
-.intro-overlay.done { display: none; }
-
-.intro-video {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  background: #000;
-}
-
-/* Header und Hero erscheinen verzögert nach dem Video */
-header,
-.hero {
-  opacity: 0;
-  transform: translateY(6px);
-  transition: opacity 1s ease, transform 1s ease;
-}
-
-header.reveal,
-.hero.reveal {
-  opacity: 1;
-  transform: translateY(0);
-}
-
-header.reveal { transition-delay: 0.15s; }
-.hero.reveal { transition-delay: 0.35s; }
 
 /* ─────────────────────────────────────────────
    Beweglicher Sternenhimmel

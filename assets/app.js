@@ -10,18 +10,9 @@ const state = {
 	language: 'de'
 };
 
-const intro = document.querySelector('#intro');
-const introVideo = document.querySelector('.intro-video');
 const themesGrid = document.querySelector('#themesGrid');
 const reader = document.querySelector('#reader');
 const readerText = document.querySelector('#rText');
-
-function revealPage() {
-	document.querySelector('header')?.classList.add('reveal');
-	document.querySelector('.hero')?.classList.add('reveal');
-	intro?.classList.add('fade-out');
-	window.setTimeout(() => intro?.classList.add('done'), 550);
-}
 
 function createStars() {
 	const field = document.querySelector('#skyField');
@@ -124,13 +115,6 @@ document.querySelector('#rNext')?.addEventListener('click', () => {
 	}
 });
 
-introVideo?.addEventListener('ended', revealPage, { once: true });
-introVideo?.addEventListener('error', revealPage, { once: true });
-introVideo?.addEventListener('abort', revealPage, { once: true });
-window.setTimeout(() => {
-	if (introVideo?.networkState === HTMLMediaElement.NETWORK_NO_SOURCE) revealPage();
-}, 700);
-window.setTimeout(revealPage, 4500);
 createStars();
 
 loadCollection().catch((error) => {
