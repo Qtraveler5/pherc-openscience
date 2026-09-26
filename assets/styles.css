@@ -46,7 +46,6 @@ body {
   line-height: 1.55;
   min-height: 100vh;
   overflow-x: hidden;
-  transition: opacity 1s ease;
 
   /* Safe-area: Notch und Home-Indicator */
   padding-left: env(safe-area-inset-left, 0);
