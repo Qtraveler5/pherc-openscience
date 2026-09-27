@@ -37,7 +37,7 @@ function renderThemes() {
 		const card = document.createElement('button');
 		card.className = 'theme';
 		card.type = 'button';
-		card.innerHTML = `<div class="theme-name">${theme.titel}</div><div class="theme-count">${theme.anzahl_texte} Texte</div>`;
+		card.innerHTML = `<div class="theme-name">${theme.titel}</div><div class="theme-count">${theme.texte.length} Texte</div>`;
 		card.addEventListener('pointermove', (event) => {
 			const bounds = card.getBoundingClientRect();
 			card.style.setProperty('--mx', `${event.clientX - bounds.left}px`);
@@ -84,8 +84,6 @@ async function loadCollection() {
 
 	state.themes = responses;
 	state.texts = responses.flatMap((theme) => theme.texte);
-	document.querySelector('#counter-trans').textContent = state.texts.length.toLocaleString('de-DE');
-	document.querySelector('#counter-themes').textContent = state.themes.length;
 	renderThemes();
 }
 
@@ -112,6 +110,24 @@ document.querySelector('#rNext')?.addEventListener('click', () => {
 	if (state.index < state.texts.length - 1) {
 		state.index += 1;
 		renderText();
+	}
+});
+
+document.querySelector('#copyText')?.addEventListener('click', async (event) => {
+	const button = event.currentTarget;
+	try {
+		await navigator.clipboard.writeText(readerText.textContent);
+		button.title = 'Text kopiert';
+		button.setAttribute('aria-label', 'Text kopiert');
+		button.classList.add('copied');
+		window.setTimeout(() => {
+			button.title = 'Text kopieren';
+			button.setAttribute('aria-label', 'Text kopieren');
+			button.classList.remove('copied');
+		}, 1400);
+	} catch {
+		button.title = 'Kopieren nicht möglich';
+		button.setAttribute('aria-label', 'Kopieren nicht möglich');
 	}
 });
 

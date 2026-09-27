@@ -49,25 +49,11 @@
       Nach Themen geordnet. Mit Quellen versehen. Zum Lesen bereit.
     </p>
 
-    <div class="counters">
-      <div class="counter">
-        <div class="num">1.800</div>
-        <div class="lbl">BEKANNTE ROLLEN</div>
-      </div>
-      <div class="counter">
-        <div class="num" id="counter-trans">—</div>
-        <div class="lbl">ÜBERSETZTE TEXTE</div>
-      </div>
-      <div class="counter">
-        <div class="num" id="counter-themes">—</div>
-        <div class="lbl">THEMEN</div>
-      </div>
-    </div>
   </section>
 
   <div class="section-title">
     <div class="eyebrow">WÄHLE EIN THEMA</div>
-    <h2>Zehn Fenster zur Antike</h2>
+    <h2>Themen aus der Villa</h2>
   </div>
 
   <section class="themes" id="themesGrid">
@@ -80,9 +66,17 @@
         <div class="author" id="rAuthor"></div>
         <div class="work" id="rWork"></div>
       </div>
-      <div class="reader-tabs" role="tablist">
-        <button class="reader-tab active" data-lang="de" role="tab" aria-selected="true">DEUTSCH</button>
-        <button class="reader-tab" data-lang="greek" role="tab" aria-selected="false">GRIECHISCH</button>
+      <div class="reader-actions">
+        <div class="reader-tabs" role="tablist">
+          <button class="reader-tab active" data-lang="de" role="tab" aria-selected="true">DEUTSCH</button>
+          <button class="reader-tab" data-lang="greek" role="tab" aria-selected="false">GRIECHISCH</button>
+        </div>
+        <button class="copy-button" id="copyText" type="button" title="Text kopieren" aria-label="Text kopieren">
+          <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <rect x="8" y="8" width="12" height="13" rx="2"></rect>
+            <path d="M16 8V5a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v11a2 2 0 0 0 2 2h2"></path>
+          </svg>
+        </button>
       </div>
     </div>
 
@@ -99,26 +93,8 @@
 
     <div class="reader-nav">
       <button id="rPrev" aria-label="Vorheriger Text">← Zurück</button>
-      <span id="rCount">— / —</span>
+      <span id="rCount" aria-live="polite">— / —</span>
       <button id="rNext" aria-label="Nächster Text">Weiter →</button>
-    </div>
-  </section>
-
-  <div class="section-title">
-    <div class="eyebrow">DER STAND DER DINGE</div>
-    <h2>Was bereits geöffnet ist</h2>
-  </div>
-
-  <section class="overview">
-    <div class="overview-bar">
-      <div class="open" style="width: 4.3%;" title="78 vollständig übersetzt"></div>
-      <div class="reading" style="width: 8.7%;" title="157 in Bearbeitung"></div>
-      <div class="pending" style="width: 87%;" title="1.565 ungeöffnet"></div>
-    </div>
-    <div class="overview-legend">
-      <span class="l-open">78 übersetzt (4,3 %)</span>
-      <span class="l-reading">157 in Bearbeitung (8,7 %)</span>
-      <span class="l-pending">1.565 in der KI-Pipeline (87,0 %)</span>
     </div>
   </section>
 
