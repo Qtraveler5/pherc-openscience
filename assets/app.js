@@ -76,10 +76,21 @@ function renderText() {
 
 async function loadCollection() {
 	const responses = await Promise.all(
-		themeFiles.map((name) => fetch(`data/${name}.json`).then((response) => {
-			if (!response.ok) throw new Error(`data/${name}.json konnte nicht geladen werden`);
-			return response.json();
-		}))
+		themeFiles.map(async (name) => {
+			const path = `data/${name}.json?v=3`;
+			let response;
+			try {
+				response = await fetch(path, { cache: 'no-store' });
+			} catch {
+				throw new Error(`${path} ist nicht erreichbar`);
+			}
+			if (!response.ok) throw new Error(`${path} antwortet mit HTTP ${response.status}`);
+			try {
+				return await response.json();
+			} catch {
+				throw new Error(`${path} enthält kein gültiges JSON`);
+			}
+		})
 	);
 
 	state.themes = responses;
@@ -134,6 +145,22 @@ document.querySelector('#copyText')?.addEventListener('click', async (event) => 
 createStars();
 
 loadCollection().catch((error) => {
-	themesGrid.innerHTML = '<div class="loading">Die Sammlung konnte nicht geladen werden.</div>';
+	themesGrid.innerHTML = '';
+	const message = document.createElement('div');
+	message.className = 'loading';
+	message.textContent = `Die Sammlung konnte nicht geladen werden: ${error.message}`;
+	const retry = document.createElement('button');
+	retry.className = 'retry-button';
+	retry.type = 'button';
+	retry.textContent = 'Erneut versuchen';
+	retry.addEventListener('click', () => {
+		message.textContent = 'Die Sammlung wird geladen…';
+		retry.remove();
+		loadCollection().catch((retryError) => {
+			message.textContent = `Die Sammlung konnte nicht geladen werden: ${retryError.message}`;
+			themesGrid.append(retry);
+		});
+	});
+	themesGrid.append(message, retry);
 	console.error(error);
 });
